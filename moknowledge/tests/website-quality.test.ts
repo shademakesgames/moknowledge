@@ -69,3 +69,11 @@ test("cookie, trademark, and heading text is not a customer need or differentiat
   assert.ok(!(needs as string[]).some(line => /cookies|trademark|See What/.test(line)));
   assert.deepEqual(record.sections.positioning.differentiators.value, ["We specialize in payroll for small clinics across Oregon."]);
 });
+
+test("a blog post whose slug names a service is not an offering", () => {
+  const html = `<html><head><title>The Most Common Accounting Mistakes</title></head><body><main><h1>The Most Common Accounting Mistakes Small Business Owners Make</h1><p>${"Many owners mix personal and business spending, which makes tax season harder. ".repeat(3)}</p></main></body></html>`;
+  const record = run(html, "https://account-it.net/blog/the-most-common-accounting-mistakes", false);
+  assert.equal(record.offerings.length, 0);
+  const service = run(`<html><head><title>Payroll</title></head><body><main><h1>Florida Payroll Services</h1><p>${"We run payroll for Boynton Beach businesses every pay period. ".repeat(3)}</p></main></body></html>`, "https://account-it.net/services/payroll", false);
+  assert.deepEqual(service.offerings.map(entry => fieldText(entry.fields.name)), ["Florida Payroll Services"]);
+});

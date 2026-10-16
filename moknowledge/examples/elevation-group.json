@@ -1,0 +1,1037 @@
+{
+  "schemaVersion": 1,
+  "id": "cb71fc62-443f-4e7c-9f3a-6cf106752e89",
+  "version": 1,
+  "createdAt": "2026-10-16T23:51:19.459Z",
+  "updatedAt": "2026-10-16T23:51:42.411Z",
+  "requestedUrl": "https://elevationgroupaz.com/",
+  "sections": {
+    "foundation": {
+      "name": {
+        "value": "Elevation Group",
+        "status": "extracted",
+        "sources": [
+          {
+            "url": "https://elevationgroupaz.com/",
+            "excerpt": "Elevation Group",
+            "locator": "brand matching the domain, footer legal name, or title",
+            "retrievedAt": "2026-10-16T23:51:20.033Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "overview": {
+        "value": "Arizona’s trusted real estate team led by Kelly Jones. Explore luxury homes in Scottsdale, Paradise Valley, Arcadia, and Phoenix with Elevation Group.",
+        "status": "extracted",
+        "sources": [
+          {
+            "url": "https://elevationgroupaz.com/",
+            "excerpt": "Arizona’s trusted real estate team led by Kelly Jones. Explore luxury homes in Scottsdale, Paradise Valley, Arcadia, and Phoenix with Elevation Group.",
+            "locator": "meta description / first content paragraph",
+            "retrievedAt": "2026-10-16T23:51:20.033Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "website": {
+        "value": "https://elevationgroupaz.com/",
+        "status": "extracted",
+        "sources": [
+          {
+            "url": "https://elevationgroupaz.com/",
+            "excerpt": "https://elevationgroupaz.com/",
+            "locator": "final response URL",
+            "retrievedAt": "2026-10-16T23:51:20.032Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "logo": {
+        "value": "https://elevationgroupaz.com/wp-content/uploads/2025/11/elevationgroup-logo.webp",
+        "status": "inferred",
+        "sources": [
+          {
+            "url": "https://elevationgroupaz.com/",
+            "excerpt": "https://elevationgroupaz.com/wp-content/uploads/2025/11/elevationgroup-logo.webp",
+            "locator": "header logo image",
+            "retrievedAt": "2026-10-16T23:51:20.035Z"
+          },
+          {
+            "url": "https://elevationgroupaz.com/",
+            "excerpt": "https://elevationgroupaz.com/wp-content/uploads/2025/12/cropped-imgi_261_Untitled2160%C3%971080pxCircleSticker-180x180.png",
+            "locator": "apple-touch-icon",
+            "retrievedAt": "2026-10-16T23:51:20.035Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "industry": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "businessModel": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "companyRole": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "yearFounded": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "legalEntityType": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "employeeCount": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "mainAddress": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "phones": {
+        "value": [
+          "(480) 399-9322",
+          "(480) 482-9260",
+          "(480) 370-0941"
+        ],
+        "status": "extracted",
+        "sources": [
+          {
+            "url": "https://elevationgroupaz.com/",
+            "excerpt": "(480) 399-9322; (480) 482-9260",
+            "locator": "tel: links and page text",
+            "retrievedAt": "2026-10-16T23:51:20.045Z"
+          },
+          {
+            "url": "https://elevationgroupaz.com/contact-us/",
+            "excerpt": "(480) 399-9322",
+            "locator": "tel: links and page text",
+            "retrievedAt": "2026-10-16T23:51:22.194Z"
+          },
+          {
+            "url": "https://elevationgroupaz.com/elizabeth-flynn/",
+            "excerpt": "(480) 370-0941",
+            "locator": "tel: links and page text",
+            "retrievedAt": "2026-10-16T23:51:23.493Z"
+          },
+          {
+            "url": "https://elevationgroupaz.com/thomas-scott/",
+            "excerpt": "(480) 482-9260",
+            "locator": "tel: links and page text",
+            "retrievedAt": "2026-10-16T23:51:23.498Z"
+          },
+          {
+            "url": "https://elevationgroupaz.com/kelly-jones/",
+            "excerpt": "(480) 399-9322",
+            "locator": "tel: links and page text",
+            "retrievedAt": "2026-10-16T23:51:23.503Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "emails": {
+        "value": [
+          "kelly@elevationgroupaz.com",
+          "thomas@elevationgroupaz.com",
+          "info@elevationgroupaz.com"
+        ],
+        "status": "extracted",
+        "sources": [
+          {
+            "url": "https://elevationgroupaz.com/",
+            "excerpt": "kelly@elevationgroupaz.com; thomas@elevationgroupaz.com; info@elevationgroupaz.com",
+            "locator": "mailto: links and page text",
+            "retrievedAt": "2026-10-16T23:51:20.045Z"
+          },
+          {
+            "url": "https://elevationgroupaz.com/privacy-policy/",
+            "excerpt": "info@elevationgroupaz.com",
+            "locator": "mailto: links and page text",
+            "retrievedAt": "2026-10-16T23:51:23.488Z"
+          },
+          {
+            "url": "https://elevationgroupaz.com/thomas-scott/",
+            "excerpt": "thomas@elevationgroupaz.com",
+            "locator": "mailto: links and page text",
+            "retrievedAt": "2026-10-16T23:51:23.498Z"
+          },
+          {
+            "url": "https://elevationgroupaz.com/kelly-jones/",
+            "excerpt": "kelly@elevationgroupaz.com",
+            "locator": "mailto: links and page text",
+            "retrievedAt": "2026-10-16T23:51:23.503Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "platforms": {
+        "value": [
+          "WordPress 7.1.3",
+          "WordPress",
+          "Google Analytics",
+          "Google Tag Manager"
+        ],
+        "status": "inferred",
+        "sources": [
+          {
+            "url": "https://elevationgroupaz.com/",
+            "excerpt": "WordPress 7.1.3; WordPress; Google Analytics; Google Tag Manager",
+            "locator": "scripts, stylesheets, and generator meta",
+            "retrievedAt": "2026-10-16T23:51:20.045Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "siteLanguage": {
+        "value": "en-US",
+        "status": "extracted",
+        "sources": [
+          {
+            "url": "https://elevationgroupaz.com/",
+            "excerpt": "en-US",
+            "locator": "html lang attribute",
+            "retrievedAt": "2026-10-16T23:51:20.045Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "otherLocations": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "serviceLocations": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "alternativeNames": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      }
+    },
+    "positioning": {
+      "pitch": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "foundingStory": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "differentiators": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      }
+    },
+    "market": {
+      "targetBuyers": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "customerNeeds": {
+        "value": [
+          "Whether you’re looking for a luxury home, a family residence, or a modern condo, Elevation Group can help you find the perfect property in this remarkable desert city.",
+          "Whether you are searching for a family home or a private retreat, Elevation Group can help you find your ideal property in Arcadia."
+        ],
+        "status": "inferred",
+        "sources": [
+          {
+            "url": "https://elevationgroupaz.com/phoenix/",
+            "excerpt": "Whether you’re looking for a luxury home, a family residence, or a modern condo, Elevation Group can help you find the perfect property in this remarkable desert city.",
+            "locator": "customer problem / benefit statements",
+            "retrievedAt": "2026-10-16T23:51:23.515Z"
+          },
+          {
+            "url": "https://elevationgroupaz.com/arcadia/",
+            "excerpt": "Whether you are searching for a family home or a private retreat, Elevation Group can help you find your ideal property in Arcadia.",
+            "locator": "customer problem / benefit statements",
+            "retrievedAt": "2026-10-16T23:51:23.531Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "idealPersona": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "industryGroupings": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "industryOutlook": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "channels": {
+        "value": [
+          "https://elevationgroupaz.com/"
+        ],
+        "status": "extracted",
+        "sources": [
+          {
+            "url": "https://elevationgroupaz.com/",
+            "excerpt": "https://elevationgroupaz.com/",
+            "locator": "company website",
+            "retrievedAt": "2026-10-16T23:51:20.033Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "funnels": {
+        "value": [
+          "Website form"
+        ],
+        "status": "inferred",
+        "sources": [
+          {
+            "url": "https://elevationgroupaz.com/contact-us/",
+            "excerpt": "Website form",
+            "locator": "forms and signup / booking links",
+            "retrievedAt": "2026-10-16T23:51:22.191Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "ctas": {
+        "value": [
+          "Contact Us — https://elevationgroupaz.com/contact-us/"
+        ],
+        "status": "extracted",
+        "sources": [
+          {
+            "url": "https://elevationgroupaz.com/",
+            "excerpt": "Contact Us — https://elevationgroupaz.com/contact-us/",
+            "locator": "action links",
+            "retrievedAt": "2026-10-16T23:51:20.037Z"
+          },
+          {
+            "url": "https://elevationgroupaz.com/featured-listings/",
+            "excerpt": "Contact Us — https://elevationgroupaz.com/contact-us/",
+            "locator": "action links",
+            "retrievedAt": "2026-10-16T23:51:23.507Z"
+          },
+          {
+            "url": "https://elevationgroupaz.com/phoenix/",
+            "excerpt": "Contact Us — https://elevationgroupaz.com/contact-us/",
+            "locator": "action links",
+            "retrievedAt": "2026-10-16T23:51:23.515Z"
+          },
+          {
+            "url": "https://elevationgroupaz.com/paradise-valley/",
+            "excerpt": "Contact Us — https://elevationgroupaz.com/contact-us/",
+            "locator": "action links",
+            "retrievedAt": "2026-10-16T23:51:23.523Z"
+          },
+          {
+            "url": "https://elevationgroupaz.com/arcadia/",
+            "excerpt": "Contact Us — https://elevationgroupaz.com/contact-us/",
+            "locator": "action links",
+            "retrievedAt": "2026-10-16T23:51:23.531Z"
+          },
+          {
+            "url": "https://elevationgroupaz.com/scottsdale/",
+            "excerpt": "Contact Us — https://elevationgroupaz.com/contact-us/",
+            "locator": "action links",
+            "retrievedAt": "2026-10-16T23:51:23.538Z"
+          },
+          {
+            "url": "https://elevationgroupaz.com/sold-listings/",
+            "excerpt": "Contact Us — https://elevationgroupaz.com/contact-us/",
+            "locator": "action links",
+            "retrievedAt": "2026-10-16T23:51:23.541Z"
+          },
+          {
+            "url": "https://elevationgroupaz.com/blog/",
+            "excerpt": "Contact Us — https://elevationgroupaz.com/contact-us/",
+            "locator": "action links",
+            "retrievedAt": "2026-10-16T23:51:23.550Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "partners": {
+        "value": [
+          "Elevation Group has proudly partnered with the Grigg’s Group Powered by The Altman Brothers."
+        ],
+        "status": "extracted",
+        "sources": [
+          {
+            "url": "https://elevationgroupaz.com/",
+            "excerpt": "Elevation Group has proudly partnered with the Grigg’s Group Powered by The Altman Brothers.",
+            "locator": "explicit partner statements",
+            "retrievedAt": "2026-10-16T23:51:20.037Z"
+          }
+        ],
+        "reviewed": false
+      }
+    },
+    "branding": {
+      "writingStyle": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "artStyle": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "fonts": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "colors": {
+        "value": [
+          "#faca51"
+        ],
+        "status": "inferred",
+        "sources": [
+          {
+            "url": "https://elevationgroupaz.com/",
+            "excerpt": "#faca51",
+            "locator": "inline styles / style blocks, most used brand colors",
+            "retrievedAt": "2026-10-16T23:51:20.036Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "logos": {
+        "value": [
+          "https://elevationgroupaz.com/wp-content/uploads/2025/11/elevationgroup-logo.webp",
+          "http://elevationgroupaz.com/wp-content/uploads/2025/11/elevationgroup-logo.webp"
+        ],
+        "status": "inferred",
+        "sources": [
+          {
+            "url": "https://elevationgroupaz.com/",
+            "excerpt": "https://elevationgroupaz.com/wp-content/uploads/2025/11/elevationgroup-logo.webp; http://elevationgroupaz.com/wp-content/uploads/2025/11/elevationgroup-logo.webp",
+            "locator": "header / logo image candidates",
+            "retrievedAt": "2026-10-16T23:51:20.035Z"
+          }
+        ],
+        "reviewed": false
+      }
+    },
+    "presence": {
+      "linkedin": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "facebook": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "instagram": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "x": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "youtube": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "tiktok": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "other": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      }
+    },
+    "insights": {
+      "faqs": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "testimonials": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "certifications": {
+        "value": [
+          "Kelly is a member of Arizona’s Valley of the Sun Billion Dollar Club with sales figures reaching the $300 million mark."
+        ],
+        "status": "extracted",
+        "sources": [
+          {
+            "url": "https://elevationgroupaz.com/kelly-jones/",
+            "excerpt": "Kelly is a member of Arizona’s Valley of the Sun Billion Dollar Club with sales figures reaching the $300 million mark.",
+            "locator": "credential statements (not independently verified)",
+            "retrievedAt": "2026-10-16T23:51:23.502Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "topics": {
+        "value": [
+          "Blogs"
+        ],
+        "status": "inferred",
+        "sources": [
+          {
+            "url": "https://elevationgroupaz.com/blog/",
+            "excerpt": "Blogs",
+            "locator": "article heading",
+            "retrievedAt": "2026-10-16T23:51:23.551Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "claims": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "promotions": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      }
+    },
+    "legal": {
+      "privacyPolicyUrl": {
+        "value": "https://elevationgroupaz.com/privacy-policy/",
+        "status": "extracted",
+        "sources": [
+          {
+            "url": "https://elevationgroupaz.com/",
+            "excerpt": "https://elevationgroupaz.com/privacy-policy/",
+            "locator": "same-site privacy link",
+            "retrievedAt": "2026-10-16T23:51:20.033Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "termsUrl": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "licenses": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "compliance": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "regulatoryNotes": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "dataPractices": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      }
+    }
+  },
+  "people": [
+    {
+      "id": "b03e08b9-6756-4aec-affc-44a76d58689a",
+      "fields": {
+        "name": {
+          "value": "Elizabeth Flynn",
+          "status": "inferred",
+          "sources": [
+            {
+              "url": "https://elevationgroupaz.com/elizabeth-flynn/",
+              "excerpt": "Elizabeth Flynn",
+              "locator": "biography page heading",
+              "retrievedAt": "2026-10-16T23:51:23.493Z"
+            }
+          ],
+          "reviewed": false
+        },
+        "title": {
+          "value": null,
+          "status": "unknown",
+          "sources": [],
+          "reviewed": false
+        },
+        "role": {
+          "value": "Assistant",
+          "status": "extracted",
+          "sources": [
+            {
+              "url": "https://elevationgroupaz.com/elizabeth-flynn/",
+              "excerpt": "Assistant",
+              "locator": "biography page title or opening text",
+              "retrievedAt": "2026-10-16T23:51:23.493Z"
+            }
+          ],
+          "reviewed": false
+        },
+        "gender": {
+          "value": null,
+          "status": "unknown",
+          "sources": [],
+          "reviewed": false
+        },
+        "background": {
+          "value": "Individuals and families who work with Elizabeth Flynn appreciate her calm, thoughtful approach and her firsthand understanding of what it truly means to relocate. Raised in Connecticut in a family that owned and operated a real estate brokerage, Elizabeth was surrounded by real estate from an early age and earned her license there before her journey took her across the country.",
+          "status": "extracted",
+          "sources": [
+            {
+              "url": "https://elevationgroupaz.com/elizabeth-flynn/",
+              "excerpt": "Individuals and families who work with Elizabeth Flynn appreciate her calm, thoughtful approach and her firsthand understanding of what it truly means to relocate. Raised in Connecticut in a family that owned and operated a real estate brokerage, Elizabeth was surrounded by real estate from an early age and earned her license there before her journey took her across the country.",
+              "locator": "biography paragraphs",
+              "retrievedAt": "2026-10-16T23:51:23.493Z"
+            }
+          ],
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "9e4adf97-28d8-4c08-a75a-9c097027c65c",
+      "fields": {
+        "name": {
+          "value": "Thomas Scott",
+          "status": "inferred",
+          "sources": [
+            {
+              "url": "https://elevationgroupaz.com/thomas-scott/",
+              "excerpt": "Thomas Scott",
+              "locator": "biography page heading",
+              "retrievedAt": "2026-10-16T23:51:23.498Z"
+            }
+          ],
+          "reviewed": false
+        },
+        "title": {
+          "value": null,
+          "status": "unknown",
+          "sources": [],
+          "reviewed": false
+        },
+        "role": {
+          "value": "Founding Partner",
+          "status": "extracted",
+          "sources": [
+            {
+              "url": "https://elevationgroupaz.com/thomas-scott/",
+              "excerpt": "Founding Partner",
+              "locator": "biography page title or opening text",
+              "retrievedAt": "2026-10-16T23:51:23.498Z"
+            }
+          ],
+          "reviewed": false
+        },
+        "gender": {
+          "value": null,
+          "status": "unknown",
+          "sources": [],
+          "reviewed": false
+        },
+        "background": {
+          "value": "Thomas has been in the Real Estate Business since 2007. He worked for one of the top teams in Minnesota at RE/MAX Results (The Kris Lindahl Team). In 2017, Thomas joined Russ Lyon Sotheby’s International Realty and has been recognized as a top producing agent in the Valley. He has extensive knowledge when it comes to trends, marketing, new construction, and investment properties. Instead of being reactive, he takes a proactive approach when it comes to working with his clients, providing off-market opportunities for buyers to explore and actively seeking out buyers instead of simply throwing a sign in the yard. An avid golfer, Thomas enjoys traveling and meeting new people. In 2016, he moved to Arizona from his native Minnesota for the warm weather.",
+          "status": "extracted",
+          "sources": [
+            {
+              "url": "https://elevationgroupaz.com/thomas-scott/",
+              "excerpt": "Thomas has been in the Real Estate Business since 2007. He worked for one of the top teams in Minnesota at RE/MAX Results (The Kris Lindahl Team). In 2017, Thomas joined Russ Lyon Sotheby’s International Realty and has been recognized as a top producing agent in the Valley. He has extensive knowledge when it comes to trends, marketing, new construction, and investment properties. Instead of being reactive, he takes a proactive approach when it comes to working with his clients, providing off-market opportunities for buyers to explore and actively seeking out buyers instead of simply throwing a sign in the yard. An avid golfer, Thomas enjoys traveling and meeting new people. In 2016, he moved to Arizona from his native Minnesota for the warm weather.",
+              "locator": "biography paragraphs",
+              "retrievedAt": "2026-10-16T23:51:23.498Z"
+            }
+          ],
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "ea944711-251f-4b4c-b633-6b314f97c351",
+      "fields": {
+        "name": {
+          "value": "Kelly Jones",
+          "status": "inferred",
+          "sources": [
+            {
+              "url": "https://elevationgroupaz.com/kelly-jones/",
+              "excerpt": "Kelly Jones",
+              "locator": "biography page heading",
+              "retrievedAt": "2026-10-16T23:51:23.502Z"
+            }
+          ],
+          "reviewed": false
+        },
+        "title": {
+          "value": null,
+          "status": "unknown",
+          "sources": [],
+          "reviewed": false
+        },
+        "role": {
+          "value": "Founding Partner",
+          "status": "extracted",
+          "sources": [
+            {
+              "url": "https://elevationgroupaz.com/kelly-jones/",
+              "excerpt": "Founding Partner",
+              "locator": "biography page title or opening text",
+              "retrievedAt": "2026-10-16T23:51:23.502Z"
+            }
+          ],
+          "reviewed": false
+        },
+        "gender": {
+          "value": null,
+          "status": "unknown",
+          "sources": [],
+          "reviewed": false
+        },
+        "background": {
+          "value": "Individuals who have decided to sell their home, have without exception, been more than happy with the results that she has achieved for them. Kelly’s extensive networking and advertising/marketing allows her to liaise with a range of agents and prospective buyers across the valley. Kelly’s ability to provide honest and accurate valuation of individual homes is beneficial to a more expedient sale. And as a result many of her new clients come about as a result of referrals. Raised in Seattle, Kelly spent a significant part of her life in San Francisco before relocating to Arizona with her husband Steve. They have two sons and a granddaughter Cecilia. Kelly is a member of Arizona’s Valley of the Sun Billion Dollar Club with sales figures reaching the $300 million mark. Kelly also resides in Paradise Valley and focuses on the Paradise Valley, Arcadia and Scottsdale markets. She is a part of TAN, an exclusive luxury real estate network designed for elite agents. Additionally, she is a co-founder partner of Elevation Group.",
+          "status": "extracted",
+          "sources": [
+            {
+              "url": "https://elevationgroupaz.com/kelly-jones/",
+              "excerpt": "Individuals who have decided to sell their home, have without exception, been more than happy with the results that she has achieved for them. Kelly’s extensive networking and advertising/marketing allows her to liaise with a range of agents and prospective buyers across the valley. Kelly’s ability to provide honest and accurate valuation of individual homes is beneficial to a more expedient sale. And as a result many of her new clients come about as a result of referrals. Raised in Seattle, Kelly spent a significant part of her life in San Francisco before relocating to Arizona with her husband Steve. They have two sons and a granddaughter Cecilia. Kelly is a member of Arizona’s Valley of the Sun Billion Dollar Club with sales figures reaching the $300 million mark. Kelly also resides in Paradise Valley and focuses on the Paradise Valley, Arcadia and Scottsdale markets. She is a part of TAN, an exclusive luxury real estate network designed for elite agents. Additionally, she is a co-founder partner of Elevation Group.",
+              "locator": "biography paragraphs",
+              "retrievedAt": "2026-10-16T23:51:23.502Z"
+            }
+          ],
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "offerings": [],
+  "competitors": [],
+  "crawl": {
+    "pages": [
+      {
+        "url": "https://elevationgroupaz.com/",
+        "title": "Elevation Group | Scottsdale Luxury Real Estate Experts",
+        "status": "success",
+        "meta": {
+          "viewport": "width=device-width, initial-scale=1",
+          "description": "Arizona’s trusted real estate team led by Kelly Jones. Explore luxury homes in Scottsdale, Paradise Valley, Arcadia, and Phoenix with Elevation Group.",
+          "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+          "og:locale": "en_US",
+          "og:type": "website",
+          "og:title": "Elevation Group | Scottsdale Luxury Real Estate Experts",
+          "og:description": "Arizona’s trusted real estate team led by Kelly Jones. Explore luxury homes in Scottsdale, Paradise Valley, Arcadia, and Phoenix with Elevation Group.",
+          "og:url": "https://elevationgroupaz.com/",
+          "og:site_name": "Kelly Jones Scottsdale Luxury Real Estate Agent",
+          "og:updated_time": "2025-12-23T20:31:00+00:00",
+          "og:image": "https://elevationgroupaz.com/wp-content/uploads/2025/11/elevationgroup-logo.webp",
+          "og:image:secure_url": "https://elevationgroupaz.com/wp-content/uploads/2025/11/elevationgroup-logo.webp",
+          "og:image:width": "1146",
+          "og:image:height": "560",
+          "og:image:alt": "Elevation Groupaz Logo",
+          "og:image:type": "image/webp",
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Elevation Group | Scottsdale Luxury Real Estate Experts",
+          "twitter:description": "Arizona’s trusted real estate team led by Kelly Jones. Explore luxury homes in Scottsdale, Paradise Valley, Arcadia, and Phoenix with Elevation Group.",
+          "twitter:image": "https://elevationgroupaz.com/wp-content/uploads/2025/11/elevationgroup-logo.webp",
+          "twitter:label1": "Written by",
+          "twitter:data1": "Eileen Taggart",
+          "twitter:label2": "Time to read",
+          "twitter:data2": "1 minute",
+          "generator": "Elementor 4.3.4; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto",
+          "msapplication-tileimage": "https://elevationgroupaz.com/wp-content/uploads/2025/12/cropped-imgi_261_Untitled2160×1080pxCircleSticker-270x270.png",
+          "canonical": "https://elevationgroupaz.com/",
+          "apple-touch-icon": "https://elevationgroupaz.com/wp-content/uploads/2025/12/cropped-imgi_261_Untitled2160%C3%971080pxCircleSticker-180x180.png",
+          "lang": "en-US"
+        },
+        "headings": [
+          "Arizona’s Premier Real Estate Team",
+          "About Elevation Group",
+          "Meet The Team",
+          "Kelly Jones",
+          "Thomas Scott",
+          "Featured Listings",
+          "Our Recent Sales",
+          "Committed to Client Satisfaction",
+          "Neighborhood",
+          "Scottsdale",
+          "Arcadia",
+          "Paradise Valley",
+          "Phoenix",
+          "Work With Elevation Group"
+        ],
+        "content": "Skip to content ARIZONA’S MOST TRUSTED REALTORS Arizona’s Premier Real Estate Team Contact Now (480) 399-9322 Years of Experience 0 + Client Satisfaction 0 % Real Estate Sold 0 M+ Listing Conversion 0 % About Elevation Group Elevation Group has proudly partnered with the Grigg’s Group Powered by The Altman Brothers. With over 50 years of experience and $8.5B in career sales the partnership is set to redefine luxury real estate standards in Arizona. With a robust network of luxury buyers, including entertainers, athletes, and high-net-worth individuals, the Grigg’s Group and Altman Brothers are renowned for marketing iconic properties. Meet The Team Meet the experienced real estate professionals of Elevation Group, serving Scottsdale, Paradise Valley, Arcadia, and the Greater Phoenix area with expert guidance and personalized service. Kelly Jones Founding Partner kelly@elevationgroupaz.com 480-399-9322 Read Bio Thomas Scott Founding Partner thomas@elevationgroupaz.com 480-482-9260 Read Bio Featured Listings Explore Elevation Group’s collection of premier Arizona properties, featuring luxury estates in Paradise Valley, elegant homes in Arcadia, and exclusive listings across Scottsdale’s most desirable neighborhoods. $3,600,000 6347 E CARRIAGE DR, Cave Creek, AZ $5,850,000 37200 N CAVE CREEK RD 1017, Scottsdale $3,600,000 9411 E Happy Valley RD | Scottsdale $3,600,000 7000 N 39th PL | Paradise Valley $3,600,000 7153 E Ironwood DR | Paradise Valley $3,600,000 6933 E Fanfol DR | Paradise Valley Exclusive Property Listings Our Recent Sales See how Elevation Group delivers proven results. From luxury estates in Paradise Valley to elegant family homes across Scottsdale and Phoenix, our team has helped clients achieve exceptional real estate success. $11,537,235 Paradise Valley $5,570,000 Paradise Valley $3,176,000 Phoenix $4,495,000 Paradise Valley $3,900,000 Paradise Valley $3,525,000 Chandler $1,300,000 Scottsdale $1,550,000 Paradise Valley $1,900,000 Scottsdale Exclusive Property Listings Committed to Client Satisfaction At Elevation Group, we’re dedicated to exceptional service and client satisfaction, helping buyers and sellers experience Arizona’s finest homes, golf communities, and luxury lifestyles. Md Rony Hossain 5 months ago Kelly Jones I had an outstanding experience working with Kelly Jones during my home search in Scottsdale. From the beginning, she demonstrated deep knowledge of the luxury real estate market and provided clear, honest guidance at every step. Kelly was always responsive, patient, and attentive to exactly what I was looking for. She didn’t just show properties—she helped me understand value, location advantages, and long-term investment potential, which made a big difference in my decision-making. What stood out most was her professionalism combined with genuine care. She made the entire process smooth, stress-free, and efficient, even in a competitive market. I would highly recommend Kelly Jones to anyone looking for a dedicated and highly skilled luxury real estate agent in Scottsdale. tanwi Mazumder 8 months ago ⭐️⭐️⭐️⭐️⭐️ Working with Kelly Jones was an absolute pleasure from start to finish! Kelly’s expertise in the Scottsdale luxury market is truly exceptional — she knows the area inside and out and guided me with confidence, professionalism, and genuine care. Her attention to detail, strategic insights, and thoughtful communication made the entire process smooth, efficient, and stress‑free. Kelly was always available to answer questions, offer sound advice, and ensure I felt comfortable and informed every step of the way. She went above and beyond to exceed my expectations, and I couldn’t be happier with the results. If you’re looking for a dedicated, knowledgeable, and trustworthy luxury real estate agent in Scottsdale, Kelly is the one to choose! Munni Islam 8 months ago ⭐⭐⭐⭐⭐ I had an outstanding experience with Kelly Jones, Scottsdale Luxury Real Estate Agent! Kelly is professional, knowledgeable, and truly committed to helping her clients achieve their real estate goals. From start to finish, she made the entire process smooth, stress-free, and enjoyable. Her expertise in the Scottsdale luxury market, combined with clear communication and exceptional negotiation skills, gave me complete confidence every step of the way. Kelly was always responsive, attentive to detail, and genuinely focused on achieving the best possible outcome. If you’re looking for a reliable, experienced, and client-focused luxury real estate agent, I highly recommend Kelly Jones. Five stars all the way! 🌟 Wendy Callaghan 5 years ago When my Goth girl daughter wanted to buy her first home in the 2021 crazy competitive market, I immediately thought of Kelly because I witnessed her fight for the best deal for her client against a jerk homebuilder and shut him down. My daughter was looking in some funky neighborhoods and most of the properties were far from \"luxury\", but Kelly was exceptional in helping her secure a nice condo at a fair price. We truly appreciate your help. In the local sea of skinny blonde real estate agents, Kelly is a shark-- She deserves every success! Elizabeth Tatum 5 years ago Kelly is an amazing real estate agent who took the time to listen to us and understand our requirements. She shared viable options given the market conditions. Kelly was patient and left no detail unattended. She has a gift and vision to suggest how a house might be transformed into the one of your dreams. Kelly has a strong understanding of the real estate market and has many resources in which to draw from. She is a true gem. We highly recommend Kelly to anyone in the market for a new home. Patricia Mickelson 5 years ago Kelly Jones found our son and daughter in law’s home and they found her to be easy to work with and very attentive. When we were ready to move down to the valley we contacted her to help us find our new home. Meeting her for the first time was a delight because she is so darn easy to talk to! She really listened to what we thought we wanted and guided us in how to evaluate a property. Kelly is extremely knowledgeable about the area and took care to steer us in the right direction. It was important to her to assist us in finding the right property, the place that would feel like home! She took great care of us during the process to buy the house including returning calls and emails to answer lots of questions. Even after closing she assisted us with referrals for a contractor for some remodeling and other resources. We highly recommend Kelly Jones for her energy, her insight, her humor, and thoughtfulness. Mike and Pat Mickelson Kat 5 years ago We were very lucky to find Kelly through a mutual friend. She helped us find the perfect home and without her and her network, we would have never had the opportunity to purchase it (since we found it before it was ever even listed). She has been a wealth of knowledge along the way and always so patient. She truly is a gem and we would highly recommend her to anyone. Andrew Phares 5 years ago Kelly really helped me through my first time buying a home. She was very knowledgeable and responded to all my questions quickly. I’d definitely recommend her and will be calling on her again in the future. Thanks Kelly! Munyema Hasan 5 years ago Kelly is a class act. She's not just a seasoned realtor. She's passionate about what she does, a straight talker, and prioritizes your needs no matter what. Corinne Monson 5 years ago Kelly is an A plus realtor and we are so grateful to have found her as first time home buyers. She made everything as clear and simple as possible and held our hands every step of the way in this current insane market. We always felt like we were in good hands and she went over and beyond what was expected of her as a realtor. We can't recommend her enough. Jay Weinberger 6 years ago When looking for a home in Scottsdale, we had the tremendously good luck of finding Kelly. Living in Chicago we had only three days to find our dream home. It seemed like every place we toured was better than the previous! She clearly understood what we were looking for. Not only did Kelly make the search fun, she’s been a valuable resource after the closing with suggestions for contractors or other services providers. Kelly provided the attentive attention to details that discerning buyers will surely appreciate. Thank you Kelly, for make our dream a reality! Jay and Julie Weinberger Neighborhood Explore Arizona’s most desirable communities, including Scottsdale, Arcadia, Paradise Valley, and Phoenix each offering luxury homes, vibrant lifestyles, and breathtaking desert scenery. Scottsdale View Listings Arcadia View Listings Paradise Valley View Listings Phoenix View Listings Work With Elevation Group Assisting Buyers and Sellers of Exceptional Luxury Homes Providing expert professional service & representation With integrity, courtesy, and gratitude. Contact Us"
+      },
+      {
+        "url": "https://elevationgroupaz.com/contact-us/",
+        "title": "Contact Us",
+        "status": "success",
+        "message": "Read from the WordPress REST API",
+        "meta": {},
+        "headings": [
+          "Contact us"
+        ],
+        "content": "Contact us Elevation Group Scottsdale, Arizona (480) 399-9322"
+      },
+      {
+        "url": "https://elevationgroupaz.com/privacy-policy/",
+        "title": "Privacy Policy",
+        "status": "success",
+        "message": "Read from the WordPress REST API",
+        "meta": {},
+        "headings": [
+          "Privacy Policy",
+          "Elevation Group Arizona – Protecting Your Privacy",
+          "1. Collection and Use of Personal Information",
+          "2. Non-Personal Information",
+          "3. Cookies",
+          "4. Sharing of Information",
+          "5. Data Security",
+          "6. Children’s Privacy",
+          "7. Updates to This Policy",
+          "8. Contact Us"
+        ],
+        "content": "Privacy Policy Elevation Group Arizona – Protecting Your Privacy At ElevationGroupAZ.com, we respect your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your data when you visit our website or use our real estate services. 1. Collection and Use of Personal Information When you contact us through our website, schedule a consultation, or request property details, we may collect information such as your name, email address, phone number, and mailing address. We use this information only to respond to your inquiries, provide updates, and deliver professional real estate services tailored to your needs. 2. Non-Personal Information We may collect non-personal data such as your browser type, device, IP address, and the pages you visit on our site. This information helps us understand user behavior, improve website performance, and enhance your browsing experience. It is collected in aggregate form and not linked to any personally identifiable data. 3. Cookies Our website uses cookies to improve your experience and track how visitors interact with the site. Cookies are small files stored on your device that help remember your preferences and site activity. You can disable cookies anytime through your browser settings. 4. Sharing of Information We may share limited personal information with trusted third-party service providers who help us manage communication, marketing, or client relationship systems. These partners are required to maintain the confidentiality and security of your information. We never sell or trade your personal data to outside parties. 5. Data Security We take appropriate measures to protect your personal information from unauthorized access, misuse, or disclosure. Sensitive data transmitted through our site is protected using secure encryption technology and stored in protected databases. 6. Children’s Privacy Our website and services are not intended for children under the age of 13. We do not knowingly collect personal information from anyone under 13 years old. If you believe that we may have collected data from a child, please contact us right away so we can remove it promptly. 7. Updates to This Policy We may update or modify this Privacy Policy at any time. All changes will be posted on this page with the updated effective date. 8. Contact Us If you have any questions or concerns about this Privacy Policy or how we handle your information, please contact us at: Email: info@elevationgroupaz.com"
+      },
+      {
+        "url": "https://elevationgroupaz.com/elizabeth-flynn/",
+        "title": "Elizabeth Flynn",
+        "status": "success",
+        "message": "Read from the WordPress REST API",
+        "meta": {},
+        "headings": [
+          "Elizabeth Flynn",
+          "Your Trusted Partner in Real Estate & Relocation",
+          "Work With Elevation Group"
+        ],
+        "content": "Elizabeth Flynn Assistant Individuals and families who work with Elizabeth Flynn appreciate her calm, thoughtful approach and her firsthand understanding of what it truly means to relocate. Raised in Connecticut in a family that owned and operated a real estate brokerage, Elizabeth was surrounded by real estate from an early age and earned her license there before her journey took her across the country. Her life and career have taken her from Connecticut to Minneapolis, then to Orange County, and ultimately to Scottsdale. Because of this, Elizabeth has personal experience with long distance moves, career driven relocations, and the challenges that come with settling into a new city. This allows her to guide clients with clarity, patience, and confidence through every step of the buying and selling process. Now living in Scottsdale with her husband of 13 years and their two children, Elizabeth brings both industry knowledge and real life relocation experience to her clients. She is known for her detail oriented, relationship driven approach and her commitment to making every transaction as smooth and stress free as possible. Your Trusted Partner in Real Estate & Relocation Elizabeth is passionate about helping individuals and families make confident real estate decisions. Whether you are relocating to Arizona, buying your first home, or preparing to sell, she provides honest guidance, strong communication, and reliable support from start to finish. She believes in staying connected even after the transaction is complete and takes pride in being a long term resource for her clients. If you have questions about buying, selling, relocating, or simply getting settled in your new area, Elizabeth would love to connect and help guide you through the process. just pick up the phone and call. 480-370-0941 Work With Elevation Group Assisting Buyers and Sellers of Exceptional Luxury Homes Providing expert professional service & representation With integrity, courtesy, and gratitude. Call Now"
+      },
+      {
+        "url": "https://elevationgroupaz.com/thomas-scott/",
+        "title": "Thomas Scott",
+        "status": "success",
+        "message": "Read from the WordPress REST API",
+        "meta": {},
+        "headings": [
+          "Thomas Scott",
+          "Your Trusted Partner in Luxury Real Estate & Investment",
+          "Work With Elevation Group"
+        ],
+        "content": "Thomas Scott Founding Partner thomas@elevationgroupaz.com 480-482-9260 Thomas has been in the Real Estate Business since 2007. He worked for one of the top teams in Minnesota at RE/MAX Results (The Kris Lindahl Team). In 2017, Thomas joined Russ Lyon Sotheby’s International Realty and has been recognized as a top producing agent in the Valley. He has extensive knowledge when it comes to trends, marketing, new construction, and investment properties. Instead of being reactive, he takes a proactive approach when it comes to working with his clients, providing off-market opportunities for buyers to explore and actively seeking out buyers instead of simply throwing a sign in the yard. An avid golfer, Thomas enjoys traveling and meeting new people. In 2016, he moved to Arizona from his native Minnesota for the warm weather. Your Trusted Partner in Luxury Real Estate & Investment Thomas Scott, Co-Founding Partner of Elevation Group, is recognized for his deep expertise in Arizona’s luxury real estate market and his commitment to delivering exceptional client experiences. With years of experience helping individuals and families relocate to the Valley, Thomas brings a strategic, personalized approach to every transaction. His strong understanding of market trends, property valuation, and investment potential allows him to guide clients toward homes that align with both lifestyle and long-term value. Known for his professionalism, integrity, and results-driven mindset, Thomas is dedicated to creating lasting relationships that extend beyond the closing table. He continues to be a trusted resource for his clients—offering valuable connections, local insights, and ongoing guidance throughout their real estate journey. Whether helping clients buy, sell, or invest, Thomas Scott stands out as a respected leader in Arizona’s luxury real estate community. just pick up the phone and call. 480-482-9260 Work With Elevation Group Assisting Buyers and Sellers of Exceptional Luxury Homes Providing expert professional service & representation With integrity, courtesy, and gratitude. Call Now"
+      },
+      {
+        "url": "https://elevationgroupaz.com/kelly-jones/",
+        "title": "Kelly Jones",
+        "status": "success",
+        "message": "Read from the WordPress REST API",
+        "meta": {},
+        "headings": [
+          "Kelly Jones",
+          "Your Trusted Partner in Luxury Real Estate & Relocation",
+          "Work With Elevation Group"
+        ],
+        "content": "Kelly Jones Founding Partner kelly@elevationgroupaz.com 480-399-9322 www.kellyfjones.com Individuals who have decided to sell their home, have without exception, been more than happy with the results that she has achieved for them. Kelly’s extensive networking and advertising/marketing allows her to liaise with a range of agents and prospective buyers across the valley. Kelly’s ability to provide honest and accurate valuation of individual homes is beneficial to a more expedient sale. And as a result many of her new clients come about as a result of referrals. Raised in Seattle, Kelly spent a significant part of her life in San Francisco before relocating to Arizona with her husband Steve. They have two sons and a granddaughter Cecilia. Kelly is a member of Arizona’s Valley of the Sun Billion Dollar Club with sales figures reaching the $300 million mark. Kelly also resides in Paradise Valley and focuses on the Paradise Valley, Arcadia and Scottsdale markets. She is a part of TAN, an exclusive luxury real estate network designed for elite agents. Additionally, she is a co-founder partner of Elevation Group. Kelly has been instrumental in assisting numerous clients in settling down, many of whom migrated from the West Coast, Midwest and the East Coast. She has enlightened, guided, and aided families in achieving their home aspirations, offering all the necessary tools to uncover the perfect property. Her experience in real estate and keen eye for hidden treasures have been pivotal in maximizing her clients investment returns. Your Trusted Partner in Luxury Real Estate & Relocation I have helped numerous clients relocate, many of them from California. I will inform, guide, and assist you with your luxury home goals and provide you “All of the” necessary tools for finding the right property. I have experience with investing in luxury real estate and have an eye for spotting the hidden gems enabling me to achieve the best possible return on your investment. I will give you peace of mind knowing you have made the right choice. For my sellers, it is my commitment to help sell your home or property in a timely fashion while helping you attain the highest possible price for your real estate. My networks help me connect with many agents and buyers throughout the valley. After the transactions are complete, I keep in touch and will continue to assist you with anything you may need, from naming the best restaurants in your area to helping find tradespeople. On the anniversary date of my clients’ home purchase, I love taking them out to dinner to help them celebrate. If you should have any questions at about real estate, relocating, or just a good restaurant to eat at, I would love to chat with you, just pick up the phone and call. 480-399-9322 Work With Elevation Group Assisting Buyers and Sellers of Exceptional Luxury Homes Providing expert professional service & representation With integrity, courtesy, and gratitude. Call Now"
+      },
+      {
+        "url": "https://elevationgroupaz.com/featured-listings/",
+        "title": "Featured Listings",
+        "status": "success",
+        "message": "Read from the WordPress REST API",
+        "meta": {},
+        "headings": [
+          "Featured Listings",
+          "Work With Elevation Group"
+        ],
+        "content": "Featured Listings $3,600,000 6347 E CARRIAGE DR, Cave Creek, AZ $5,850,000 37200 N CAVE CREEK RD 1017, Scottsdale $3,600,000 9411 E Happy Valley RD | Scottsdale $3,600,000 7000 N 39th PL | Paradise Valley $3,600,000 7153 E Ironwood DR | Paradise Valley $3,600,000 6933 E Fanfol DR | Paradise Valley Work With Elevation Group Assisting Buyers and Sellers of Exceptional Luxury Homes Providing expert professional service & representation With integrity, courtesy, and gratitude. Contact Us"
+      },
+      {
+        "url": "https://elevationgroupaz.com/phoenix/",
+        "title": "Phoenix",
+        "status": "success",
+        "message": "Read from the WordPress REST API",
+        "meta": {},
+        "headings": [
+          "Phoenix Real Estate",
+          "Featured Listings",
+          "Work With Elevation Group",
+          "Our Recent Sales"
+        ],
+        "content": "Phoenix Real Estate Phoenix, Arizona – The Heart of the Southwest Phoenix is one of the most exciting and fast-growing cities in the country. Known for its endless sunshine and desert beauty, the city offers a perfect mix of outdoor adventure, cultural attractions, and modern living. Residents enjoy over 300 days of sunshine each year, making Phoenix ideal for hiking, golfing, and exploring nearby destinations like Camelback Mountain and Papago Park. The city also offers exceptional dining, shopping, and entertainment options along with professional sports teams and a thriving arts scene. With a strong economy, diverse job market, and top-rated schools, Phoenix provides both opportunity and comfort. Whether you’re looking for a luxury home, a family residence, or a modern condo, Elevation Group can help you find the perfect property in this remarkable desert city. Featured Listings Explore Elevation Group’s collection of premier Arizona properties, featuring luxury estates in Paradise Valley, elegant homes in Arcadia, and exclusive listings across Scottsdale’s most desirable neighborhoods. $3,600,000 6347 E CARRIAGE DR, Cave Creek, AZ $5,850,000 37200 N CAVE CREEK RD 1017, Scottsdale $3,600,000 9411 E Happy Valley RD | Scottsdale $3,600,000 7000 N 39th PL | Paradise Valley $3,600,000 7153 E Ironwood DR | Paradise Valley $3,600,000 6933 E Fanfol DR | Paradise Valley Exclusive Property Listings Work With Elevation Group Assisting Buyers and Sellers of Exceptional Luxury Homes Providing expert professional service & representation With integrity, courtesy, and gratitude. Contact Us Our Recent Sales See how Elevation Group delivers proven results. From luxury estates in Paradise Valley to elegant family homes across Scottsdale and Phoenix, our team has helped clients achieve exceptional real estate success. $11,537,235 Paradise Valley $5,570,000 Paradise Valley $3,176,000 Phoenix $4,495,000 Paradise Valley $3,900,000 Paradise Valley $3,525,000 Chandler $1,300,000 Scottsdale $1,550,000 Paradise Valley $1,900,000 Scottsdale Exclusive Property Listings"
+      },
+      {
+        "url": "https://elevationgroupaz.com/paradise-valley/",
+        "title": "Paradise Valley",
+        "status": "success",
+        "message": "Read from the WordPress REST API",
+        "meta": {},
+        "headings": [
+          "Paradise Valley Real Estate",
+          "Experience Life in Paradise Valley",
+          "Featured Listings",
+          "Work With Elevation Group",
+          "Our Recent Sales"
+        ],
+        "content": "Paradise Valley Real Estate Paradise Valley, Arizona – Where Luxury and Natural Beauty Meet Paradise Valley is one of Arizona’s most exclusive and picturesque communities. Surrounded by scenic mountain views and lush desert landscapes, this peaceful town offers a perfect mix of privacy, sophistication, and desert charm. Whether you’re seeking a permanent residence or a luxury retreat, Paradise Valley provides an unmatched setting for refined living. Experience Life in Paradise Valley This community is home to elegant estates, resort-style amenities, and fine dining destinations that define Arizona luxury. Residents enjoy access to golf courses, designer boutiques, and world-class spas, all just minutes from Scottsdale and Phoenix. Beyond its luxury lifestyle, Paradise Valley offers a warm and welcoming atmosphere. From local art festivals and outdoor concerts to farmers markets and community gatherings, it’s a place where neighbors connect and friendships thrive. With year-round sunshine, mild winters, and top-rated schools, Paradise Valley stands out as one of the most desirable places to live in the Southwest. Discover timeless beauty, comfort, and elegance with Elevation Group, your trusted guide to finding a dream home in this extraordinary community. Featured Listings Explore Elevation Group’s collection of premier Arizona properties, featuring luxury estates in Paradise Valley, elegant homes in Arcadia, and exclusive listings across Scottsdale’s most desirable neighborhoods. $3,600,000 6347 E CARRIAGE DR, Cave Creek, AZ $5,850,000 37200 N CAVE CREEK RD 1017, Scottsdale $3,600,000 9411 E Happy Valley RD | Scottsdale $3,600,000 7000 N 39th PL | Paradise Valley $3,600,000 7153 E Ironwood DR | Paradise Valley $3,600,000 6933 E Fanfol DR | Paradise Valley Exclusive Property Listings Work With Elevation Group Assisting Buyers and Sellers of Exceptional Luxury Homes Providing expert professional service & representation With integrity, courtesy, and gratitude. Contact Us Our Recent Sales See how Elevation Group delivers proven results. From luxury estates in Paradise Valley to elegant family homes across Scottsdale and Phoenix, our team has helped clients achieve exceptional real estate success. $11,537,235 Paradise Valley $5,570,000 Paradise Valley $3,176,000 Phoenix $4,495,000 Paradise Valley $3,900,000 Paradise Valley $3,525,000 Chandler $1,300,000 Scottsdale $1,550,000 Paradise Valley $1,900,000 Scottsdale Exclusive Property Listings"
+      },
+      {
+        "url": "https://elevationgroupaz.com/arcadia/",
+        "title": "Arcadia",
+        "status": "success",
+        "message": "Read from the WordPress REST API",
+        "meta": {},
+        "headings": [
+          "Arcadia Real Estate",
+          "Lifestyle & Real Estate Highlights",
+          "Featured Listings",
+          "Work With Elevation Group",
+          "Our Recent Sales"
+        ],
+        "content": "Arcadia Real Estate Arcadia, Arizona – A Timeless Blend of Luxury and Lifestyle Arcadia is one of the most prestigious neighborhoods in the Greater Phoenix area. Ideally located between Scottsdale and downtown Phoenix, this vibrant community offers the perfect balance of upscale living and everyday convenience. Known for its tree-lined streets, citrus groves, and a mix of modern and historic homes, Arcadia captures the true essence of refined desert living. Lifestyle & Real Estate Highlights Outdoor enthusiasts enjoy quick access to Camelback Mountain for hiking, biking, and breathtaking views of the desert landscape. Residents are surrounded by top-tier dining, boutique shopping, and local favorites along Indian School Road and 44th Street. Arcadia’s real estate market features everything from spacious luxury estates with mature landscaping to sleek modern residences designed for comfort and style. Families are drawn to the neighborhood’s highly rated schools and welcoming community atmosphere. With its natural beauty, convenient location, and strong sense of community, Arcadia continues to be one of Phoenix’s most desirable places to live. Whether you are searching for a family home or a private retreat, Elevation Group can help you find your ideal property in Arcadia. Featured Listings Explore Elevation Group’s collection of premier Arizona properties, featuring luxury estates in Paradise Valley, elegant homes in Arcadia, and exclusive listings across Scottsdale’s most desirable neighborhoods. $3,600,000 6347 E CARRIAGE DR, Cave Creek, AZ $5,850,000 37200 N CAVE CREEK RD 1017, Scottsdale $3,600,000 9411 E Happy Valley RD | Scottsdale $3,600,000 7000 N 39th PL | Paradise Valley $3,600,000 7153 E Ironwood DR | Paradise Valley $3,600,000 6933 E Fanfol DR | Paradise Valley Exclusive Property Listings Work With Elevation Group Assisting Buyers and Sellers of Exceptional Luxury Homes Providing expert professional service & representation With integrity, courtesy, and gratitude. Contact Us Our Recent Sales See how Elevation Group delivers proven results. From luxury estates in Paradise Valley to elegant family homes across Scottsdale and Phoenix, our team has helped clients achieve exceptional real estate success. $11,537,235 Paradise Valley $5,570,000 Paradise Valley $3,176,000 Phoenix $4,495,000 Paradise Valley $3,900,000 Paradise Valley $3,525,000 Chandler $1,300,000 Scottsdale $1,550,000 Paradise Valley $1,900,000 Scottsdale Exclusive Property Listings"
+      },
+      {
+        "url": "https://elevationgroupaz.com/scottsdale/",
+        "title": "Scottsdale",
+        "status": "success",
+        "message": "Read from the WordPress REST API",
+        "meta": {},
+        "headings": [
+          "Scottsdale Real Estate",
+          "Experience the Scottsdale Lifestyle",
+          "Featured Listings",
+          "Discover Luxury Living in Scottsdale",
+          "Fendi Private Residences",
+          "Optima McDowell Mountain",
+          "Work With Elevation Group",
+          "Our Recent Sales"
+        ],
+        "content": "Scottsdale Real Estate Scottsdale, Arizona – Luxury Living in the Heart of the Desert Scottsdale, Arizona is one of the most desirable places to call home. Located in the heart of the Sonoran Desert, this city combines natural beauty, modern luxury, and a vibrant community lifestyle. Residents enjoy endless sunshine, breathtaking desert landscapes, and stunning views of Camelback Mountain that make every day feel like a getaway. Experience the Scottsdale Lifestyle Scottsdale offers something for everyone. Outdoor enthusiasts can explore scenic hiking trails, bike through desert parks, or play on championship golf courses surrounded by picturesque mountain backdrops. For those who prefer a refined lifestyle, the city features luxury shopping destinations, art galleries, and world-class spas. The dining scene is equally impressive, offering top-rated restaurants with locally inspired cuisine. When evening arrives, Scottsdale transforms into a hub of culture and entertainment, from lively music venues and elegant lounges to family-friendly events and festivals. With its mix of natural beauty, upscale amenities, and a strong sense of community, Scottsdale stands as one of Arizona’s premier real estate destinations. Whether you are searching for a luxury home, a golf course property, or a modern residence near downtown, Elevation Group can help you find the perfect home in this remarkable city. Featured Listings Explore Elevation Group’s collection of premier Arizona properties, featuring luxury estates in Paradise Valley, elegant homes in Arcadia, and exclusive listings across Scottsdale’s most desirable neighborhoods. $3,600,000 6347 E CARRIAGE DR, Cave Creek, AZ $5,850,000 37200 N CAVE CREEK RD 1017, Scottsdale $3,600,000 9411 E Happy Valley RD | Scottsdale $3,600,000 7000 N 39th PL | Paradise Valley $3,600,000 7153 E Ironwood DR | Paradise Valley $3,600,000 6933 E Fanfol DR | Paradise Valley Exclusive Property Listings Discover Luxury Living in Scottsdale Explore a curated selection of Kelly Jones’ premier properties featuring luxury estates in Paradise Valley, elegant homes in Arcadia, and exclusive listings throughout Scottsdale. Fendi Private Residences Indulge in opulence at Fendi’s exclusive private residences, where luxury meets exquisite design, offering residents a unique blend of high-end living and Scottsdale charm. Learn about the elegance and exclusivity of Fendi Private Residences. Optima McDowell Mountain Explore sophisticated living with state-of-the-art amenities, unparalleled mountain views, and modern architecture designed for comfort and elegance. Discover more about what makes Optima McDowell Mountain exceptional. Work With Elevation Group Assisting Buyers and Sellers of Exceptional Luxury Homes Providing expert professional service & representation With integrity, courtesy, and gratitude. Contact Us Our Recent Sales See how Elevation Group delivers proven results. From luxury estates in Paradise Valley to elegant family homes across Scottsdale and Phoenix, our team has helped clients achieve exceptional real estate success. $11,537,235 Paradise Valley $5,570,000 Paradise Valley $3,176,000 Phoenix $4,495,000 Paradise Valley $3,900,000 Paradise Valley $3,525,000 Chandler $1,300,000 Scottsdale $1,550,000 Paradise Valley $1,900,000 Scottsdale Exclusive Property Listings"
+      },
+      {
+        "url": "https://elevationgroupaz.com/sold-listings/",
+        "title": "Sold Listings",
+        "status": "success",
+        "message": "Read from the WordPress REST API",
+        "meta": {},
+        "headings": [
+          "Sold Listings",
+          "Work With Elevation Group"
+        ],
+        "content": "Sold Listings $11,537,235 Paradise Valley $5,570,000 Paradise Valley $3,176,000 Phoenix $4,495,000 Paradise Valley $3,900,000 Paradise Valley $3,525,000 Chandler $1,300,000 Scottsdale $1,550,000 Paradise Valley $1,900,000 Scottsdale Work With Elevation Group Assisting Buyers and Sellers of Exceptional Luxury Homes Providing expert professional service & representation With integrity, courtesy, and gratitude. Contact Us"
+      },
+      {
+        "url": "https://elevationgroupaz.com/blog/",
+        "title": "Blog",
+        "status": "success",
+        "message": "Read from the WordPress REST API",
+        "meta": {},
+        "headings": [
+          "Blogs",
+          "Structural Trends in Portfolio Diversification: Where Scottsdale Residents Acquire Weekend Escapes",
+          "The Hidden Costs of Waiting to Sell Your Luxury Home",
+          "Evaluating Premium Family Amenities and Their Impact on Scottsdale Luxury Real Estate This Season",
+          "The Economics of Relocation Versus Renovation: A Guide for Arizona Luxury Homeowners",
+          "Strategic Valuation: An Analysis of Record-Breaking Premier Estates in Paradise Valley",
+          "Deep Dive into Paradise Valley and Scottsdale Luxury Market Trends",
+          "Strategic Relocation to Arizona’s Premier Luxury Real Estate Market",
+          "Strategic Analysis of Record-Breaking Luxury Home Sales in Paradise Valley",
+          "Finding Your Perfect Pocket of The Valley: A Guide to Arcadia and Paradise Valley",
+          "Strategic Positioning of Multi-Million Dollar Estates in Arizona: A Case Study in Luxury Marketing",
+          "Strategic Asset Protection: The Luxury Homeowner Guide to Monsoon Season Preparedness",
+          "Analyzing the Hidden Costs of Acquiring Luxury Real Estate in Arizona",
+          "Strategic Marketing of Iconic Arizona Estates: A Case Study in Ultra-Luxury Real Estate",
+          "Deep Dive into Paradise Valley and Scottsdale Luxury Market Trends: A Structural Analysis",
+          "Maximizing ROI on High-End Home Upgrades in Scottsdale: A Data-Driven Analysis of Turnkey Premiums",
+          "Beyond the Listing: How High-Net-Worth Individuals Leverage Expert Real Estate Networks in Arizona",
+          "Navigating Arizona’s Elite: Luxury Real Estate Trends in Scottsdale & Paradise Valley",
+          "Wealthiest Cities in Arizona 2026",
+          "Phoenix AZ Area Zip Codes: A Local, Easy-to-Understand Guide",
+          "How To Find The Perfect Buyer’s Real Estate Agent",
+          "Elevation Group Transitions to New Brokerage",
+          "Scottsdale Real Estate Market Update",
+          "Spectacular Scottsdale Estate For Sale!",
+          "New Scottsdale Home For Sale!",
+          "Stunning Paradise Valley Remodel For Sale!",
+          "Scottsdale Real Estate Agents",
+          "A Modern Masterpiece In Paradise Valley For Sale!",
+          "Desert Contemporary Masterpiece In Paradise Valley",
+          "Luxurious Scottsdale Waterfront Condo For Sale!",
+          "New Paradise Valley Home For Sale!",
+          "Scottsdale Real Estate – Cromford Daily Observation Issues Red Flag Warning",
+          "Work With Elevation Group"
+        ],
+        "content": "Blogs Structural Trends in Portfolio Diversification: Where Scottsdale Residents Acquire Weekend Escapes Analyzing the Secondary Market for High-Net-Worth Buyers At Elevation Group, we continuously analyze portfolio diversification strategies among high-net-worth individuals holding primary assets in the Phoenix… The Hidden Costs of Waiting to Sell Your Luxury Home The Structural Economics of Timing the Market At Elevation Group, we continuously analyze the underlying metrics of the Arizona luxury real estate sector. A common… Evaluating Premium Family Amenities and Their Impact on Scottsdale Luxury Real Estate This Season The Intersection of Lifestyle Infrastructure and Market Velocity At Elevation Group, we continuously monitor the structural market drivers influencing the Phoenix luxury market. A primary… The Economics of Relocation Versus Renovation: A Guide for Arizona Luxury Homeowners Analyzing the Renovation Versus Relocation Dilemma At Elevation Group, we frequently analyze the structural market drivers that influence high-net-worth real estate decisions. One of the… Strategic Valuation: An Analysis of Record-Breaking Premier Estates in Paradise Valley The luxury real estate market in Paradise Valley operates on a distinct set of valuation principles. For high-net-worth individuals, entertainers, and athletes, acquiring a premier… Deep Dive into Paradise Valley and Scottsdale Luxury Market Trends The Analytical Framework for Arizona’s Ultra-Luxury Sector At Elevation Group, we continuously monitor the structural shifts defining the high-end real estate sector. The ultra-luxury markets… Strategic Relocation to Arizona’s Premier Luxury Real Estate Market Relocating to Arizona represents a strategic acquisition for high-net-worth individuals seeking both lifestyle enhancement and robust investment returns. The luxury real estate market in Arizona… Strategic Analysis of Record-Breaking Luxury Home Sales in Paradise Valley The luxury real estate market in Paradise Valley continues to demonstrate unprecedented resilience and growth, solidifying its position as a premier destination for high-net-worth individuals.… Finding Your Perfect Pocket of The Valley: A Guide to Arcadia and Paradise Valley There is a specific kind of magic that happens in The Valley just before the sun clears the McDowell Mountains. I usually catch it while… Strategic Positioning of Multi-Million Dollar Estates in Arizona: A Case Study in Luxury Marketing The successful disposition of ultra-luxury real estate in Arizona requires a sophisticated approach that transcends traditional marketing. For high-net-worth individuals, entertainers, and athletes, a premier… Strategic Asset Protection: The Luxury Homeowner Guide to Monsoon Season Preparedness The Economic Impact of Seasonal Weather on Luxury Assets At Elevation Group, we analyze the Arizona luxury real estate market through a lens of structural… Analyzing the Hidden Costs of Acquiring Luxury Real Estate in Arizona The Structural Economics of Luxury Acquisitions At Elevation Group, we continuously monitor the structural market drivers shaping the Phoenix luxury market. When high-net-worth buyers evaluate… Strategic Marketing of Iconic Arizona Estates: A Case Study in Ultra-Luxury Real Estate The marketing of multi-million dollar estates in Arizona requires a sophisticated approach that transcends traditional real estate practices, focusing instead on strategic asset positioning and… Deep Dive into Paradise Valley and Scottsdale Luxury Market Trends: A Structural Analysis Deep Dive into Paradise Valley and Scottsdale Luxury Market Trends: A Structural Analysis At Elevation Group, we continuously monitor the micro-economic indicators driving Arizona’s premium… Maximizing ROI on High-End Home Upgrades in Scottsdale: A Data-Driven Analysis of Turnkey Premiums The Economic Catalyst for the Turnkey Premium At Elevation Group, we continuously monitor the structural drivers of property valuation within the Arizona luxury real estate… Beyond the Listing: How High-Net-Worth Individuals Leverage Expert Real Estate Networks in Arizona In Arizona’s vibrant luxury real estate market, high-net-worth individuals seek more than just a transaction; they desire a strategic partnership that understands their unique needs… Navigating Arizona’s Elite: Luxury Real Estate Trends in Scottsdale & Paradise Valley Arizona’s luxury real estate market continues to captivate high-net-worth individuals seeking an unparalleled lifestyle. Specifically, the prestigious enclaves of Scottsdale and Paradise Valley are experiencing… Wealthiest Cities in Arizona 2026 Arizona is more than rugged landscapes and year-round sunshine. It is also home to some of the most affluent communities in the Southwest. From tranquil… Phoenix AZ Area Zip Codes: A Local, Easy-to-Understand Guide If you have ever searched for Phoenix AZ area zip codes, you are not alone. Phoenix is one of the largest cities in the United… How To Find The Perfect Buyer’s Real Estate Agent How do you weigh the importance of buying a home – one of the most important purchases you’ll ever make – against the importance of… Elevation Group Transitions to New Brokerage Elevation Group, a renowned name in real estate, proudly announces its move to a new brokerage, marking a significant milestone in its journey of excellence… Scottsdale Real Estate Market Update With a year-over-year gain of 27.6% and a median listing price of $1.1 million, the Scottsdale real estate market is expanding rapidly. Homes usually sell… Spectacular Scottsdale Estate For Sale! 41781 N 99TH WAY, SCOTTSDALE, AZ 85262 $5,300,000 4 BEDS 6 BATHS 7,328 SQFT GOLF MEMBERSHIP AVAILABLE! This exquisite custom built estate radiates meticulous design, quality… New Scottsdale Home For Sale! 8847 E Ann Way, Scottsdale, AZ 85260 $2,050,000 3 bed 3.5 bath 4,621 sqft Nestled within the highly sought-after gated community of Paso Fino Estates, in the heart of… Stunning Paradise Valley Remodel For Sale! 6158 N Paradise View Dr, Paradise Valley, AZ 85253 5 BED 6 BATH 6,675 SQFT $6,600,000 Beautiful turnkey Santa Barbara remodel with views of Phoenix Mountain Preserve is situated… Scottsdale Real Estate Agents The real estate market in Scottsdale, Arizona, is thriving and in high demand. Working with a top realtor who is familiar with the Scottsdale real… A Modern Masterpiece In Paradise Valley For Sale! In Paradise Valley, a private gated soft modern masterpiece! As soon as you enter the magnificently handcrafted front door, the courtyard’s stunning vista of Camelback… Desert Contemporary Masterpiece In Paradise Valley 5800 N MONTE VISTA DR, PARADISE VALLEY, AZ 85253 5 BD 7 BA 7,439 SQFT $9,200,000 Experience this Iconic Desert Contemporary Masterpiece by MP Design &… Luxurious Scottsdale Waterfront Condo For Sale! 7175 E CAMELBACK RD UNIT 508, SCOTTSDALE, AZ 85251 2 BD 3 BA 1,983 SQFT $2,000,000 Stunning 5th-floor FULLY REMODELED unit which is located at the… New Paradise Valley Home For Sale! 4 bed 3 bath 2,858 square feet $2,500,000 Perfect location and Great opportunity!!! Smaller Paradise Valley footprint with views of Downtown and Camelback Mt. This… Scottsdale Real Estate – Cromford Daily Observation Issues Red Flag Warning Cromford Daily Observation ~ We issued a red flag warning on April 24 and in the 5 weeks since then the market has deteriorated at the… Work With Elevation Group Assisting Buyers and Sellers of Exceptional Luxury Homes Providing expert professional service & representation With integrity, courtesy, and gratitude. Contact Us"
+      }
+    ],
+    "warnings": [
+      "Little readable HTML at https://elevationgroupaz.com/contact-us/. This page may need JavaScript rendering.",
+      "Little readable HTML at https://elevationgroupaz.com/sold-listings/. This page may need JavaScript rendering.",
+      "Inferred fields need review. Missing information is left blank; linked stylesheets and JavaScript-rendered content are not analyzed."
+    ],
+    "completedAt": "2026-10-16T23:51:42.411Z"
+  }
+}

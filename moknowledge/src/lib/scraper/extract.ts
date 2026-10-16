@@ -328,7 +328,9 @@ export function extractInto(knowledge: Knowledge, page: ParsedPage, isHome: bool
   });
   // A detail page gives useful offering candidates even without structured data.
   const path = new URL(url).pathname;
-  const servicePage = /\/(?:services?|products?|solutions?)\/.+/i.test(path) || /(?:tax-preparation|bookkeeping|payroll|quickbooks|accounting|cfo)/i.test(path);
+  // Articles often mention services in their slug ("/blog/the-most-common-accounting-mistakes"), so they are never offering pages.
+  const articlePage = /\/(?:blog|news|articles?|insights?|posts?)(?:\/|$)/i.test(path);
+  const servicePage = !articlePage && (/\/(?:services?|products?|solutions?)\/.+/i.test(path) || /(?:tax-preparation|bookkeeping|payroll|quickbooks|accounting|cfo)/i.test(path));
   if (servicePage && knowledge.offerings.length < 30) {
     const heading = clean($("main h1, h1").first().text()) || page.title.split(/\s[|–—]\s/)[0];
     if (heading && !knowledge.offerings.some(entry => fieldText(entry.fields.name).toLowerCase() === heading.toLowerCase() || entry.fields.name.sources.some(source => source.url === url))) {
