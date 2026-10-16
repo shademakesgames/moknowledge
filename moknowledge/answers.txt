@@ -1,0 +1,14 @@
+1. What approach did you take to scraping and structuring the knowledge base data?
+The app performs a bounded, same-origin crawl. It fetches every same-origin link on the homepage, up to 40 HTML pages in total, and does not follow links found on those pages. Pages are prioritized so about, team, contact, services, menu or catalog, pricing, FAQ, legal, and content pages are read first. Fetching checks resolved IP addresses and pins an approved address to the connection, validates redirects, enforces time and byte limits, and checks robots.txt. Cheerio reads metadata, JSON-LD, links, headings, and content blocks. Zod validates the resulting knowledge object. Each field has a value, status, source evidence, and review flag. Users can correct values and retain the original extraction.
+
+2. What information beyond the baseline did you include, and why?
+FAQs, attributed testimonials, certifications, content themes, disclaimers, dated promotions, and field-level provenance. These give downstream content concrete material and limitations. The application distinguishes a company-published claim from independent verification and leaves unsupported data blank.
+
+3. How does the design improve MoSocial, MoMail, and MoBlogs?
+MoSocial can use offering themes, linked social profiles, and approved testimonials. MoMail can pair an explicit customer need with a source-backed offering and booking CTA. MoBlogs can expand extracted FAQ questions and service topics into outlines. Source evidence and review status let all three avoid presenting unreviewed guesses as facts. The app exports knowledge; it does not integrate with these products directly.
+
+4. What would you improve with more time?
+Add an isolated browser-rendering worker for JavaScript-heavy sites, stylesheet/computed-style analysis, per-item provenance for list values, better entity matching, semantic extraction with reviewed LLM enrichment, and owner-supplied brand assets. Replace local storage with the documented Supabase design, add authentication and durable crawl jobs, distributed rate limits, monitoring, and authenticated tenant-isolation tests. Increase website-diversity tests before claiming broad extraction coverage.
+
+5. What was the most challenging part?
+Separating business content from irrelevant site machinery. In the real Account-it crawl, hidden platform legal dialogs contaminated audience extraction, and service headings duplicated JSON-LD entries. Excluding modal content and preferring structured offering evidence on a page improved the results. The remaining tradeoff is explicit: bounded deterministic extraction is inspectable, but it cannot reliably synthesize every persona, brand style, or positioning statement.

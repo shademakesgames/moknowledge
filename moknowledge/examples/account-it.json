@@ -1,0 +1,1189 @@
+{
+  "schemaVersion": 1,
+  "id": "c8e5a9a3-dd26-4382-92f6-5f22c467b085",
+  "version": 1,
+  "createdAt": "2026-10-16T19:53:56.261Z",
+  "updatedAt": "2026-10-16T19:53:58.855Z",
+  "requestedUrl": "https://account-it.net/",
+  "sections": {
+    "foundation": {
+      "name": {
+        "value": "Account-it Consulting Services, LLC",
+        "status": "extracted",
+        "sources": [
+          {
+            "url": "https://account-it.net/",
+            "excerpt": "Account-it Consulting Services, LLC",
+            "locator": "JSON-LD organization.name",
+            "retrievedAt": "2026-10-16T19:53:56.765Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "overview": {
+        "value": "Account-it Consulting Services, LLC will take care of your tax preparation and planning needs so you can focus on life in beautiful Boynton Beach.",
+        "status": "extracted",
+        "sources": [
+          {
+            "url": "https://account-it.net/",
+            "excerpt": "Account-it Consulting Services, LLC will take care of your tax preparation and planning needs so you can focus on life in beautiful Boynton Beach.",
+            "locator": "JSON-LD organization.description",
+            "retrievedAt": "2026-10-16T19:53:56.765Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "website": {
+        "value": "https://account-it.net/",
+        "status": "extracted",
+        "sources": [
+          {
+            "url": "https://account-it.net/",
+            "excerpt": "https://account-it.net/",
+            "locator": "final response URL",
+            "retrievedAt": "2026-10-16T19:53:56.765Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "industry": {
+        "value": "Accounting and tax services",
+        "status": "inferred",
+        "sources": [
+          {
+            "url": "https://account-it.net/",
+            "excerpt": "Account-it Consulting Services, LLC will take care of your tax preparation and planning needs so you can focus on life in beautiful Boynton Beach.",
+            "locator": "Industry inferred from overview: JSON-LD organization.description",
+            "retrievedAt": "2026-10-16T19:53:56.765Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "businessModel": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "companyRole": {
+        "value": "Service provider",
+        "status": "inferred",
+        "sources": [
+          {
+            "url": "https://account-it.net/services/tax-preparation-planning",
+            "excerpt": "Service",
+            "locator": "JSON-LD @type",
+            "retrievedAt": "2026-10-16T19:53:57.951Z"
+          },
+          {
+            "url": "https://account-it.net/services/payroll",
+            "excerpt": "Service",
+            "locator": "JSON-LD @type",
+            "retrievedAt": "2026-10-16T19:53:58.311Z"
+          },
+          {
+            "url": "https://account-it.net/services/accounting-bookkeeping",
+            "excerpt": "Service",
+            "locator": "JSON-LD @type",
+            "retrievedAt": "2026-10-16T19:53:58.538Z"
+          },
+          {
+            "url": "https://account-it.net/services/irs-tax-problems",
+            "excerpt": "Service",
+            "locator": "JSON-LD @type",
+            "retrievedAt": "2026-10-16T19:53:58.854Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "yearFounded": {
+        "value": "2003",
+        "status": "extracted",
+        "sources": [
+          {
+            "url": "https://account-it.net/about-us/doug-cohen",
+            "excerpt": "My experience includes years of public accounting, 14 years as a CFO/Controller, part-time CFO and, since 2003, my own accounting practice in South Florida.",
+            "locator": "explicit founding statement",
+            "retrievedAt": "2026-10-16T19:53:57.119Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "legalEntityType": {
+        "value": "LLC",
+        "status": "extracted",
+        "sources": [
+          {
+            "url": "https://account-it.net/",
+            "excerpt": "LLC",
+            "locator": "company name / footer legal entity suffix",
+            "retrievedAt": "2026-10-16T19:53:56.767Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "employeeCount": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "mainAddress": {
+        "value": "Boynton Beach, Florida, 33437",
+        "status": "extracted",
+        "sources": [
+          {
+            "url": "https://account-it.net/",
+            "excerpt": "Boynton Beach, Florida, 33437",
+            "locator": "JSON-LD address",
+            "retrievedAt": "2026-10-16T19:53:56.765Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "otherLocations": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "serviceLocations": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "alternativeNames": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      }
+    },
+    "positioning": {
+      "pitch": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "foundingStory": {
+        "value": "My experience includes years of public accounting, 14 years as a CFO/Controller, part-time CFO and, since 2003, my own accounting practice in South Florida.",
+        "status": "extracted",
+        "sources": [
+          {
+            "url": "https://account-it.net/about-us/doug-cohen",
+            "excerpt": "My experience includes years of public accounting, 14 years as a CFO/Controller, part-time CFO and, since 2003, my own accounting practice in South Florida.",
+            "locator": "founding statement",
+            "retrievedAt": "2026-10-16T19:53:57.119Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "differentiators": {
+        "value": [
+          "Welcome to Account-it Consulting Services, LLC, a trusted partner for comprehensive tax and accounting services based in Boynton Beach, Florida. We specialize in tax preparation and planning for both individuals and businesses, ensuring our clients navigate the complexities of the tax system with confidence. We also provide QuickBooks Online services, assisting business owners with seamless financial management solutions. While payroll services are available, they are primarily offered to existing clients or those transitioning to a tax setup that requires payroll.",
+          "Choosing us means benefiting from the extensive background and hands-on experience of our founder, Doug Cohen. With a career that spans over 14 years as a CFO and controller, coupled with experience in larger public accounting firms, our founder brings a wealth of knowledge in not just accounting-related matters but also in running a business. This includes dealing with insurance, bankers, hiring and firing employees, and managing employee benefits. Doug's practical, hands-on experience across various industries makes us uniquely equipped to provide valuable insights and support to clients like you."
+        ],
+        "status": "extracted",
+        "sources": [
+          {
+            "url": "https://account-it.net/firm-background",
+            "excerpt": "Welcome to Account-it Consulting Services, LLC, a trusted partner for comprehensive tax and accounting services based in Boynton Beach, Florida. We specialize in tax preparation and planning for both individuals and businesses, ensuring our clients navigate the complexities of the tax system with confidence. We also provide QuickBooks Online services, assisting business owners with seamless financial management solutions. While payroll services are available, they are primarily offered to existing clients or those transitioning to a tax setup that requires payroll.; Choosing us means benefiting from the extensive background and hands-on experience of our founder, Doug Cohen. With a career that spans over 14 years as a CFO and controller, coupled with experience in larger public accounting firms, our founder brings a wealth of knowledge in not just accounting-related matters but also in running a business. This includes dealing with insurance, bankers, hiring and firing employees, and managing employee benefits. Doug's practical, hands-on experience across various industries makes us uniquely equipped to provide valuable insights and support to clients like you.",
+            "locator": "differentiation statements",
+            "retrievedAt": "2026-10-16T19:53:57.726Z"
+          }
+        ],
+        "reviewed": false
+      }
+    },
+    "market": {
+      "targetBuyers": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "customerNeeds": {
+        "value": [
+          "Whether you're searching for tax preparation, tax planning, or QuickBooks services in Boynton Beach, Account-it Consulting Services, LLC is here to support you with expertise and personalized care. Contact us today at (954) 592-8630 or dougc@account-it.net to learn how we can help you achieve your financial goals.",
+          "At Account-it Consulting Services, LLC, we have the expertise that is needed to help you file your returns while also helping you to minimize your tax liability with careful planning.",
+          "helping you to defer income so that you can save money now and pay less taxes in the future",
+          "Here are some links to help you learn more about taxes:",
+          "Whether you are just starting your business or you would like to switch to a better system for payroll processing, we can provide the business services that you require. We can help simplify the payroll process to help you more effectively manage your Florida small business. Let us assist you with your payroll needs so that you can focus on running your business.",
+          "Whether you are a start-up business, a growing business or a mature corporation, Account-it Consulting Services, LLC has the expertise to help you.",
+          "Account-it Consulting Services, LLC is here to help you resolve your tax problems and put an end to the misery that the IRS can put you through. We pride ourselves on being very efficient, affordable, and, of course, extremely discrete.",
+          "We can help you with the following IRS tax problems:"
+        ],
+        "status": "inferred",
+        "sources": [
+          {
+            "url": "https://account-it.net/firm-background",
+            "excerpt": "Whether you're searching for tax preparation, tax planning, or QuickBooks services in Boynton Beach, Account-it Consulting Services, LLC is here to support you with expertise and personalized care. Contact us today at (954) 592-8630 or dougc@account-it.net to learn how we can help you achieve your financial goals.",
+            "locator": "customer problem / benefit statements",
+            "retrievedAt": "2026-10-16T19:53:57.726Z"
+          },
+          {
+            "url": "https://account-it.net/services/tax-preparation-planning",
+            "excerpt": "At Account-it Consulting Services, LLC, we have the expertise that is needed to help you file your returns while also helping you to minimize your tax liability with careful planning.; helping you to defer income so that you can save money now and pay less taxes in the future; Here are some links to help you learn more about taxes:",
+            "locator": "customer problem / benefit statements",
+            "retrievedAt": "2026-10-16T19:53:57.951Z"
+          },
+          {
+            "url": "https://account-it.net/services/payroll",
+            "excerpt": "Whether you are just starting your business or you would like to switch to a better system for payroll processing, we can provide the business services that you require. We can help simplify the payroll process to help you more effectively manage your Florida small business. Let us assist you with your payroll needs so that you can focus on running your business.",
+            "locator": "customer problem / benefit statements",
+            "retrievedAt": "2026-10-16T19:53:58.311Z"
+          },
+          {
+            "url": "https://account-it.net/services/accounting-bookkeeping",
+            "excerpt": "Whether you are a start-up business, a growing business or a mature corporation, Account-it Consulting Services, LLC has the expertise to help you.",
+            "locator": "customer problem / benefit statements",
+            "retrievedAt": "2026-10-16T19:53:58.538Z"
+          },
+          {
+            "url": "https://account-it.net/services/irs-tax-problems",
+            "excerpt": "Account-it Consulting Services, LLC is here to help you resolve your tax problems and put an end to the misery that the IRS can put you through. We pride ourselves on being very efficient, affordable, and, of course, extremely discrete.; We can help you with the following IRS tax problems:",
+            "locator": "customer problem / benefit statements",
+            "retrievedAt": "2026-10-16T19:53:58.854Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "idealPersona": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "industryGroupings": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "industryOutlook": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "channels": {
+        "value": [
+          "https://account-it.net/"
+        ],
+        "status": "extracted",
+        "sources": [
+          {
+            "url": "https://account-it.net/",
+            "excerpt": "https://account-it.net/",
+            "locator": "company website",
+            "retrievedAt": "2026-10-16T19:53:56.765Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "funnels": {
+        "value": [
+          "Website form",
+          "Appointment / booking link"
+        ],
+        "status": "inferred",
+        "sources": [
+          {
+            "url": "https://account-it.net/",
+            "excerpt": "Website form; Appointment / booking link",
+            "locator": "forms and signup / booking links",
+            "retrievedAt": "2026-10-16T19:53:56.767Z"
+          },
+          {
+            "url": "https://account-it.net/about-us/doug-cohen",
+            "excerpt": "Appointment / booking link",
+            "locator": "forms and signup / booking links",
+            "retrievedAt": "2026-10-16T19:53:57.119Z"
+          },
+          {
+            "url": "https://account-it.net/contact",
+            "excerpt": "Website form; Appointment / booking link",
+            "locator": "forms and signup / booking links",
+            "retrievedAt": "2026-10-16T19:53:57.352Z"
+          },
+          {
+            "url": "https://account-it.net/firm-background",
+            "excerpt": "Appointment / booking link",
+            "locator": "forms and signup / booking links",
+            "retrievedAt": "2026-10-16T19:53:57.726Z"
+          },
+          {
+            "url": "https://account-it.net/services/tax-preparation-planning",
+            "excerpt": "Appointment / booking link",
+            "locator": "forms and signup / booking links",
+            "retrievedAt": "2026-10-16T19:53:57.951Z"
+          },
+          {
+            "url": "https://account-it.net/services/payroll",
+            "excerpt": "Appointment / booking link",
+            "locator": "forms and signup / booking links",
+            "retrievedAt": "2026-10-16T19:53:58.311Z"
+          },
+          {
+            "url": "https://account-it.net/services/accounting-bookkeeping",
+            "excerpt": "Appointment / booking link",
+            "locator": "forms and signup / booking links",
+            "retrievedAt": "2026-10-16T19:53:58.538Z"
+          },
+          {
+            "url": "https://account-it.net/services/irs-tax-problems",
+            "excerpt": "Appointment / booking link",
+            "locator": "forms and signup / booking links",
+            "retrievedAt": "2026-10-16T19:53:58.854Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "ctas": {
+        "value": [
+          "Schedule Appointment — https://account-it.net/appointment",
+          "Get started — https://account-it.net/contact",
+          "Get started Today — https://account-it.net/contact"
+        ],
+        "status": "extracted",
+        "sources": [
+          {
+            "url": "https://account-it.net/",
+            "excerpt": "Schedule Appointment — https://account-it.net/appointment; Get started — https://account-it.net/contact",
+            "locator": "action links",
+            "retrievedAt": "2026-10-16T19:53:56.767Z"
+          },
+          {
+            "url": "https://account-it.net/about-us/doug-cohen",
+            "excerpt": "Schedule Appointment — https://account-it.net/appointment; Get started — https://account-it.net/contact",
+            "locator": "action links",
+            "retrievedAt": "2026-10-16T19:53:57.119Z"
+          },
+          {
+            "url": "https://account-it.net/contact",
+            "excerpt": "Schedule Appointment — https://account-it.net/appointment",
+            "locator": "action links",
+            "retrievedAt": "2026-10-16T19:53:57.351Z"
+          },
+          {
+            "url": "https://account-it.net/firm-background",
+            "excerpt": "Schedule Appointment — https://account-it.net/appointment; Get started Today — https://account-it.net/contact",
+            "locator": "action links",
+            "retrievedAt": "2026-10-16T19:53:57.726Z"
+          },
+          {
+            "url": "https://account-it.net/services/tax-preparation-planning",
+            "excerpt": "Schedule Appointment — https://account-it.net/appointment",
+            "locator": "action links",
+            "retrievedAt": "2026-10-16T19:53:57.951Z"
+          },
+          {
+            "url": "https://account-it.net/services/payroll",
+            "excerpt": "Schedule Appointment — https://account-it.net/appointment",
+            "locator": "action links",
+            "retrievedAt": "2026-10-16T19:53:58.310Z"
+          },
+          {
+            "url": "https://account-it.net/services/accounting-bookkeeping",
+            "excerpt": "Schedule Appointment — https://account-it.net/appointment",
+            "locator": "action links",
+            "retrievedAt": "2026-10-16T19:53:58.537Z"
+          },
+          {
+            "url": "https://account-it.net/services/irs-tax-problems",
+            "excerpt": "Schedule Appointment — https://account-it.net/appointment",
+            "locator": "action links",
+            "retrievedAt": "2026-10-16T19:53:58.854Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "partners": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      }
+    },
+    "branding": {
+      "writingStyle": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "artStyle": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "fonts": {
+        "value": [
+          "Inter",
+          "Lato"
+        ],
+        "status": "inferred",
+        "sources": [
+          {
+            "url": "https://account-it.net/",
+            "excerpt": "Inter; Lato",
+            "locator": "inline font-family declarations",
+            "retrievedAt": "2026-10-16T19:53:56.766Z"
+          },
+          {
+            "url": "https://account-it.net/about-us/doug-cohen",
+            "excerpt": "Inter; Lato",
+            "locator": "inline font-family declarations",
+            "retrievedAt": "2026-10-16T19:53:57.119Z"
+          },
+          {
+            "url": "https://account-it.net/contact",
+            "excerpt": "Inter; Lato",
+            "locator": "inline font-family declarations",
+            "retrievedAt": "2026-10-16T19:53:57.351Z"
+          },
+          {
+            "url": "https://account-it.net/firm-background",
+            "excerpt": "Inter; Lato",
+            "locator": "inline font-family declarations",
+            "retrievedAt": "2026-10-16T19:53:57.725Z"
+          },
+          {
+            "url": "https://account-it.net/services/tax-preparation-planning",
+            "excerpt": "Inter; Lato",
+            "locator": "inline font-family declarations",
+            "retrievedAt": "2026-10-16T19:53:57.950Z"
+          },
+          {
+            "url": "https://account-it.net/services/payroll",
+            "excerpt": "Inter; Lato",
+            "locator": "inline font-family declarations",
+            "retrievedAt": "2026-10-16T19:53:58.310Z"
+          },
+          {
+            "url": "https://account-it.net/services/accounting-bookkeeping",
+            "excerpt": "Inter; Lato",
+            "locator": "inline font-family declarations",
+            "retrievedAt": "2026-10-16T19:53:58.537Z"
+          },
+          {
+            "url": "https://account-it.net/services/irs-tax-problems",
+            "excerpt": "Inter; Lato",
+            "locator": "inline font-family declarations",
+            "retrievedAt": "2026-10-16T19:53:58.853Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "colors": {
+        "value": [
+          "#898989",
+          "#1f2937",
+          "#2e2e2e",
+          "#2299dd",
+          "#2e3084",
+          "#00aeef"
+        ],
+        "status": "inferred",
+        "sources": [
+          {
+            "url": "https://account-it.net/",
+            "excerpt": "#898989; #1f2937; #2e2e2e; #2299dd; #2e3084; #00aeef",
+            "locator": "inline styles / style blocks",
+            "retrievedAt": "2026-10-16T19:53:56.766Z"
+          },
+          {
+            "url": "https://account-it.net/about-us/doug-cohen",
+            "excerpt": "#898989; #1f2937; #2e2e2e; #2299dd",
+            "locator": "inline styles / style blocks",
+            "retrievedAt": "2026-10-16T19:53:57.119Z"
+          },
+          {
+            "url": "https://account-it.net/contact",
+            "excerpt": "#898989; #1f2937; #2e2e2e; #2299dd",
+            "locator": "inline styles / style blocks",
+            "retrievedAt": "2026-10-16T19:53:57.351Z"
+          },
+          {
+            "url": "https://account-it.net/firm-background",
+            "excerpt": "#898989; #1f2937; #2e2e2e; #2299dd",
+            "locator": "inline styles / style blocks",
+            "retrievedAt": "2026-10-16T19:53:57.725Z"
+          },
+          {
+            "url": "https://account-it.net/services/tax-preparation-planning",
+            "excerpt": "#898989; #1f2937; #2e2e2e; #2299dd",
+            "locator": "inline styles / style blocks",
+            "retrievedAt": "2026-10-16T19:53:57.950Z"
+          },
+          {
+            "url": "https://account-it.net/services/payroll",
+            "excerpt": "#898989; #1f2937; #2e2e2e; #2299dd",
+            "locator": "inline styles / style blocks",
+            "retrievedAt": "2026-10-16T19:53:58.310Z"
+          },
+          {
+            "url": "https://account-it.net/services/accounting-bookkeeping",
+            "excerpt": "#898989; #1f2937; #2e2e2e; #2299dd",
+            "locator": "inline styles / style blocks",
+            "retrievedAt": "2026-10-16T19:53:58.537Z"
+          },
+          {
+            "url": "https://account-it.net/services/irs-tax-problems",
+            "excerpt": "#898989; #1f2937; #2e2e2e; #2299dd",
+            "locator": "inline styles / style blocks",
+            "retrievedAt": "2026-10-16T19:53:58.853Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "logos": {
+        "value": [
+          "https://cw3prd.s3.us-west-1.amazonaws.com/2334180/account-logo.png"
+        ],
+        "status": "extracted",
+        "sources": [
+          {
+            "url": "https://account-it.net/",
+            "excerpt": "https://cw3prd.s3.us-west-1.amazonaws.com/2334180/account-logo.png",
+            "locator": "JSON-LD logo",
+            "retrievedAt": "2026-10-16T19:53:56.765Z"
+          },
+          {
+            "url": "https://account-it.net/about-us/doug-cohen",
+            "excerpt": "https://cw3prd.s3.us-west-1.amazonaws.com/2334180/account-logo.png",
+            "locator": "JSON-LD logo",
+            "retrievedAt": "2026-10-16T19:53:57.119Z"
+          },
+          {
+            "url": "https://account-it.net/contact",
+            "excerpt": "https://cw3prd.s3.us-west-1.amazonaws.com/2334180/account-logo.png",
+            "locator": "JSON-LD logo",
+            "retrievedAt": "2026-10-16T19:53:57.351Z"
+          },
+          {
+            "url": "https://account-it.net/firm-background",
+            "excerpt": "https://cw3prd.s3.us-west-1.amazonaws.com/2334180/account-logo.png",
+            "locator": "JSON-LD logo",
+            "retrievedAt": "2026-10-16T19:53:57.725Z"
+          },
+          {
+            "url": "https://account-it.net/services/tax-preparation-planning",
+            "excerpt": "https://cw3prd.s3.us-west-1.amazonaws.com/2334180/account-logo.png",
+            "locator": "JSON-LD logo",
+            "retrievedAt": "2026-10-16T19:53:57.950Z"
+          },
+          {
+            "url": "https://account-it.net/services/payroll",
+            "excerpt": "https://cw3prd.s3.us-west-1.amazonaws.com/2334180/account-logo.png",
+            "locator": "JSON-LD logo",
+            "retrievedAt": "2026-10-16T19:53:58.309Z"
+          },
+          {
+            "url": "https://account-it.net/services/accounting-bookkeeping",
+            "excerpt": "https://cw3prd.s3.us-west-1.amazonaws.com/2334180/account-logo.png",
+            "locator": "JSON-LD logo",
+            "retrievedAt": "2026-10-16T19:53:58.536Z"
+          },
+          {
+            "url": "https://account-it.net/services/irs-tax-problems",
+            "excerpt": "https://cw3prd.s3.us-west-1.amazonaws.com/2334180/account-logo.png",
+            "locator": "JSON-LD logo",
+            "retrievedAt": "2026-10-16T19:53:58.853Z"
+          }
+        ],
+        "reviewed": false
+      }
+    },
+    "presence": {
+      "linkedin": {
+        "value": [
+          "https://www.linkedin.com/in/doug-cohen-9121a86/"
+        ],
+        "status": "extracted",
+        "sources": [
+          {
+            "url": "https://account-it.net/",
+            "excerpt": "https://www.linkedin.com/in/doug-cohen-9121a86/",
+            "locator": "social profile link",
+            "retrievedAt": "2026-10-16T19:53:56.765Z"
+          },
+          {
+            "url": "https://account-it.net/about-us/doug-cohen",
+            "excerpt": "https://www.linkedin.com/in/doug-cohen-9121a86/",
+            "locator": "social profile link",
+            "retrievedAt": "2026-10-16T19:53:57.119Z"
+          },
+          {
+            "url": "https://account-it.net/contact",
+            "excerpt": "https://www.linkedin.com/in/doug-cohen-9121a86/",
+            "locator": "social profile link",
+            "retrievedAt": "2026-10-16T19:53:57.351Z"
+          },
+          {
+            "url": "https://account-it.net/firm-background",
+            "excerpt": "https://www.linkedin.com/in/doug-cohen-9121a86/",
+            "locator": "social profile link",
+            "retrievedAt": "2026-10-16T19:53:57.725Z"
+          },
+          {
+            "url": "https://account-it.net/services/tax-preparation-planning",
+            "excerpt": "https://www.linkedin.com/in/doug-cohen-9121a86/",
+            "locator": "social profile link",
+            "retrievedAt": "2026-10-16T19:53:57.950Z"
+          },
+          {
+            "url": "https://account-it.net/services/payroll",
+            "excerpt": "https://www.linkedin.com/in/doug-cohen-9121a86/",
+            "locator": "social profile link",
+            "retrievedAt": "2026-10-16T19:53:58.309Z"
+          },
+          {
+            "url": "https://account-it.net/services/accounting-bookkeeping",
+            "excerpt": "https://www.linkedin.com/in/doug-cohen-9121a86/",
+            "locator": "social profile link",
+            "retrievedAt": "2026-10-16T19:53:58.536Z"
+          },
+          {
+            "url": "https://account-it.net/services/irs-tax-problems",
+            "excerpt": "https://www.linkedin.com/in/doug-cohen-9121a86/",
+            "locator": "social profile link",
+            "retrievedAt": "2026-10-16T19:53:58.853Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "facebook": {
+        "value": [
+          "https://www.facebook.com/account.itconsulting/"
+        ],
+        "status": "extracted",
+        "sources": [
+          {
+            "url": "https://account-it.net/",
+            "excerpt": "https://www.facebook.com/account.itconsulting/",
+            "locator": "social profile link",
+            "retrievedAt": "2026-10-16T19:53:56.765Z"
+          },
+          {
+            "url": "https://account-it.net/about-us/doug-cohen",
+            "excerpt": "https://www.facebook.com/account.itconsulting/",
+            "locator": "social profile link",
+            "retrievedAt": "2026-10-16T19:53:57.119Z"
+          },
+          {
+            "url": "https://account-it.net/contact",
+            "excerpt": "https://www.facebook.com/account.itconsulting/",
+            "locator": "social profile link",
+            "retrievedAt": "2026-10-16T19:53:57.351Z"
+          },
+          {
+            "url": "https://account-it.net/firm-background",
+            "excerpt": "https://www.facebook.com/account.itconsulting/",
+            "locator": "social profile link",
+            "retrievedAt": "2026-10-16T19:53:57.725Z"
+          },
+          {
+            "url": "https://account-it.net/services/tax-preparation-planning",
+            "excerpt": "https://www.facebook.com/account.itconsulting/",
+            "locator": "social profile link",
+            "retrievedAt": "2026-10-16T19:53:57.950Z"
+          },
+          {
+            "url": "https://account-it.net/services/payroll",
+            "excerpt": "https://www.facebook.com/account.itconsulting/",
+            "locator": "social profile link",
+            "retrievedAt": "2026-10-16T19:53:58.309Z"
+          },
+          {
+            "url": "https://account-it.net/services/accounting-bookkeeping",
+            "excerpt": "https://www.facebook.com/account.itconsulting/",
+            "locator": "social profile link",
+            "retrievedAt": "2026-10-16T19:53:58.536Z"
+          },
+          {
+            "url": "https://account-it.net/services/irs-tax-problems",
+            "excerpt": "https://www.facebook.com/account.itconsulting/",
+            "locator": "social profile link",
+            "retrievedAt": "2026-10-16T19:53:58.853Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "instagram": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "x": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "youtube": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "tiktok": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "other": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      }
+    },
+    "insights": {
+      "faqs": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "testimonials": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "certifications": {
+        "value": [
+          "As a QuickBooks Certified ProAdvisor, I have worked with clients to help them determine the best options for their business and trained users on using the system."
+        ],
+        "status": "extracted",
+        "sources": [
+          {
+            "url": "https://account-it.net/about-us/doug-cohen",
+            "excerpt": "As a QuickBooks Certified ProAdvisor, I have worked with clients to help them determine the best options for their business and trained users on using the system.",
+            "locator": "credential statements (not independently verified)",
+            "retrievedAt": "2026-10-16T19:53:57.119Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "topics": {
+        "value": [
+          "Tax Preparation & Planning Services - Florida",
+          "Florida Payroll Services",
+          "Accounting & Bookkeeping Services",
+          "Florida IRS Tax Problems"
+        ],
+        "status": "inferred",
+        "sources": [
+          {
+            "url": "https://account-it.net/services/tax-preparation-planning",
+            "excerpt": "Tax Preparation & Planning Services - Florida",
+            "locator": "JSON-LD offering.name",
+            "retrievedAt": "2026-10-16T19:53:57.951Z"
+          },
+          {
+            "url": "https://account-it.net/services/payroll",
+            "excerpt": "Florida Payroll Services",
+            "locator": "JSON-LD offering.name",
+            "retrievedAt": "2026-10-16T19:53:58.311Z"
+          },
+          {
+            "url": "https://account-it.net/services/accounting-bookkeeping",
+            "excerpt": "Accounting & Bookkeeping Services",
+            "locator": "JSON-LD offering.name",
+            "retrievedAt": "2026-10-16T19:53:58.538Z"
+          },
+          {
+            "url": "https://account-it.net/services/irs-tax-problems",
+            "excerpt": "Florida IRS Tax Problems",
+            "locator": "JSON-LD offering.name",
+            "retrievedAt": "2026-10-16T19:53:58.854Z"
+          }
+        ],
+        "reviewed": false
+      },
+      "claims": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      },
+      "promotions": {
+        "value": null,
+        "status": "unknown",
+        "sources": [],
+        "reviewed": false
+      }
+    }
+  },
+  "people": [
+    {
+      "id": "fe7a725e-6941-4385-8492-d224e451b588",
+      "fields": {
+        "name": {
+          "value": "Doug Cohen",
+          "status": "inferred",
+          "sources": [
+            {
+              "url": "https://account-it.net/about-us/doug-cohen",
+              "excerpt": "Doug Cohen",
+              "locator": "biography page heading",
+              "retrievedAt": "2026-10-16T19:53:57.120Z"
+            }
+          ],
+          "reviewed": false
+        },
+        "title": {
+          "value": "CPA",
+          "status": "extracted",
+          "sources": [
+            {
+              "url": "https://account-it.net/about-us/doug-cohen",
+              "excerpt": "CPA",
+              "locator": "credentials in biography heading",
+              "retrievedAt": "2026-10-16T19:53:57.120Z"
+            }
+          ],
+          "reviewed": false
+        },
+        "role": {
+          "value": "Founder",
+          "status": "extracted",
+          "sources": [
+            {
+              "url": "https://account-it.net/about-us/doug-cohen",
+              "excerpt": "Founder",
+              "locator": "biography page title",
+              "retrievedAt": "2026-10-16T19:53:57.120Z"
+            }
+          ],
+          "reviewed": false
+        },
+        "gender": {
+          "value": null,
+          "status": "unknown",
+          "sources": [],
+          "reviewed": false
+        },
+        "background": {
+          "value": "CPAs are a great resource for any business, large or small. But if your accountant also has a wealth of experience in operations, HR and overall financial strategy - like I do - he can provide incredible value to your company. My experience includes years of public accounting, 14 years as a CFO/Controller, part-time CFO and, since 2003, my own accounting practice in South Florida. I provide part-time or interim financial and accounting services. You can receive the service and support of a highly qualified CFO and Controller only as you need it, without having to pay a full-time salary or benefits. Many companies offer this type of professional service -- but, all too often, professional service companies and larger CPA firms charge exorbitant fees.",
+          "status": "extracted",
+          "sources": [
+            {
+              "url": "https://account-it.net/about-us/doug-cohen",
+              "excerpt": "CPAs are a great resource for any business, large or small. But if your accountant also has a wealth of experience in operations, HR and overall financial strategy - like I do - he can provide incredible value to your company. My experience includes years of public accounting, 14 years as a CFO/Controller, part-time CFO and, since 2003, my own accounting practice in South Florida. I provide part-time or interim financial and accounting services. You can receive the service and support of a highly qualified CFO and Controller only as you need it, without having to pay a full-time salary or benefits. Many companies offer this type of professional service -- but, all too often, professional service companies and larger CPA firms charge exorbitant fees.",
+              "locator": "biography paragraphs",
+              "retrievedAt": "2026-10-16T19:53:57.120Z"
+            }
+          ],
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "offerings": [
+    {
+      "id": "58afb5a1-e84b-4959-9a68-2aba142e74ce",
+      "fields": {
+        "name": {
+          "value": "Tax Preparation & Planning Services - Florida",
+          "status": "extracted",
+          "sources": [
+            {
+              "url": "https://account-it.net/services/tax-preparation-planning",
+              "excerpt": "Tax Preparation & Planning Services - Florida",
+              "locator": "JSON-LD offering.name",
+              "retrievedAt": "2026-10-16T19:53:57.951Z"
+            }
+          ],
+          "reviewed": false
+        },
+        "type": {
+          "value": "Service",
+          "status": "extracted",
+          "sources": [
+            {
+              "url": "https://account-it.net/services/tax-preparation-planning",
+              "excerpt": "Service",
+              "locator": "JSON-LD @type",
+              "retrievedAt": "2026-10-16T19:53:57.951Z"
+            }
+          ],
+          "reviewed": false
+        },
+        "category": {
+          "value": null,
+          "status": "unknown",
+          "sources": [],
+          "reviewed": false
+        },
+        "description": {
+          "value": "Florida-based Account-it Consulting Services, LLC offers expert tax preparation and planning services for individuals and business owners. Learn more.",
+          "status": "extracted",
+          "sources": [
+            {
+              "url": "https://account-it.net/services/tax-preparation-planning",
+              "excerpt": "Florida-based Account-it Consulting Services, LLC offers expert tax preparation and planning services for individuals and business owners. Learn more.",
+              "locator": "JSON-LD offering.description",
+              "retrievedAt": "2026-10-16T19:53:57.951Z"
+            }
+          ],
+          "reviewed": false
+        },
+        "features": {
+          "value": null,
+          "status": "unknown",
+          "sources": [],
+          "reviewed": false
+        },
+        "pricing": {
+          "value": null,
+          "status": "unknown",
+          "sources": [],
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "1a4e111c-48a5-46fa-b85e-eae9b3e5d76a",
+      "fields": {
+        "name": {
+          "value": "Florida Payroll Services",
+          "status": "extracted",
+          "sources": [
+            {
+              "url": "https://account-it.net/services/payroll",
+              "excerpt": "Florida Payroll Services",
+              "locator": "JSON-LD offering.name",
+              "retrievedAt": "2026-10-16T19:53:58.311Z"
+            }
+          ],
+          "reviewed": false
+        },
+        "type": {
+          "value": "Service",
+          "status": "extracted",
+          "sources": [
+            {
+              "url": "https://account-it.net/services/payroll",
+              "excerpt": "Service",
+              "locator": "JSON-LD @type",
+              "retrievedAt": "2026-10-16T19:53:58.311Z"
+            }
+          ],
+          "reviewed": false
+        },
+        "category": {
+          "value": null,
+          "status": "unknown",
+          "sources": [],
+          "reviewed": false
+        },
+        "description": {
+          "value": "At Account-it Consulting Services, LLC, we offer payroll services for Boynton Beach businesses in all industries. Contact us at (954) 592-8630 today.",
+          "status": "extracted",
+          "sources": [
+            {
+              "url": "https://account-it.net/services/payroll",
+              "excerpt": "At Account-it Consulting Services, LLC, we offer payroll services for Boynton Beach businesses in all industries. Contact us at (954) 592-8630 today.",
+              "locator": "JSON-LD offering.description",
+              "retrievedAt": "2026-10-16T19:53:58.311Z"
+            }
+          ],
+          "reviewed": false
+        },
+        "features": {
+          "value": null,
+          "status": "unknown",
+          "sources": [],
+          "reviewed": false
+        },
+        "pricing": {
+          "value": null,
+          "status": "unknown",
+          "sources": [],
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "5a4f9564-abda-4085-a1e4-7b20fcc82945",
+      "fields": {
+        "name": {
+          "value": "Accounting & Bookkeeping Services",
+          "status": "extracted",
+          "sources": [
+            {
+              "url": "https://account-it.net/services/accounting-bookkeeping",
+              "excerpt": "Accounting & Bookkeeping Services",
+              "locator": "JSON-LD offering.name",
+              "retrievedAt": "2026-10-16T19:53:58.538Z"
+            }
+          ],
+          "reviewed": false
+        },
+        "type": {
+          "value": "Service",
+          "status": "extracted",
+          "sources": [
+            {
+              "url": "https://account-it.net/services/accounting-bookkeeping",
+              "excerpt": "Service",
+              "locator": "JSON-LD @type",
+              "retrievedAt": "2026-10-16T19:53:58.538Z"
+            }
+          ],
+          "reviewed": false
+        },
+        "category": {
+          "value": null,
+          "status": "unknown",
+          "sources": [],
+          "reviewed": false
+        },
+        "description": {
+          "value": "Account-it Consulting Services, LLC proudly provides accounting and bookkeeping services for business owners in the Boynton Beach area. We serve all industries.",
+          "status": "extracted",
+          "sources": [
+            {
+              "url": "https://account-it.net/services/accounting-bookkeeping",
+              "excerpt": "Account-it Consulting Services, LLC proudly provides accounting and bookkeeping services for business owners in the Boynton Beach area. We serve all industries.",
+              "locator": "JSON-LD offering.description",
+              "retrievedAt": "2026-10-16T19:53:58.538Z"
+            }
+          ],
+          "reviewed": false
+        },
+        "features": {
+          "value": null,
+          "status": "unknown",
+          "sources": [],
+          "reviewed": false
+        },
+        "pricing": {
+          "value": null,
+          "status": "unknown",
+          "sources": [],
+          "reviewed": false
+        }
+      }
+    },
+    {
+      "id": "5c1380a7-4718-4a1b-97c4-1508313e746d",
+      "fields": {
+        "name": {
+          "value": "Florida IRS Tax Problems",
+          "status": "extracted",
+          "sources": [
+            {
+              "url": "https://account-it.net/services/irs-tax-problems",
+              "excerpt": "Florida IRS Tax Problems",
+              "locator": "JSON-LD offering.name",
+              "retrievedAt": "2026-10-16T19:53:58.854Z"
+            }
+          ],
+          "reviewed": false
+        },
+        "type": {
+          "value": "Service",
+          "status": "extracted",
+          "sources": [
+            {
+              "url": "https://account-it.net/services/irs-tax-problems",
+              "excerpt": "Service",
+              "locator": "JSON-LD @type",
+              "retrievedAt": "2026-10-16T19:53:58.854Z"
+            }
+          ],
+          "reviewed": false
+        },
+        "category": {
+          "value": null,
+          "status": "unknown",
+          "sources": [],
+          "reviewed": false
+        },
+        "description": {
+          "value": "Is the IRS causing you stress? Account-it Consulting Services, LLC offers assistance with a wide variety of IRS tax problems. Learn how we can help you.",
+          "status": "extracted",
+          "sources": [
+            {
+              "url": "https://account-it.net/services/irs-tax-problems",
+              "excerpt": "Is the IRS causing you stress? Account-it Consulting Services, LLC offers assistance with a wide variety of IRS tax problems. Learn how we can help you.",
+              "locator": "JSON-LD offering.description",
+              "retrievedAt": "2026-10-16T19:53:58.854Z"
+            }
+          ],
+          "reviewed": false
+        },
+        "features": {
+          "value": null,
+          "status": "unknown",
+          "sources": [],
+          "reviewed": false
+        },
+        "pricing": {
+          "value": null,
+          "status": "unknown",
+          "sources": [],
+          "reviewed": false
+        }
+      }
+    }
+  ],
+  "crawl": {
+    "pages": [
+      {
+        "url": "https://account-it.net/",
+        "title": "Account-it Consulting Services, LLC Tax Experts in Florida",
+        "status": "success"
+      },
+      {
+        "url": "https://account-it.net/about-us/doug-cohen",
+        "title": "Doug Cohen - Account-it Consulting Services, LLC Founder",
+        "status": "success"
+      },
+      {
+        "url": "https://account-it.net/contact",
+        "title": "Contact Account-it Consulting Services, LLC",
+        "status": "success"
+      },
+      {
+        "url": "https://account-it.net/firm-background",
+        "title": "About Account-it Consulting Services, LLC - Your Tax Pros",
+        "status": "success"
+      },
+      {
+        "url": "https://account-it.net/services/tax-preparation-planning",
+        "title": "Boynton Beach Tax Preparation & Planning | Account-it Consulting Services, LLC",
+        "status": "success"
+      },
+      {
+        "url": "https://account-it.net/services/payroll",
+        "title": "Florida Payroll Services | Account-it Consulting Services, LLC",
+        "status": "success"
+      },
+      {
+        "url": "https://account-it.net/services/accounting-bookkeeping",
+        "title": "Florida Accounting & Bookkeeping Services | Account-it Consulting Services, LLC",
+        "status": "success"
+      },
+      {
+        "url": "https://account-it.net/services/irs-tax-problems",
+        "title": "IRS Tax Problems - Account-it Consulting Services, LLC",
+        "status": "success"
+      }
+    ],
+    "warnings": [
+      "This is a bounded crawl, not a complete copy of the website. Additional pages may contain missing information.",
+      "Inferred fields need review. Missing information is left blank; linked stylesheets and JavaScript-rendered content are not analyzed."
+    ],
+    "completedAt": "2026-10-16T19:53:58.855Z"
+  }
+}
