@@ -1,0 +1,57 @@
+1. What approach did you take to scraping and structuring the knowledgebase data?
+
+At first, I tried basic HTML scraping and tried with a variety of websites. I then
+realized that a majority of small businesses use website builders like WIX, which
+meant I had to change my method.
+
+The current method fetches the homepage and goes two links out from the homepage. It
+also has a hard cap of 40 per crawl. I decided this was a good balance of getting
+lots of information, but also at a good pace. It is also able to read JavaScript
+content (some of the websites have very little readable HTMLs).
+
+For the knowledgebase, I made the scraper target all the needed information. I also
+made it detect any legal policies / disclaimers. I also added an extra field to add
+any competitor information. It then can be edited by the user. At the moment, some
+fields return empty. I didn't implement this, but a good way to enter those missing
+fields would be by using an LLM or a simple quiz to the user after. For now though,
+they are just editable fields that can be altered by the user. The fields have review
+tags so that they can keep track of what has been reviewed properly.
+
+2. What information beyond our current baseline did you choose to include, and why?
+I chose legal policies / disclaimers. This is because most of the websites did have a
+legal website. I think it is important that we don't market anything that is 
+contradictory to the legal policies of the company. 
+While the scraper doesn't look for it. I added a field that the user can put in the
+knowledgebase for competitors. This is so that MoFlo Cloud could scrape them and use that
+information to help the user.
+
+3. How would your knowledge base design improve the outputs of MoSocial, MoMail, and MoBlogs specifically?
+I think that the outputs of the knowledgebase could be used to provide needed context to
+the LLM that is running MoSocial, MoMail, and MoBlogs. With all these fields, a LLM
+has more than just a website. it has the needed information to market the company accurately,
+and quickly.
+
+The knowledge library has view options for card and table, meaning you can keep the knowledges 
+organized. The details section can also be toggled from the fields or expanded modes. Field allows
+the user to look at what is missing, where as expanded makes it look like a document that
+can easily be copy and pasted.
+
+4. What would you improve or change about MoKnowledge if you had more time?
+I would improve the scraper and implement LLMs to try to fill each field as accurately as
+possible. Some of the websites I tried were still not able to get information. More fields
+would also be good to get, like best posts across all socials.
+
+I like the idea of adding visibility statistics (Tristan talked about this for an ad).
+People could put there website in and get a score. I also think it would be cool
+to add a predictive score. Like "This is your current score, but with MoFlo you could
+be 10x more visible." You could do this by collecting visibility data from before your
+clients used MoFlo and compare them to after.
+
+You could also add a suggested marketing strategy. Feed the JSON to an LLM to tell you
+the best marketing stratagies and even come up with some examples to get started.
+
+5. What was the most challenging part of this assignment?
+Websites don't follow a set standard. I had to update the parser a couple of times
+and it is still arguably worse than what MoFlo has. Also, scraped information
+was sometimes put in the wrong fields.
+

@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "ebcba83b-1382-42f5-98ba-acc0025dae64",
+  "id": "c35439bf-b760-4a0c-914c-5c5296bcf503",
   "version": 1,
-  "createdAt": "2026-10-16T23:52:04.129Z",
-  "updatedAt": "2026-10-16T23:52:20.598Z",
+  "createdAt": "2026-10-17T22:24:04.367Z",
+  "updatedAt": "2026-10-17T22:24:36.507Z",
   "requestedUrl": "https://account-it.net/",
   "sections": {
     "foundation": {
@@ -15,7 +15,7 @@
             "url": "https://account-it.net/",
             "excerpt": "Account-it Consulting Services, LLC",
             "locator": "JSON-LD organization.name",
-            "retrievedAt": "2026-10-16T23:52:04.599Z"
+            "retrievedAt": "2026-10-17T22:24:05.109Z"
           }
         ],
         "reviewed": false
@@ -28,7 +28,7 @@
             "url": "https://account-it.net/",
             "excerpt": "Account-it Consulting Services, LLC will take care of your tax preparation and planning needs so you can focus on life in beautiful Boynton Beach.",
             "locator": "JSON-LD organization.description",
-            "retrievedAt": "2026-10-16T23:52:04.599Z"
+            "retrievedAt": "2026-10-17T22:24:05.109Z"
           }
         ],
         "reviewed": false
@@ -41,7 +41,7 @@
             "url": "https://account-it.net/",
             "excerpt": "https://account-it.net/",
             "locator": "final response URL",
-            "retrievedAt": "2026-10-16T23:52:04.597Z"
+            "retrievedAt": "2026-10-17T22:24:05.106Z"
           }
         ],
         "reviewed": false
@@ -54,7 +54,7 @@
             "url": "https://account-it.net/",
             "excerpt": "https://cw3prd.s3.us-west-1.amazonaws.com/2334180/account-logo.png",
             "locator": "JSON-LD logo",
-            "retrievedAt": "2026-10-16T23:52:04.599Z"
+            "retrievedAt": "2026-10-17T22:24:05.109Z"
           }
         ],
         "reviewed": false
@@ -67,7 +67,7 @@
             "url": "https://account-it.net/",
             "excerpt": "Account-it Consulting Services, LLC will take care of your tax preparation and planning needs so you can focus on life in beautiful Boynton Beach.",
             "locator": "Industry inferred from overview: JSON-LD organization.description",
-            "retrievedAt": "2026-10-16T23:52:04.599Z"
+            "retrievedAt": "2026-10-17T22:24:05.109Z"
           }
         ],
         "reviewed": false
@@ -86,31 +86,31 @@
             "url": "https://account-it.net/services/irs-tax-problems",
             "excerpt": "Service",
             "locator": "JSON-LD @type",
-            "retrievedAt": "2026-10-16T23:52:09.664Z"
+            "retrievedAt": "2026-10-17T22:24:16.401Z"
           },
           {
             "url": "https://account-it.net/services/tax-preparation-planning",
             "excerpt": "Service",
             "locator": "JSON-LD @type",
-            "retrievedAt": "2026-10-16T23:52:09.984Z"
+            "retrievedAt": "2026-10-17T22:24:17.037Z"
           },
           {
             "url": "https://account-it.net/services/payroll",
             "excerpt": "Service",
             "locator": "JSON-LD @type",
-            "retrievedAt": "2026-10-16T23:52:13.644Z"
+            "retrievedAt": "2026-10-17T22:24:22.652Z"
           },
           {
             "url": "https://account-it.net/services/accounting-bookkeeping",
             "excerpt": "Service",
             "locator": "JSON-LD @type",
-            "retrievedAt": "2026-10-16T23:52:13.931Z"
+            "retrievedAt": "2026-10-17T22:24:23.396Z"
           },
           {
             "url": "https://account-it.net/services/quickbooks",
             "excerpt": "Service",
             "locator": "JSON-LD @type",
-            "retrievedAt": "2026-10-16T23:52:14.232Z"
+            "retrievedAt": "2026-10-17T22:24:23.919Z"
           }
         ],
         "reviewed": false
@@ -123,7 +123,7 @@
             "url": "https://account-it.net/about-us/doug-cohen",
             "excerpt": "My experience includes years of public accounting, 14 years as a CFO/Controller, part-time CFO and, since 2003, my own accounting practice in South Florida.",
             "locator": "explicit founding statement",
-            "retrievedAt": "2026-10-16T23:52:12.074Z"
+            "retrievedAt": "2026-10-17T22:24:19.750Z"
           }
         ],
         "reviewed": false
@@ -136,7 +136,7 @@
             "url": "https://account-it.net/",
             "excerpt": "LLC",
             "locator": "company name / footer legal entity suffix",
-            "retrievedAt": "2026-10-16T23:52:04.600Z"
+            "retrievedAt": "2026-10-17T22:24:05.110Z"
           }
         ],
         "reviewed": false
@@ -155,7 +155,7 @@
             "url": "https://account-it.net/",
             "excerpt": "Boynton Beach, Florida, 33437",
             "locator": "JSON-LD address",
-            "retrievedAt": "2026-10-16T23:52:04.599Z"
+            "retrievedAt": "2026-10-17T22:24:05.109Z"
           }
         ],
         "reviewed": false
@@ -170,121 +170,121 @@
             "url": "https://account-it.net/",
             "excerpt": "(954) 592-8630",
             "locator": "tel: links and page text",
-            "retrievedAt": "2026-10-16T23:52:04.605Z"
+            "retrievedAt": "2026-10-17T22:24:05.114Z"
           },
           {
             "url": "https://account-it.net/firm-background",
             "excerpt": "(954) 592-8630",
             "locator": "tel: links and page text",
-            "retrievedAt": "2026-10-16T23:52:05.240Z"
+            "retrievedAt": "2026-10-17T22:24:06.046Z"
           },
           {
             "url": "https://account-it.net/contact",
             "excerpt": "(954) 592-8630",
             "locator": "tel: links and page text",
-            "retrievedAt": "2026-10-16T23:52:05.427Z"
+            "retrievedAt": "2026-10-17T22:24:06.700Z"
           },
           {
             "url": "https://account-it.net/firm-background/privacy-policy",
             "excerpt": "(954) 592-8630",
             "locator": "tel: links and page text",
-            "retrievedAt": "2026-10-16T23:52:05.794Z"
+            "retrievedAt": "2026-10-17T22:24:07.314Z"
           },
           {
             "url": "https://account-it.net/firm-background/referrals",
             "excerpt": "(954) 592-8630",
             "locator": "tel: links and page text",
-            "retrievedAt": "2026-10-16T23:52:06.055Z"
+            "retrievedAt": "2026-10-17T22:24:08.035Z"
           },
           {
             "url": "https://account-it.net/blog/tax-deductions-for-restaurant-service-staff",
             "excerpt": "(954) 592-8630",
             "locator": "tel: links and page text",
-            "retrievedAt": "2026-10-16T23:52:06.340Z"
+            "retrievedAt": "2026-10-17T22:24:08.625Z"
           },
           {
             "url": "https://account-it.net/blog/home-ownership-your-best-tax-shelter",
             "excerpt": "(954) 592-8630",
             "locator": "tel: links and page text",
-            "retrievedAt": "2026-10-16T23:52:06.766Z"
+            "retrievedAt": "2026-10-17T22:24:09.261Z"
           },
           {
             "url": "https://account-it.net/blog/important-things-to-know-about-iras",
             "excerpt": "(954) 592-8630",
             "locator": "tel: links and page text",
-            "retrievedAt": "2026-10-16T23:52:06.973Z"
+            "retrievedAt": "2026-10-17T22:24:09.877Z"
           },
           {
             "url": "https://account-it.net/blog/tax-reform-central-all-about-the-tax-cuts-and-jobs-act",
             "excerpt": "(954) 592-8630",
             "locator": "tel: links and page text",
-            "retrievedAt": "2026-10-16T23:52:07.367Z"
+            "retrievedAt": "2026-10-17T22:24:10.701Z"
           },
           {
             "url": "https://account-it.net/blog/business-owners-beware-new-tax-law-severely-limits-entertainment-deductions",
             "excerpt": "(954) 592-8630",
             "locator": "tel: links and page text",
-            "retrievedAt": "2026-10-16T23:52:07.559Z"
+            "retrievedAt": "2026-10-17T22:24:11.305Z"
           },
           {
             "url": "https://account-it.net/blog/learn-how-tax-reform-provides-a-big-benefit-to-many-small-business-owners",
             "excerpt": "(954) 592-8630",
             "locator": "tel: links and page text",
-            "retrievedAt": "2026-10-16T23:52:07.891Z"
+            "retrievedAt": "2026-10-17T22:24:11.932Z"
           },
           {
             "url": "https://account-it.net/blog/learn-how-business-owners-can-hire-their-children-during-the-summer-to-help-save-on-taxes",
             "excerpt": "(954) 592-8630",
             "locator": "tel: links and page text",
-            "retrievedAt": "2026-10-16T23:52:08.167Z"
+            "retrievedAt": "2026-10-17T22:24:12.764Z"
           },
           {
             "url": "https://account-it.net/blog/good-and-bad-news-about-the-home-office-tax-deduction",
             "excerpt": "(954) 592-8630",
             "locator": "tel: links and page text",
-            "retrievedAt": "2026-10-16T23:52:08.456Z"
+            "retrievedAt": "2026-10-17T22:24:13.456Z"
           },
           {
             "url": "https://account-it.net/blog/the-most-common-accounting-mistakes-small-business-owners-make-and-how-to-avoid-them",
             "excerpt": "(954) 592-8630",
             "locator": "tel: links and page text",
-            "retrievedAt": "2026-10-16T23:52:08.860Z"
+            "retrievedAt": "2026-10-17T22:24:14.380Z"
           },
           {
             "url": "https://account-it.net/blog/10-mistakes-most-small-business-owners-miss-when-starting-out",
             "excerpt": "(954) 592-8630",
             "locator": "tel: links and page text",
-            "retrievedAt": "2026-10-16T23:52:09.095Z"
+            "retrievedAt": "2026-10-17T22:24:14.988Z"
           },
           {
             "url": "https://account-it.net/services",
             "excerpt": "(954) 592-8630",
             "locator": "tel: links and page text",
-            "retrievedAt": "2026-10-16T23:52:09.446Z"
+            "retrievedAt": "2026-10-17T22:24:15.855Z"
           },
           {
             "url": "https://account-it.net/services/irs-tax-problems",
             "excerpt": "(954) 592-8630",
             "locator": "tel: links and page text",
-            "retrievedAt": "2026-10-16T23:52:09.665Z"
+            "retrievedAt": "2026-10-17T22:24:16.403Z"
           },
           {
             "url": "https://account-it.net/services/tax-preparation-planning",
             "excerpt": "(954) 592-8630",
             "locator": "tel: links and page text",
-            "retrievedAt": "2026-10-16T23:52:09.985Z"
+            "retrievedAt": "2026-10-17T22:24:17.038Z"
           },
           {
             "url": "https://account-it.net/about-us/doug-cohen",
             "excerpt": "(954) 592-8630",
             "locator": "tel: links and page text",
-            "retrievedAt": "2026-10-16T23:52:12.075Z"
+            "retrievedAt": "2026-10-17T22:24:19.752Z"
           },
           {
             "url": "https://account-it.net/learning-center",
             "excerpt": "(954) 592-8630",
             "locator": "tel: links and page text",
-            "retrievedAt": "2026-10-16T23:52:12.699Z"
+            "retrievedAt": "2026-10-17T22:24:20.935Z"
           }
         ],
         "reviewed": false
@@ -299,19 +299,19 @@
             "url": "https://account-it.net/",
             "excerpt": "dougc@account-it.net",
             "locator": "mailto: links and page text",
-            "retrievedAt": "2026-10-16T23:52:04.605Z"
+            "retrievedAt": "2026-10-17T22:24:05.114Z"
           },
           {
             "url": "https://account-it.net/firm-background",
             "excerpt": "dougc@account-it.net",
             "locator": "mailto: links and page text",
-            "retrievedAt": "2026-10-16T23:52:05.240Z"
+            "retrievedAt": "2026-10-17T22:24:06.046Z"
           },
           {
             "url": "https://account-it.net/contact",
             "excerpt": "dougc@account-it.net",
             "locator": "mailto: links and page text",
-            "retrievedAt": "2026-10-16T23:52:05.427Z"
+            "retrievedAt": "2026-10-17T22:24:06.700Z"
           }
         ],
         "reviewed": false
@@ -326,121 +326,121 @@
             "url": "https://account-it.net/",
             "excerpt": "Google Analytics",
             "locator": "scripts, stylesheets, and generator meta",
-            "retrievedAt": "2026-10-16T23:52:04.605Z"
+            "retrievedAt": "2026-10-17T22:24:05.114Z"
           },
           {
             "url": "https://account-it.net/firm-background",
             "excerpt": "Google Analytics",
             "locator": "scripts, stylesheets, and generator meta",
-            "retrievedAt": "2026-10-16T23:52:05.240Z"
+            "retrievedAt": "2026-10-17T22:24:06.046Z"
           },
           {
             "url": "https://account-it.net/contact",
             "excerpt": "Google Analytics",
             "locator": "scripts, stylesheets, and generator meta",
-            "retrievedAt": "2026-10-16T23:52:05.427Z"
+            "retrievedAt": "2026-10-17T22:24:06.700Z"
           },
           {
             "url": "https://account-it.net/firm-background/privacy-policy",
             "excerpt": "Google Analytics",
             "locator": "scripts, stylesheets, and generator meta",
-            "retrievedAt": "2026-10-16T23:52:05.794Z"
+            "retrievedAt": "2026-10-17T22:24:07.314Z"
           },
           {
             "url": "https://account-it.net/firm-background/referrals",
             "excerpt": "Google Analytics",
             "locator": "scripts, stylesheets, and generator meta",
-            "retrievedAt": "2026-10-16T23:52:06.055Z"
+            "retrievedAt": "2026-10-17T22:24:08.035Z"
           },
           {
             "url": "https://account-it.net/blog/tax-deductions-for-restaurant-service-staff",
             "excerpt": "Google Analytics",
             "locator": "scripts, stylesheets, and generator meta",
-            "retrievedAt": "2026-10-16T23:52:06.340Z"
+            "retrievedAt": "2026-10-17T22:24:08.625Z"
           },
           {
             "url": "https://account-it.net/blog/home-ownership-your-best-tax-shelter",
             "excerpt": "Google Analytics",
             "locator": "scripts, stylesheets, and generator meta",
-            "retrievedAt": "2026-10-16T23:52:06.766Z"
+            "retrievedAt": "2026-10-17T22:24:09.261Z"
           },
           {
             "url": "https://account-it.net/blog/important-things-to-know-about-iras",
             "excerpt": "Google Analytics",
             "locator": "scripts, stylesheets, and generator meta",
-            "retrievedAt": "2026-10-16T23:52:06.973Z"
+            "retrievedAt": "2026-10-17T22:24:09.877Z"
           },
           {
             "url": "https://account-it.net/blog/tax-reform-central-all-about-the-tax-cuts-and-jobs-act",
             "excerpt": "Google Analytics",
             "locator": "scripts, stylesheets, and generator meta",
-            "retrievedAt": "2026-10-16T23:52:07.367Z"
+            "retrievedAt": "2026-10-17T22:24:10.701Z"
           },
           {
             "url": "https://account-it.net/blog/business-owners-beware-new-tax-law-severely-limits-entertainment-deductions",
             "excerpt": "Google Analytics",
             "locator": "scripts, stylesheets, and generator meta",
-            "retrievedAt": "2026-10-16T23:52:07.559Z"
+            "retrievedAt": "2026-10-17T22:24:11.305Z"
           },
           {
             "url": "https://account-it.net/blog/learn-how-tax-reform-provides-a-big-benefit-to-many-small-business-owners",
             "excerpt": "Google Analytics",
             "locator": "scripts, stylesheets, and generator meta",
-            "retrievedAt": "2026-10-16T23:52:07.891Z"
+            "retrievedAt": "2026-10-17T22:24:11.932Z"
           },
           {
             "url": "https://account-it.net/blog/learn-how-business-owners-can-hire-their-children-during-the-summer-to-help-save-on-taxes",
             "excerpt": "Google Analytics",
             "locator": "scripts, stylesheets, and generator meta",
-            "retrievedAt": "2026-10-16T23:52:08.168Z"
+            "retrievedAt": "2026-10-17T22:24:12.764Z"
           },
           {
             "url": "https://account-it.net/blog/good-and-bad-news-about-the-home-office-tax-deduction",
             "excerpt": "Google Analytics",
             "locator": "scripts, stylesheets, and generator meta",
-            "retrievedAt": "2026-10-16T23:52:08.456Z"
+            "retrievedAt": "2026-10-17T22:24:13.456Z"
           },
           {
             "url": "https://account-it.net/blog/the-most-common-accounting-mistakes-small-business-owners-make-and-how-to-avoid-them",
             "excerpt": "Google Analytics",
             "locator": "scripts, stylesheets, and generator meta",
-            "retrievedAt": "2026-10-16T23:52:08.860Z"
+            "retrievedAt": "2026-10-17T22:24:14.380Z"
           },
           {
             "url": "https://account-it.net/blog/10-mistakes-most-small-business-owners-miss-when-starting-out",
             "excerpt": "Google Analytics",
             "locator": "scripts, stylesheets, and generator meta",
-            "retrievedAt": "2026-10-16T23:52:09.095Z"
+            "retrievedAt": "2026-10-17T22:24:14.988Z"
           },
           {
             "url": "https://account-it.net/services",
             "excerpt": "Google Analytics",
             "locator": "scripts, stylesheets, and generator meta",
-            "retrievedAt": "2026-10-16T23:52:09.446Z"
+            "retrievedAt": "2026-10-17T22:24:15.855Z"
           },
           {
             "url": "https://account-it.net/services/irs-tax-problems",
             "excerpt": "Google Analytics",
             "locator": "scripts, stylesheets, and generator meta",
-            "retrievedAt": "2026-10-16T23:52:09.665Z"
+            "retrievedAt": "2026-10-17T22:24:16.403Z"
           },
           {
             "url": "https://account-it.net/services/tax-preparation-planning",
             "excerpt": "Google Analytics",
             "locator": "scripts, stylesheets, and generator meta",
-            "retrievedAt": "2026-10-16T23:52:09.985Z"
+            "retrievedAt": "2026-10-17T22:24:17.038Z"
           },
           {
             "url": "https://account-it.net/about-us/doug-cohen",
             "excerpt": "Google Analytics",
             "locator": "scripts, stylesheets, and generator meta",
-            "retrievedAt": "2026-10-16T23:52:12.075Z"
+            "retrievedAt": "2026-10-17T22:24:19.752Z"
           },
           {
             "url": "https://account-it.net/learning-center",
             "excerpt": "Google Analytics",
             "locator": "scripts, stylesheets, and generator meta",
-            "retrievedAt": "2026-10-16T23:52:12.699Z"
+            "retrievedAt": "2026-10-17T22:24:20.935Z"
           }
         ],
         "reviewed": false
@@ -453,7 +453,7 @@
             "url": "https://account-it.net/",
             "excerpt": "en",
             "locator": "html lang attribute",
-            "retrievedAt": "2026-10-16T23:52:04.605Z"
+            "retrievedAt": "2026-10-17T22:24:05.114Z"
           }
         ],
         "reviewed": false
@@ -492,7 +492,7 @@
             "url": "https://account-it.net/about-us/doug-cohen",
             "excerpt": "My experience includes years of public accounting, 14 years as a CFO/Controller, part-time CFO and, since 2003, my own accounting practice in South Florida.",
             "locator": "founding statement",
-            "retrievedAt": "2026-10-16T23:52:12.074Z"
+            "retrievedAt": "2026-10-17T22:24:19.750Z"
           }
         ],
         "reviewed": false
@@ -508,7 +508,7 @@
             "url": "https://account-it.net/firm-background",
             "excerpt": "We specialize in tax preparation and planning for both individuals and businesses, ensuring our clients navigate the complexities of the tax system with confidence.; Doug's practical, hands-on experience across various industries makes us uniquely equipped to provide valuable insights and support to clients like you.",
             "locator": "differentiation statements",
-            "retrievedAt": "2026-10-16T23:52:05.235Z"
+            "retrievedAt": "2026-10-17T22:24:06.040Z"
           }
         ],
         "reviewed": false
@@ -536,31 +536,31 @@
             "url": "https://account-it.net/services/irs-tax-problems",
             "excerpt": "Account-it Consulting Services, LLC is here to help you resolve your tax problems and put an end to the misery that the IRS can put you through.",
             "locator": "customer problem / benefit statements",
-            "retrievedAt": "2026-10-16T23:52:09.663Z"
+            "retrievedAt": "2026-10-17T22:24:16.401Z"
           },
           {
             "url": "https://account-it.net/services/tax-preparation-planning",
             "excerpt": "At Account-it Consulting Services, LLC, we have the expertise that is needed to help you file your returns while also helping you to minimize your tax liability with careful planning.",
             "locator": "customer problem / benefit statements",
-            "retrievedAt": "2026-10-16T23:52:09.983Z"
+            "retrievedAt": "2026-10-17T22:24:17.037Z"
           },
           {
             "url": "https://account-it.net/services/payroll",
             "excerpt": "We can help simplify the payroll process to help you more effectively manage your Florida small business.",
             "locator": "customer problem / benefit statements",
-            "retrievedAt": "2026-10-16T23:52:13.644Z"
+            "retrievedAt": "2026-10-17T22:24:22.651Z"
           },
           {
             "url": "https://account-it.net/services/accounting-bookkeeping",
             "excerpt": "Whether you are a start-up business, a growing business or a mature corporation, Account-it Consulting Services, LLC has the expertise to help you.",
             "locator": "customer problem / benefit statements",
-            "retrievedAt": "2026-10-16T23:52:13.931Z"
+            "retrievedAt": "2026-10-17T22:24:23.396Z"
           },
           {
             "url": "https://account-it.net/services/quickbooks",
             "excerpt": "QuickBooks Tips is a collection of shortcuts and hints that will help you make the most of your QuickBooks experience.; We'll explain how our QuickBooks services can help you.",
             "locator": "customer problem / benefit statements",
-            "retrievedAt": "2026-10-16T23:52:14.231Z"
+            "retrievedAt": "2026-10-17T22:24:23.919Z"
           }
         ],
         "reviewed": false
@@ -593,7 +593,7 @@
             "url": "https://account-it.net/",
             "excerpt": "https://account-it.net/",
             "locator": "company website",
-            "retrievedAt": "2026-10-16T23:52:04.598Z"
+            "retrievedAt": "2026-10-17T22:24:05.107Z"
           }
         ],
         "reviewed": false
@@ -610,121 +610,121 @@
             "url": "https://account-it.net/",
             "excerpt": "Website form; Appointment / booking link",
             "locator": "forms and signup / booking links",
-            "retrievedAt": "2026-10-16T23:52:04.601Z"
+            "retrievedAt": "2026-10-17T22:24:05.111Z"
           },
           {
             "url": "https://account-it.net/firm-background",
             "excerpt": "Appointment / booking link",
             "locator": "forms and signup / booking links",
-            "retrievedAt": "2026-10-16T23:52:05.235Z"
+            "retrievedAt": "2026-10-17T22:24:06.040Z"
           },
           {
             "url": "https://account-it.net/contact",
             "excerpt": "Website form; Appointment / booking link",
             "locator": "forms and signup / booking links",
-            "retrievedAt": "2026-10-16T23:52:05.427Z"
+            "retrievedAt": "2026-10-17T22:24:06.699Z"
           },
           {
             "url": "https://account-it.net/firm-background/privacy-policy",
             "excerpt": "Appointment / booking link",
             "locator": "forms and signup / booking links",
-            "retrievedAt": "2026-10-16T23:52:05.793Z"
+            "retrievedAt": "2026-10-17T22:24:07.313Z"
           },
           {
             "url": "https://account-it.net/firm-background/referrals",
             "excerpt": "Appointment / booking link",
             "locator": "forms and signup / booking links",
-            "retrievedAt": "2026-10-16T23:52:06.055Z"
+            "retrievedAt": "2026-10-17T22:24:08.034Z"
           },
           {
             "url": "https://account-it.net/blog/tax-deductions-for-restaurant-service-staff",
             "excerpt": "Website form; Appointment / booking link; Newsletter signup mention",
             "locator": "forms and signup / booking links",
-            "retrievedAt": "2026-10-16T23:52:06.339Z"
+            "retrievedAt": "2026-10-17T22:24:08.624Z"
           },
           {
             "url": "https://account-it.net/blog/home-ownership-your-best-tax-shelter",
             "excerpt": "Website form; Appointment / booking link; Newsletter signup mention",
             "locator": "forms and signup / booking links",
-            "retrievedAt": "2026-10-16T23:52:06.765Z"
+            "retrievedAt": "2026-10-17T22:24:09.260Z"
           },
           {
             "url": "https://account-it.net/blog/important-things-to-know-about-iras",
             "excerpt": "Website form; Appointment / booking link; Newsletter signup mention",
             "locator": "forms and signup / booking links",
-            "retrievedAt": "2026-10-16T23:52:06.972Z"
+            "retrievedAt": "2026-10-17T22:24:09.876Z"
           },
           {
             "url": "https://account-it.net/blog/tax-reform-central-all-about-the-tax-cuts-and-jobs-act",
             "excerpt": "Website form; Appointment / booking link; Newsletter signup mention",
             "locator": "forms and signup / booking links",
-            "retrievedAt": "2026-10-16T23:52:07.366Z"
+            "retrievedAt": "2026-10-17T22:24:10.699Z"
           },
           {
             "url": "https://account-it.net/blog/business-owners-beware-new-tax-law-severely-limits-entertainment-deductions",
             "excerpt": "Website form; Appointment / booking link; Newsletter signup mention",
             "locator": "forms and signup / booking links",
-            "retrievedAt": "2026-10-16T23:52:07.558Z"
+            "retrievedAt": "2026-10-17T22:24:11.304Z"
           },
           {
             "url": "https://account-it.net/blog/learn-how-tax-reform-provides-a-big-benefit-to-many-small-business-owners",
             "excerpt": "Website form; Appointment / booking link; Newsletter signup mention",
             "locator": "forms and signup / booking links",
-            "retrievedAt": "2026-10-16T23:52:07.890Z"
+            "retrievedAt": "2026-10-17T22:24:11.931Z"
           },
           {
             "url": "https://account-it.net/blog/learn-how-business-owners-can-hire-their-children-during-the-summer-to-help-save-on-taxes",
             "excerpt": "Website form; Appointment / booking link; Newsletter signup mention",
             "locator": "forms and signup / booking links",
-            "retrievedAt": "2026-10-16T23:52:08.167Z"
+            "retrievedAt": "2026-10-17T22:24:12.764Z"
           },
           {
             "url": "https://account-it.net/blog/good-and-bad-news-about-the-home-office-tax-deduction",
             "excerpt": "Website form; Appointment / booking link; Newsletter signup mention",
             "locator": "forms and signup / booking links",
-            "retrievedAt": "2026-10-16T23:52:08.455Z"
+            "retrievedAt": "2026-10-17T22:24:13.455Z"
           },
           {
             "url": "https://account-it.net/blog/the-most-common-accounting-mistakes-small-business-owners-make-and-how-to-avoid-them",
             "excerpt": "Website form; Appointment / booking link; Newsletter signup mention",
             "locator": "forms and signup / booking links",
-            "retrievedAt": "2026-10-16T23:52:08.859Z"
+            "retrievedAt": "2026-10-17T22:24:14.379Z"
           },
           {
             "url": "https://account-it.net/blog/10-mistakes-most-small-business-owners-miss-when-starting-out",
             "excerpt": "Website form; Appointment / booking link; Newsletter signup mention",
             "locator": "forms and signup / booking links",
-            "retrievedAt": "2026-10-16T23:52:09.094Z"
+            "retrievedAt": "2026-10-17T22:24:14.987Z"
           },
           {
             "url": "https://account-it.net/services",
             "excerpt": "Appointment / booking link",
             "locator": "forms and signup / booking links",
-            "retrievedAt": "2026-10-16T23:52:09.446Z"
+            "retrievedAt": "2026-10-17T22:24:15.854Z"
           },
           {
             "url": "https://account-it.net/services/irs-tax-problems",
             "excerpt": "Appointment / booking link",
             "locator": "forms and signup / booking links",
-            "retrievedAt": "2026-10-16T23:52:09.663Z"
+            "retrievedAt": "2026-10-17T22:24:16.400Z"
           },
           {
             "url": "https://account-it.net/services/tax-preparation-planning",
             "excerpt": "Appointment / booking link",
             "locator": "forms and signup / booking links",
-            "retrievedAt": "2026-10-16T23:52:09.983Z"
+            "retrievedAt": "2026-10-17T22:24:17.036Z"
           },
           {
             "url": "https://account-it.net/about-us/doug-cohen",
             "excerpt": "Appointment / booking link",
             "locator": "forms and signup / booking links",
-            "retrievedAt": "2026-10-16T23:52:12.074Z"
+            "retrievedAt": "2026-10-17T22:24:19.750Z"
           },
           {
             "url": "https://account-it.net/learning-center",
             "excerpt": "Website form; Appointment / booking link; Newsletter signup mention",
             "locator": "forms and signup / booking links",
-            "retrievedAt": "2026-10-16T23:52:12.698Z"
+            "retrievedAt": "2026-10-17T22:24:20.934Z"
           }
         ],
         "reviewed": false
@@ -741,121 +741,121 @@
             "url": "https://account-it.net/",
             "excerpt": "Schedule Appointment — https://account-it.net/appointment; Get started — https://account-it.net/contact",
             "locator": "action links",
-            "retrievedAt": "2026-10-16T23:52:04.601Z"
+            "retrievedAt": "2026-10-17T22:24:05.111Z"
           },
           {
             "url": "https://account-it.net/firm-background",
             "excerpt": "Schedule Appointment — https://account-it.net/appointment; Get started Today — https://account-it.net/contact",
             "locator": "action links",
-            "retrievedAt": "2026-10-16T23:52:05.235Z"
+            "retrievedAt": "2026-10-17T22:24:06.040Z"
           },
           {
             "url": "https://account-it.net/contact",
             "excerpt": "Schedule Appointment — https://account-it.net/appointment",
             "locator": "action links",
-            "retrievedAt": "2026-10-16T23:52:05.427Z"
+            "retrievedAt": "2026-10-17T22:24:06.699Z"
           },
           {
             "url": "https://account-it.net/firm-background/privacy-policy",
             "excerpt": "Schedule Appointment — https://account-it.net/appointment",
             "locator": "action links",
-            "retrievedAt": "2026-10-16T23:52:05.793Z"
+            "retrievedAt": "2026-10-17T22:24:07.313Z"
           },
           {
             "url": "https://account-it.net/firm-background/referrals",
             "excerpt": "Schedule Appointment — https://account-it.net/appointment",
             "locator": "action links",
-            "retrievedAt": "2026-10-16T23:52:06.054Z"
+            "retrievedAt": "2026-10-17T22:24:08.034Z"
           },
           {
             "url": "https://account-it.net/blog/tax-deductions-for-restaurant-service-staff",
             "excerpt": "Schedule Appointment — https://account-it.net/appointment",
             "locator": "action links",
-            "retrievedAt": "2026-10-16T23:52:06.339Z"
+            "retrievedAt": "2026-10-17T22:24:08.624Z"
           },
           {
             "url": "https://account-it.net/blog/home-ownership-your-best-tax-shelter",
             "excerpt": "Schedule Appointment — https://account-it.net/appointment",
             "locator": "action links",
-            "retrievedAt": "2026-10-16T23:52:06.765Z"
+            "retrievedAt": "2026-10-17T22:24:09.260Z"
           },
           {
             "url": "https://account-it.net/blog/important-things-to-know-about-iras",
             "excerpt": "Schedule Appointment — https://account-it.net/appointment",
             "locator": "action links",
-            "retrievedAt": "2026-10-16T23:52:06.972Z"
+            "retrievedAt": "2026-10-17T22:24:09.875Z"
           },
           {
             "url": "https://account-it.net/blog/tax-reform-central-all-about-the-tax-cuts-and-jobs-act",
             "excerpt": "Schedule Appointment — https://account-it.net/appointment",
             "locator": "action links",
-            "retrievedAt": "2026-10-16T23:52:07.366Z"
+            "retrievedAt": "2026-10-17T22:24:10.699Z"
           },
           {
             "url": "https://account-it.net/blog/business-owners-beware-new-tax-law-severely-limits-entertainment-deductions",
             "excerpt": "Schedule Appointment — https://account-it.net/appointment",
             "locator": "action links",
-            "retrievedAt": "2026-10-16T23:52:07.558Z"
+            "retrievedAt": "2026-10-17T22:24:11.304Z"
           },
           {
             "url": "https://account-it.net/blog/learn-how-tax-reform-provides-a-big-benefit-to-many-small-business-owners",
             "excerpt": "Schedule Appointment — https://account-it.net/appointment",
             "locator": "action links",
-            "retrievedAt": "2026-10-16T23:52:07.890Z"
+            "retrievedAt": "2026-10-17T22:24:11.931Z"
           },
           {
             "url": "https://account-it.net/blog/learn-how-business-owners-can-hire-their-children-during-the-summer-to-help-save-on-taxes",
             "excerpt": "Schedule Appointment — https://account-it.net/appointment",
             "locator": "action links",
-            "retrievedAt": "2026-10-16T23:52:08.167Z"
+            "retrievedAt": "2026-10-17T22:24:12.763Z"
           },
           {
             "url": "https://account-it.net/blog/good-and-bad-news-about-the-home-office-tax-deduction",
             "excerpt": "Schedule Appointment — https://account-it.net/appointment",
             "locator": "action links",
-            "retrievedAt": "2026-10-16T23:52:08.455Z"
+            "retrievedAt": "2026-10-17T22:24:13.454Z"
           },
           {
             "url": "https://account-it.net/blog/the-most-common-accounting-mistakes-small-business-owners-make-and-how-to-avoid-them",
             "excerpt": "Schedule Appointment — https://account-it.net/appointment",
             "locator": "action links",
-            "retrievedAt": "2026-10-16T23:52:08.859Z"
+            "retrievedAt": "2026-10-17T22:24:14.379Z"
           },
           {
             "url": "https://account-it.net/blog/10-mistakes-most-small-business-owners-miss-when-starting-out",
             "excerpt": "Schedule Appointment — https://account-it.net/appointment",
             "locator": "action links",
-            "retrievedAt": "2026-10-16T23:52:09.094Z"
+            "retrievedAt": "2026-10-17T22:24:14.987Z"
           },
           {
             "url": "https://account-it.net/services",
             "excerpt": "Schedule Appointment — https://account-it.net/appointment",
             "locator": "action links",
-            "retrievedAt": "2026-10-16T23:52:09.445Z"
+            "retrievedAt": "2026-10-17T22:24:15.854Z"
           },
           {
             "url": "https://account-it.net/services/irs-tax-problems",
             "excerpt": "Schedule Appointment — https://account-it.net/appointment",
             "locator": "action links",
-            "retrievedAt": "2026-10-16T23:52:09.663Z"
+            "retrievedAt": "2026-10-17T22:24:16.400Z"
           },
           {
             "url": "https://account-it.net/services/tax-preparation-planning",
             "excerpt": "Schedule Appointment — https://account-it.net/appointment",
             "locator": "action links",
-            "retrievedAt": "2026-10-16T23:52:09.983Z"
+            "retrievedAt": "2026-10-17T22:24:17.036Z"
           },
           {
             "url": "https://account-it.net/about-us/doug-cohen",
             "excerpt": "Schedule Appointment — https://account-it.net/appointment; Get started — https://account-it.net/contact",
             "locator": "action links",
-            "retrievedAt": "2026-10-16T23:52:12.074Z"
+            "retrievedAt": "2026-10-17T22:24:19.750Z"
           },
           {
             "url": "https://account-it.net/learning-center",
             "excerpt": "Schedule Appointment — https://account-it.net/appointment",
             "locator": "action links",
-            "retrievedAt": "2026-10-16T23:52:12.698Z"
+            "retrievedAt": "2026-10-17T22:24:20.934Z"
           }
         ],
         "reviewed": false
@@ -891,121 +891,121 @@
             "url": "https://account-it.net/",
             "excerpt": "Inter; Lato",
             "locator": "inline font-family declarations",
-            "retrievedAt": "2026-10-16T23:52:04.600Z"
+            "retrievedAt": "2026-10-17T22:24:05.110Z"
           },
           {
             "url": "https://account-it.net/firm-background",
             "excerpt": "Inter; Lato",
             "locator": "inline font-family declarations",
-            "retrievedAt": "2026-10-16T23:52:05.234Z"
+            "retrievedAt": "2026-10-17T22:24:06.039Z"
           },
           {
             "url": "https://account-it.net/contact",
             "excerpt": "Inter; Lato",
             "locator": "inline font-family declarations",
-            "retrievedAt": "2026-10-16T23:52:05.426Z"
+            "retrievedAt": "2026-10-17T22:24:06.698Z"
           },
           {
             "url": "https://account-it.net/firm-background/privacy-policy",
             "excerpt": "Inter; Lato",
             "locator": "inline font-family declarations",
-            "retrievedAt": "2026-10-16T23:52:05.793Z"
+            "retrievedAt": "2026-10-17T22:24:07.312Z"
           },
           {
             "url": "https://account-it.net/firm-background/referrals",
             "excerpt": "Inter; Lato",
             "locator": "inline font-family declarations",
-            "retrievedAt": "2026-10-16T23:52:06.054Z"
+            "retrievedAt": "2026-10-17T22:24:08.033Z"
           },
           {
             "url": "https://account-it.net/blog/tax-deductions-for-restaurant-service-staff",
             "excerpt": "Inter; Lato",
             "locator": "inline font-family declarations",
-            "retrievedAt": "2026-10-16T23:52:06.339Z"
+            "retrievedAt": "2026-10-17T22:24:08.623Z"
           },
           {
             "url": "https://account-it.net/blog/home-ownership-your-best-tax-shelter",
             "excerpt": "Inter; Lato",
             "locator": "inline font-family declarations",
-            "retrievedAt": "2026-10-16T23:52:06.765Z"
+            "retrievedAt": "2026-10-17T22:24:09.259Z"
           },
           {
             "url": "https://account-it.net/blog/important-things-to-know-about-iras",
             "excerpt": "Inter; Lato",
             "locator": "inline font-family declarations",
-            "retrievedAt": "2026-10-16T23:52:06.972Z"
+            "retrievedAt": "2026-10-17T22:24:09.875Z"
           },
           {
             "url": "https://account-it.net/blog/tax-reform-central-all-about-the-tax-cuts-and-jobs-act",
             "excerpt": "Inter; Lato",
             "locator": "inline font-family declarations",
-            "retrievedAt": "2026-10-16T23:52:07.365Z"
+            "retrievedAt": "2026-10-17T22:24:10.698Z"
           },
           {
             "url": "https://account-it.net/blog/business-owners-beware-new-tax-law-severely-limits-entertainment-deductions",
             "excerpt": "Inter; Lato",
             "locator": "inline font-family declarations",
-            "retrievedAt": "2026-10-16T23:52:07.557Z"
+            "retrievedAt": "2026-10-17T22:24:11.303Z"
           },
           {
             "url": "https://account-it.net/blog/learn-how-tax-reform-provides-a-big-benefit-to-many-small-business-owners",
             "excerpt": "Inter; Lato",
             "locator": "inline font-family declarations",
-            "retrievedAt": "2026-10-16T23:52:07.889Z"
+            "retrievedAt": "2026-10-17T22:24:11.930Z"
           },
           {
             "url": "https://account-it.net/blog/learn-how-business-owners-can-hire-their-children-during-the-summer-to-help-save-on-taxes",
             "excerpt": "Inter; Lato",
             "locator": "inline font-family declarations",
-            "retrievedAt": "2026-10-16T23:52:08.166Z"
+            "retrievedAt": "2026-10-17T22:24:12.763Z"
           },
           {
             "url": "https://account-it.net/blog/good-and-bad-news-about-the-home-office-tax-deduction",
             "excerpt": "Inter; Lato",
             "locator": "inline font-family declarations",
-            "retrievedAt": "2026-10-16T23:52:08.454Z"
+            "retrievedAt": "2026-10-17T22:24:13.454Z"
           },
           {
             "url": "https://account-it.net/blog/the-most-common-accounting-mistakes-small-business-owners-make-and-how-to-avoid-them",
             "excerpt": "Inter; Lato",
             "locator": "inline font-family declarations",
-            "retrievedAt": "2026-10-16T23:52:08.859Z"
+            "retrievedAt": "2026-10-17T22:24:14.378Z"
           },
           {
             "url": "https://account-it.net/blog/10-mistakes-most-small-business-owners-miss-when-starting-out",
             "excerpt": "Inter; Lato",
             "locator": "inline font-family declarations",
-            "retrievedAt": "2026-10-16T23:52:09.087Z"
+            "retrievedAt": "2026-10-17T22:24:14.986Z"
           },
           {
             "url": "https://account-it.net/services",
             "excerpt": "Inter; Lato",
             "locator": "inline font-family declarations",
-            "retrievedAt": "2026-10-16T23:52:09.445Z"
+            "retrievedAt": "2026-10-17T22:24:15.854Z"
           },
           {
             "url": "https://account-it.net/services/irs-tax-problems",
             "excerpt": "Inter; Lato",
             "locator": "inline font-family declarations",
-            "retrievedAt": "2026-10-16T23:52:09.662Z"
+            "retrievedAt": "2026-10-17T22:24:16.399Z"
           },
           {
             "url": "https://account-it.net/services/tax-preparation-planning",
             "excerpt": "Inter; Lato",
             "locator": "inline font-family declarations",
-            "retrievedAt": "2026-10-16T23:52:09.983Z"
+            "retrievedAt": "2026-10-17T22:24:17.036Z"
           },
           {
             "url": "https://account-it.net/about-us/doug-cohen",
             "excerpt": "Inter; Lato",
             "locator": "inline font-family declarations",
-            "retrievedAt": "2026-10-16T23:52:12.074Z"
+            "retrievedAt": "2026-10-17T22:24:19.749Z"
           },
           {
             "url": "https://account-it.net/learning-center",
             "excerpt": "Inter; Lato",
             "locator": "inline font-family declarations",
-            "retrievedAt": "2026-10-16T23:52:12.697Z"
+            "retrievedAt": "2026-10-17T22:24:20.933Z"
           }
         ],
         "reviewed": false
@@ -1027,121 +1027,121 @@
             "url": "https://account-it.net/",
             "excerpt": "#1f2937; #2299dd; #2e3084; #00aeef",
             "locator": "inline styles / style blocks, most used brand colors",
-            "retrievedAt": "2026-10-16T23:52:04.600Z"
+            "retrievedAt": "2026-10-17T22:24:05.109Z"
           },
           {
             "url": "https://account-it.net/firm-background",
             "excerpt": "#1f2937; #2299dd",
             "locator": "inline styles / style blocks, most used brand colors",
-            "retrievedAt": "2026-10-16T23:52:05.234Z"
+            "retrievedAt": "2026-10-17T22:24:06.039Z"
           },
           {
             "url": "https://account-it.net/contact",
             "excerpt": "#1f2937; #2299dd",
             "locator": "inline styles / style blocks, most used brand colors",
-            "retrievedAt": "2026-10-16T23:52:05.426Z"
+            "retrievedAt": "2026-10-17T22:24:06.698Z"
           },
           {
             "url": "https://account-it.net/firm-background/privacy-policy",
             "excerpt": "#1f2937; #2299dd",
             "locator": "inline styles / style blocks, most used brand colors",
-            "retrievedAt": "2026-10-16T23:52:05.793Z"
+            "retrievedAt": "2026-10-17T22:24:07.312Z"
           },
           {
             "url": "https://account-it.net/firm-background/referrals",
             "excerpt": "#1f2937; #2299dd",
             "locator": "inline styles / style blocks, most used brand colors",
-            "retrievedAt": "2026-10-16T23:52:06.054Z"
+            "retrievedAt": "2026-10-17T22:24:08.033Z"
           },
           {
             "url": "https://account-it.net/blog/tax-deductions-for-restaurant-service-staff",
             "excerpt": "#1f2937; #2299dd",
             "locator": "inline styles / style blocks, most used brand colors",
-            "retrievedAt": "2026-10-16T23:52:06.339Z"
+            "retrievedAt": "2026-10-17T22:24:08.623Z"
           },
           {
             "url": "https://account-it.net/blog/home-ownership-your-best-tax-shelter",
             "excerpt": "#1f2937; #2299dd",
             "locator": "inline styles / style blocks, most used brand colors",
-            "retrievedAt": "2026-10-16T23:52:06.765Z"
+            "retrievedAt": "2026-10-17T22:24:09.259Z"
           },
           {
             "url": "https://account-it.net/blog/important-things-to-know-about-iras",
             "excerpt": "#1f2937; #2299dd",
             "locator": "inline styles / style blocks, most used brand colors",
-            "retrievedAt": "2026-10-16T23:52:06.972Z"
+            "retrievedAt": "2026-10-17T22:24:09.875Z"
           },
           {
             "url": "https://account-it.net/blog/tax-reform-central-all-about-the-tax-cuts-and-jobs-act",
             "excerpt": "#ff0000; #008000; #1f2937; #ff9900; #ff6600; #000080",
             "locator": "inline styles / style blocks, most used brand colors",
-            "retrievedAt": "2026-10-16T23:52:07.365Z"
+            "retrievedAt": "2026-10-17T22:24:10.698Z"
           },
           {
             "url": "https://account-it.net/blog/business-owners-beware-new-tax-law-severely-limits-entertainment-deductions",
             "excerpt": "#1f2937; #2299dd",
             "locator": "inline styles / style blocks, most used brand colors",
-            "retrievedAt": "2026-10-16T23:52:07.557Z"
+            "retrievedAt": "2026-10-17T22:24:11.303Z"
           },
           {
             "url": "https://account-it.net/blog/learn-how-tax-reform-provides-a-big-benefit-to-many-small-business-owners",
             "excerpt": "#1f2937; #2299dd",
             "locator": "inline styles / style blocks, most used brand colors",
-            "retrievedAt": "2026-10-16T23:52:07.889Z"
+            "retrievedAt": "2026-10-17T22:24:11.930Z"
           },
           {
             "url": "https://account-it.net/blog/learn-how-business-owners-can-hire-their-children-during-the-summer-to-help-save-on-taxes",
             "excerpt": "#1f2937; #2299dd",
             "locator": "inline styles / style blocks, most used brand colors",
-            "retrievedAt": "2026-10-16T23:52:08.166Z"
+            "retrievedAt": "2026-10-17T22:24:12.763Z"
           },
           {
             "url": "https://account-it.net/blog/good-and-bad-news-about-the-home-office-tax-deduction",
             "excerpt": "#1f2937; #2299dd",
             "locator": "inline styles / style blocks, most used brand colors",
-            "retrievedAt": "2026-10-16T23:52:08.454Z"
+            "retrievedAt": "2026-10-17T22:24:13.454Z"
           },
           {
             "url": "https://account-it.net/blog/the-most-common-accounting-mistakes-small-business-owners-make-and-how-to-avoid-them",
             "excerpt": "#1f2937; #2299dd",
             "locator": "inline styles / style blocks, most used brand colors",
-            "retrievedAt": "2026-10-16T23:52:08.859Z"
+            "retrievedAt": "2026-10-17T22:24:14.378Z"
           },
           {
             "url": "https://account-it.net/blog/10-mistakes-most-small-business-owners-miss-when-starting-out",
             "excerpt": "#1f2937; #2299dd",
             "locator": "inline styles / style blocks, most used brand colors",
-            "retrievedAt": "2026-10-16T23:52:09.087Z"
+            "retrievedAt": "2026-10-17T22:24:14.986Z"
           },
           {
             "url": "https://account-it.net/services",
             "excerpt": "#1f2937; #2299dd",
             "locator": "inline styles / style blocks, most used brand colors",
-            "retrievedAt": "2026-10-16T23:52:09.445Z"
+            "retrievedAt": "2026-10-17T22:24:15.854Z"
           },
           {
             "url": "https://account-it.net/services/irs-tax-problems",
             "excerpt": "#1f2937; #2299dd",
             "locator": "inline styles / style blocks, most used brand colors",
-            "retrievedAt": "2026-10-16T23:52:09.662Z"
+            "retrievedAt": "2026-10-17T22:24:16.399Z"
           },
           {
             "url": "https://account-it.net/services/tax-preparation-planning",
             "excerpt": "#1f2937; #2299dd",
             "locator": "inline styles / style blocks, most used brand colors",
-            "retrievedAt": "2026-10-16T23:52:09.983Z"
+            "retrievedAt": "2026-10-17T22:24:17.036Z"
           },
           {
             "url": "https://account-it.net/about-us/doug-cohen",
             "excerpt": "#1f2937; #2299dd",
             "locator": "inline styles / style blocks, most used brand colors",
-            "retrievedAt": "2026-10-16T23:52:12.074Z"
+            "retrievedAt": "2026-10-17T22:24:19.749Z"
           },
           {
             "url": "https://account-it.net/learning-center",
             "excerpt": "#1f2937; #2299dd",
             "locator": "inline styles / style blocks, most used brand colors",
-            "retrievedAt": "2026-10-16T23:52:12.697Z"
+            "retrievedAt": "2026-10-17T22:24:20.933Z"
           }
         ],
         "reviewed": false
@@ -1156,121 +1156,121 @@
             "url": "https://account-it.net/",
             "excerpt": "https://cw3prd.s3.us-west-1.amazonaws.com/2334180/account-logo.png",
             "locator": "JSON-LD logo",
-            "retrievedAt": "2026-10-16T23:52:04.599Z"
+            "retrievedAt": "2026-10-17T22:24:05.109Z"
           },
           {
             "url": "https://account-it.net/firm-background",
             "excerpt": "https://cw3prd.s3.us-west-1.amazonaws.com/2334180/account-logo.png",
             "locator": "JSON-LD logo",
-            "retrievedAt": "2026-10-16T23:52:05.234Z"
+            "retrievedAt": "2026-10-17T22:24:06.039Z"
           },
           {
             "url": "https://account-it.net/contact",
             "excerpt": "https://cw3prd.s3.us-west-1.amazonaws.com/2334180/account-logo.png",
             "locator": "JSON-LD logo",
-            "retrievedAt": "2026-10-16T23:52:05.426Z"
+            "retrievedAt": "2026-10-17T22:24:06.698Z"
           },
           {
             "url": "https://account-it.net/firm-background/privacy-policy",
             "excerpt": "https://cw3prd.s3.us-west-1.amazonaws.com/2334180/account-logo.png",
             "locator": "JSON-LD logo",
-            "retrievedAt": "2026-10-16T23:52:05.792Z"
+            "retrievedAt": "2026-10-17T22:24:07.312Z"
           },
           {
             "url": "https://account-it.net/firm-background/referrals",
             "excerpt": "https://cw3prd.s3.us-west-1.amazonaws.com/2334180/account-logo.png",
             "locator": "JSON-LD logo",
-            "retrievedAt": "2026-10-16T23:52:06.054Z"
+            "retrievedAt": "2026-10-17T22:24:08.033Z"
           },
           {
             "url": "https://account-it.net/blog/tax-deductions-for-restaurant-service-staff",
             "excerpt": "https://cw3prd.s3.us-west-1.amazonaws.com/2334180/account-logo.png",
             "locator": "JSON-LD logo",
-            "retrievedAt": "2026-10-16T23:52:06.339Z"
+            "retrievedAt": "2026-10-17T22:24:08.617Z"
           },
           {
             "url": "https://account-it.net/blog/home-ownership-your-best-tax-shelter",
             "excerpt": "https://cw3prd.s3.us-west-1.amazonaws.com/2334180/account-logo.png",
             "locator": "JSON-LD logo",
-            "retrievedAt": "2026-10-16T23:52:06.764Z"
+            "retrievedAt": "2026-10-17T22:24:09.259Z"
           },
           {
             "url": "https://account-it.net/blog/important-things-to-know-about-iras",
             "excerpt": "https://cw3prd.s3.us-west-1.amazonaws.com/2334180/account-logo.png",
             "locator": "JSON-LD logo",
-            "retrievedAt": "2026-10-16T23:52:06.971Z"
+            "retrievedAt": "2026-10-17T22:24:09.874Z"
           },
           {
             "url": "https://account-it.net/blog/tax-reform-central-all-about-the-tax-cuts-and-jobs-act",
             "excerpt": "https://cw3prd.s3.us-west-1.amazonaws.com/2334180/account-logo.png",
             "locator": "JSON-LD logo",
-            "retrievedAt": "2026-10-16T23:52:07.364Z"
+            "retrievedAt": "2026-10-17T22:24:10.698Z"
           },
           {
             "url": "https://account-it.net/blog/business-owners-beware-new-tax-law-severely-limits-entertainment-deductions",
             "excerpt": "https://cw3prd.s3.us-west-1.amazonaws.com/2334180/account-logo.png",
             "locator": "JSON-LD logo",
-            "retrievedAt": "2026-10-16T23:52:07.557Z"
+            "retrievedAt": "2026-10-17T22:24:11.303Z"
           },
           {
             "url": "https://account-it.net/blog/learn-how-tax-reform-provides-a-big-benefit-to-many-small-business-owners",
             "excerpt": "https://cw3prd.s3.us-west-1.amazonaws.com/2334180/account-logo.png",
             "locator": "JSON-LD logo",
-            "retrievedAt": "2026-10-16T23:52:07.889Z"
+            "retrievedAt": "2026-10-17T22:24:11.930Z"
           },
           {
             "url": "https://account-it.net/blog/learn-how-business-owners-can-hire-their-children-during-the-summer-to-help-save-on-taxes",
             "excerpt": "https://cw3prd.s3.us-west-1.amazonaws.com/2334180/account-logo.png",
             "locator": "JSON-LD logo",
-            "retrievedAt": "2026-10-16T23:52:08.166Z"
+            "retrievedAt": "2026-10-17T22:24:12.762Z"
           },
           {
             "url": "https://account-it.net/blog/good-and-bad-news-about-the-home-office-tax-deduction",
             "excerpt": "https://cw3prd.s3.us-west-1.amazonaws.com/2334180/account-logo.png",
             "locator": "JSON-LD logo",
-            "retrievedAt": "2026-10-16T23:52:08.454Z"
+            "retrievedAt": "2026-10-17T22:24:13.453Z"
           },
           {
             "url": "https://account-it.net/blog/the-most-common-accounting-mistakes-small-business-owners-make-and-how-to-avoid-them",
             "excerpt": "https://cw3prd.s3.us-west-1.amazonaws.com/2334180/account-logo.png",
             "locator": "JSON-LD logo",
-            "retrievedAt": "2026-10-16T23:52:08.858Z"
+            "retrievedAt": "2026-10-17T22:24:14.378Z"
           },
           {
             "url": "https://account-it.net/blog/10-mistakes-most-small-business-owners-miss-when-starting-out",
             "excerpt": "https://cw3prd.s3.us-west-1.amazonaws.com/2334180/account-logo.png",
             "locator": "JSON-LD logo",
-            "retrievedAt": "2026-10-16T23:52:09.087Z"
+            "retrievedAt": "2026-10-17T22:24:14.985Z"
           },
           {
             "url": "https://account-it.net/services",
             "excerpt": "https://cw3prd.s3.us-west-1.amazonaws.com/2334180/account-logo.png",
             "locator": "JSON-LD logo",
-            "retrievedAt": "2026-10-16T23:52:09.445Z"
+            "retrievedAt": "2026-10-17T22:24:15.853Z"
           },
           {
             "url": "https://account-it.net/services/irs-tax-problems",
             "excerpt": "https://cw3prd.s3.us-west-1.amazonaws.com/2334180/account-logo.png",
             "locator": "JSON-LD logo",
-            "retrievedAt": "2026-10-16T23:52:09.662Z"
+            "retrievedAt": "2026-10-17T22:24:16.399Z"
           },
           {
             "url": "https://account-it.net/services/tax-preparation-planning",
             "excerpt": "https://cw3prd.s3.us-west-1.amazonaws.com/2334180/account-logo.png",
             "locator": "JSON-LD logo",
-            "retrievedAt": "2026-10-16T23:52:09.982Z"
+            "retrievedAt": "2026-10-17T22:24:17.035Z"
           },
           {
             "url": "https://account-it.net/about-us/doug-cohen",
             "excerpt": "https://cw3prd.s3.us-west-1.amazonaws.com/2334180/account-logo.png",
             "locator": "JSON-LD logo",
-            "retrievedAt": "2026-10-16T23:52:12.073Z"
+            "retrievedAt": "2026-10-17T22:24:19.749Z"
           },
           {
             "url": "https://account-it.net/learning-center",
             "excerpt": "https://cw3prd.s3.us-west-1.amazonaws.com/2334180/account-logo.png",
             "locator": "JSON-LD logo",
-            "retrievedAt": "2026-10-16T23:52:12.697Z"
+            "retrievedAt": "2026-10-17T22:24:20.932Z"
           }
         ],
         "reviewed": false
@@ -1287,121 +1287,121 @@
             "url": "https://account-it.net/",
             "excerpt": "https://www.linkedin.com/in/doug-cohen-9121a86/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:04.600Z"
+            "retrievedAt": "2026-10-17T22:24:05.109Z"
           },
           {
             "url": "https://account-it.net/firm-background",
             "excerpt": "https://www.linkedin.com/in/doug-cohen-9121a86/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:05.234Z"
+            "retrievedAt": "2026-10-17T22:24:06.039Z"
           },
           {
             "url": "https://account-it.net/contact",
             "excerpt": "https://www.linkedin.com/in/doug-cohen-9121a86/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:05.426Z"
+            "retrievedAt": "2026-10-17T22:24:06.698Z"
           },
           {
             "url": "https://account-it.net/firm-background/privacy-policy",
             "excerpt": "https://www.linkedin.com/in/doug-cohen-9121a86/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:05.792Z"
+            "retrievedAt": "2026-10-17T22:24:07.312Z"
           },
           {
             "url": "https://account-it.net/firm-background/referrals",
             "excerpt": "https://www.linkedin.com/in/doug-cohen-9121a86/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:06.054Z"
+            "retrievedAt": "2026-10-17T22:24:08.033Z"
           },
           {
             "url": "https://account-it.net/blog/tax-deductions-for-restaurant-service-staff",
             "excerpt": "https://www.linkedin.com/in/doug-cohen-9121a86/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:06.339Z"
+            "retrievedAt": "2026-10-17T22:24:08.623Z"
           },
           {
             "url": "https://account-it.net/blog/home-ownership-your-best-tax-shelter",
             "excerpt": "https://www.linkedin.com/in/doug-cohen-9121a86/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:06.764Z"
+            "retrievedAt": "2026-10-17T22:24:09.259Z"
           },
           {
             "url": "https://account-it.net/blog/important-things-to-know-about-iras",
             "excerpt": "https://www.linkedin.com/in/doug-cohen-9121a86/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:06.971Z"
+            "retrievedAt": "2026-10-17T22:24:09.874Z"
           },
           {
             "url": "https://account-it.net/blog/tax-reform-central-all-about-the-tax-cuts-and-jobs-act",
             "excerpt": "https://www.linkedin.com/in/doug-cohen-9121a86/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:07.364Z"
+            "retrievedAt": "2026-10-17T22:24:10.698Z"
           },
           {
             "url": "https://account-it.net/blog/business-owners-beware-new-tax-law-severely-limits-entertainment-deductions",
             "excerpt": "https://www.linkedin.com/in/doug-cohen-9121a86/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:07.557Z"
+            "retrievedAt": "2026-10-17T22:24:11.303Z"
           },
           {
             "url": "https://account-it.net/blog/learn-how-tax-reform-provides-a-big-benefit-to-many-small-business-owners",
             "excerpt": "https://www.linkedin.com/in/doug-cohen-9121a86/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:07.889Z"
+            "retrievedAt": "2026-10-17T22:24:11.930Z"
           },
           {
             "url": "https://account-it.net/blog/learn-how-business-owners-can-hire-their-children-during-the-summer-to-help-save-on-taxes",
             "excerpt": "https://www.linkedin.com/in/doug-cohen-9121a86/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:08.166Z"
+            "retrievedAt": "2026-10-17T22:24:12.762Z"
           },
           {
             "url": "https://account-it.net/blog/good-and-bad-news-about-the-home-office-tax-deduction",
             "excerpt": "https://www.linkedin.com/in/doug-cohen-9121a86/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:08.454Z"
+            "retrievedAt": "2026-10-17T22:24:13.453Z"
           },
           {
             "url": "https://account-it.net/blog/the-most-common-accounting-mistakes-small-business-owners-make-and-how-to-avoid-them",
             "excerpt": "https://www.linkedin.com/in/doug-cohen-9121a86/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:08.858Z"
+            "retrievedAt": "2026-10-17T22:24:14.378Z"
           },
           {
             "url": "https://account-it.net/blog/10-mistakes-most-small-business-owners-miss-when-starting-out",
             "excerpt": "https://www.linkedin.com/in/doug-cohen-9121a86/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:09.087Z"
+            "retrievedAt": "2026-10-17T22:24:14.985Z"
           },
           {
             "url": "https://account-it.net/services",
             "excerpt": "https://www.linkedin.com/in/doug-cohen-9121a86/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:09.445Z"
+            "retrievedAt": "2026-10-17T22:24:15.853Z"
           },
           {
             "url": "https://account-it.net/services/irs-tax-problems",
             "excerpt": "https://www.linkedin.com/in/doug-cohen-9121a86/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:09.662Z"
+            "retrievedAt": "2026-10-17T22:24:16.399Z"
           },
           {
             "url": "https://account-it.net/services/tax-preparation-planning",
             "excerpt": "https://www.linkedin.com/in/doug-cohen-9121a86/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:09.982Z"
+            "retrievedAt": "2026-10-17T22:24:17.035Z"
           },
           {
             "url": "https://account-it.net/about-us/doug-cohen",
             "excerpt": "https://www.linkedin.com/in/doug-cohen-9121a86/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:12.073Z"
+            "retrievedAt": "2026-10-17T22:24:19.749Z"
           },
           {
             "url": "https://account-it.net/learning-center",
             "excerpt": "https://www.linkedin.com/in/doug-cohen-9121a86/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:12.697Z"
+            "retrievedAt": "2026-10-17T22:24:20.932Z"
           }
         ],
         "reviewed": false
@@ -1416,121 +1416,121 @@
             "url": "https://account-it.net/",
             "excerpt": "https://www.facebook.com/account.itconsulting/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:04.599Z"
+            "retrievedAt": "2026-10-17T22:24:05.109Z"
           },
           {
             "url": "https://account-it.net/firm-background",
             "excerpt": "https://www.facebook.com/account.itconsulting/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:05.234Z"
+            "retrievedAt": "2026-10-17T22:24:06.039Z"
           },
           {
             "url": "https://account-it.net/contact",
             "excerpt": "https://www.facebook.com/account.itconsulting/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:05.426Z"
+            "retrievedAt": "2026-10-17T22:24:06.698Z"
           },
           {
             "url": "https://account-it.net/firm-background/privacy-policy",
             "excerpt": "https://www.facebook.com/account.itconsulting/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:05.792Z"
+            "retrievedAt": "2026-10-17T22:24:07.312Z"
           },
           {
             "url": "https://account-it.net/firm-background/referrals",
             "excerpt": "https://www.facebook.com/account.itconsulting/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:06.054Z"
+            "retrievedAt": "2026-10-17T22:24:08.033Z"
           },
           {
             "url": "https://account-it.net/blog/tax-deductions-for-restaurant-service-staff",
             "excerpt": "https://www.facebook.com/account.itconsulting/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:06.339Z"
+            "retrievedAt": "2026-10-17T22:24:08.623Z"
           },
           {
             "url": "https://account-it.net/blog/home-ownership-your-best-tax-shelter",
             "excerpt": "https://www.facebook.com/account.itconsulting/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:06.764Z"
+            "retrievedAt": "2026-10-17T22:24:09.259Z"
           },
           {
             "url": "https://account-it.net/blog/important-things-to-know-about-iras",
             "excerpt": "https://www.facebook.com/account.itconsulting/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:06.971Z"
+            "retrievedAt": "2026-10-17T22:24:09.874Z"
           },
           {
             "url": "https://account-it.net/blog/tax-reform-central-all-about-the-tax-cuts-and-jobs-act",
             "excerpt": "https://www.facebook.com/account.itconsulting/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:07.364Z"
+            "retrievedAt": "2026-10-17T22:24:10.698Z"
           },
           {
             "url": "https://account-it.net/blog/business-owners-beware-new-tax-law-severely-limits-entertainment-deductions",
             "excerpt": "https://www.facebook.com/account.itconsulting/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:07.557Z"
+            "retrievedAt": "2026-10-17T22:24:11.303Z"
           },
           {
             "url": "https://account-it.net/blog/learn-how-tax-reform-provides-a-big-benefit-to-many-small-business-owners",
             "excerpt": "https://www.facebook.com/account.itconsulting/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:07.889Z"
+            "retrievedAt": "2026-10-17T22:24:11.930Z"
           },
           {
             "url": "https://account-it.net/blog/learn-how-business-owners-can-hire-their-children-during-the-summer-to-help-save-on-taxes",
             "excerpt": "https://www.facebook.com/account.itconsulting/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:08.166Z"
+            "retrievedAt": "2026-10-17T22:24:12.762Z"
           },
           {
             "url": "https://account-it.net/blog/good-and-bad-news-about-the-home-office-tax-deduction",
             "excerpt": "https://www.facebook.com/account.itconsulting/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:08.454Z"
+            "retrievedAt": "2026-10-17T22:24:13.453Z"
           },
           {
             "url": "https://account-it.net/blog/the-most-common-accounting-mistakes-small-business-owners-make-and-how-to-avoid-them",
             "excerpt": "https://www.facebook.com/account.itconsulting/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:08.858Z"
+            "retrievedAt": "2026-10-17T22:24:14.378Z"
           },
           {
             "url": "https://account-it.net/blog/10-mistakes-most-small-business-owners-miss-when-starting-out",
             "excerpt": "https://www.facebook.com/account.itconsulting/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:09.087Z"
+            "retrievedAt": "2026-10-17T22:24:14.985Z"
           },
           {
             "url": "https://account-it.net/services",
             "excerpt": "https://www.facebook.com/account.itconsulting/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:09.445Z"
+            "retrievedAt": "2026-10-17T22:24:15.853Z"
           },
           {
             "url": "https://account-it.net/services/irs-tax-problems",
             "excerpt": "https://www.facebook.com/account.itconsulting/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:09.662Z"
+            "retrievedAt": "2026-10-17T22:24:16.399Z"
           },
           {
             "url": "https://account-it.net/services/tax-preparation-planning",
             "excerpt": "https://www.facebook.com/account.itconsulting/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:09.982Z"
+            "retrievedAt": "2026-10-17T22:24:17.035Z"
           },
           {
             "url": "https://account-it.net/about-us/doug-cohen",
             "excerpt": "https://www.facebook.com/account.itconsulting/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:12.073Z"
+            "retrievedAt": "2026-10-17T22:24:19.749Z"
           },
           {
             "url": "https://account-it.net/learning-center",
             "excerpt": "https://www.facebook.com/account.itconsulting/",
             "locator": "social profile link",
-            "retrievedAt": "2026-10-16T23:52:12.697Z"
+            "retrievedAt": "2026-10-17T22:24:20.932Z"
           }
         ],
         "reviewed": false
@@ -1590,13 +1590,13 @@
             "url": "https://account-it.net/firm-background",
             "excerpt": "Doug is a CPA and a proud member of the AICPA, with a history of significant contributions to non-profits, including serving as president and treasurer of various Florida organizations.",
             "locator": "credential statements (not independently verified)",
-            "retrievedAt": "2026-10-16T23:52:05.236Z"
+            "retrievedAt": "2026-10-17T22:24:06.041Z"
           },
           {
             "url": "https://account-it.net/about-us/doug-cohen",
             "excerpt": "As a QuickBooks Certified ProAdvisor, I have worked with clients to help them determine the best options for their business and trained users on using the system.",
             "locator": "credential statements (not independently verified)",
-            "retrievedAt": "2026-10-16T23:52:12.074Z"
+            "retrievedAt": "2026-10-17T22:24:19.750Z"
           }
         ],
         "reviewed": false
@@ -1625,31 +1625,31 @@
             "url": "https://account-it.net/services/irs-tax-problems",
             "excerpt": "Florida IRS Tax Problems",
             "locator": "JSON-LD offering.name",
-            "retrievedAt": "2026-10-16T23:52:09.664Z"
+            "retrievedAt": "2026-10-17T22:24:16.401Z"
           },
           {
             "url": "https://account-it.net/services/tax-preparation-planning",
             "excerpt": "Tax Preparation & Planning Services - Florida",
             "locator": "JSON-LD offering.name",
-            "retrievedAt": "2026-10-16T23:52:09.984Z"
+            "retrievedAt": "2026-10-17T22:24:17.037Z"
           },
           {
             "url": "https://account-it.net/services/payroll",
             "excerpt": "Florida Payroll Services",
             "locator": "JSON-LD offering.name",
-            "retrievedAt": "2026-10-16T23:52:13.644Z"
+            "retrievedAt": "2026-10-17T22:24:22.652Z"
           },
           {
             "url": "https://account-it.net/services/accounting-bookkeeping",
             "excerpt": "Accounting & Bookkeeping Services",
             "locator": "JSON-LD offering.name",
-            "retrievedAt": "2026-10-16T23:52:13.931Z"
+            "retrievedAt": "2026-10-17T22:24:23.396Z"
           },
           {
             "url": "https://account-it.net/services/quickbooks",
             "excerpt": "QuickBooks Services",
             "locator": "JSON-LD offering.name",
-            "retrievedAt": "2026-10-16T23:52:14.232Z"
+            "retrievedAt": "2026-10-17T22:24:23.919Z"
           }
         ],
         "reviewed": false
@@ -1676,7 +1676,7 @@
             "url": "https://account-it.net/",
             "excerpt": "https://account-it.net/firm-background/privacy-policy",
             "locator": "same-site privacy link",
-            "retrievedAt": "2026-10-16T23:52:04.598Z"
+            "retrievedAt": "2026-10-17T22:24:05.107Z"
           }
         ],
         "reviewed": false
@@ -1703,121 +1703,121 @@
             "url": "https://account-it.net/",
             "excerpt": "WCAG accessibility",
             "locator": "compliance keywords in page text",
-            "retrievedAt": "2026-10-16T23:52:04.599Z"
+            "retrievedAt": "2026-10-17T22:24:05.108Z"
           },
           {
             "url": "https://account-it.net/firm-background",
             "excerpt": "WCAG accessibility",
             "locator": "compliance keywords in page text",
-            "retrievedAt": "2026-10-16T23:52:05.234Z"
+            "retrievedAt": "2026-10-17T22:24:06.039Z"
           },
           {
             "url": "https://account-it.net/contact",
             "excerpt": "WCAG accessibility",
             "locator": "compliance keywords in page text",
-            "retrievedAt": "2026-10-16T23:52:05.426Z"
+            "retrievedAt": "2026-10-17T22:24:06.698Z"
           },
           {
             "url": "https://account-it.net/firm-background/privacy-policy",
             "excerpt": "WCAG accessibility",
             "locator": "compliance keywords in page text",
-            "retrievedAt": "2026-10-16T23:52:05.792Z"
+            "retrievedAt": "2026-10-17T22:24:07.312Z"
           },
           {
             "url": "https://account-it.net/firm-background/referrals",
             "excerpt": "WCAG accessibility",
             "locator": "compliance keywords in page text",
-            "retrievedAt": "2026-10-16T23:52:06.053Z"
+            "retrievedAt": "2026-10-17T22:24:08.032Z"
           },
           {
             "url": "https://account-it.net/blog/tax-deductions-for-restaurant-service-staff",
             "excerpt": "WCAG accessibility",
             "locator": "compliance keywords in page text",
-            "retrievedAt": "2026-10-16T23:52:06.339Z"
+            "retrievedAt": "2026-10-17T22:24:08.616Z"
           },
           {
             "url": "https://account-it.net/blog/home-ownership-your-best-tax-shelter",
             "excerpt": "WCAG accessibility",
             "locator": "compliance keywords in page text",
-            "retrievedAt": "2026-10-16T23:52:06.764Z"
+            "retrievedAt": "2026-10-17T22:24:09.259Z"
           },
           {
             "url": "https://account-it.net/blog/important-things-to-know-about-iras",
             "excerpt": "WCAG accessibility",
             "locator": "compliance keywords in page text",
-            "retrievedAt": "2026-10-16T23:52:06.971Z"
+            "retrievedAt": "2026-10-17T22:24:09.874Z"
           },
           {
             "url": "https://account-it.net/blog/tax-reform-central-all-about-the-tax-cuts-and-jobs-act",
             "excerpt": "WCAG accessibility",
             "locator": "compliance keywords in page text",
-            "retrievedAt": "2026-10-16T23:52:07.364Z"
+            "retrievedAt": "2026-10-17T22:24:10.698Z"
           },
           {
             "url": "https://account-it.net/blog/business-owners-beware-new-tax-law-severely-limits-entertainment-deductions",
             "excerpt": "WCAG accessibility",
             "locator": "compliance keywords in page text",
-            "retrievedAt": "2026-10-16T23:52:07.557Z"
+            "retrievedAt": "2026-10-17T22:24:11.302Z"
           },
           {
             "url": "https://account-it.net/blog/learn-how-tax-reform-provides-a-big-benefit-to-many-small-business-owners",
             "excerpt": "WCAG accessibility",
             "locator": "compliance keywords in page text",
-            "retrievedAt": "2026-10-16T23:52:07.889Z"
+            "retrievedAt": "2026-10-17T22:24:11.930Z"
           },
           {
             "url": "https://account-it.net/blog/learn-how-business-owners-can-hire-their-children-during-the-summer-to-help-save-on-taxes",
             "excerpt": "WCAG accessibility",
             "locator": "compliance keywords in page text",
-            "retrievedAt": "2026-10-16T23:52:08.166Z"
+            "retrievedAt": "2026-10-17T22:24:12.762Z"
           },
           {
             "url": "https://account-it.net/blog/good-and-bad-news-about-the-home-office-tax-deduction",
             "excerpt": "WCAG accessibility",
             "locator": "compliance keywords in page text",
-            "retrievedAt": "2026-10-16T23:52:08.454Z"
+            "retrievedAt": "2026-10-17T22:24:13.453Z"
           },
           {
             "url": "https://account-it.net/blog/the-most-common-accounting-mistakes-small-business-owners-make-and-how-to-avoid-them",
             "excerpt": "WCAG accessibility",
             "locator": "compliance keywords in page text",
-            "retrievedAt": "2026-10-16T23:52:08.858Z"
+            "retrievedAt": "2026-10-17T22:24:14.378Z"
           },
           {
             "url": "https://account-it.net/blog/10-mistakes-most-small-business-owners-miss-when-starting-out",
             "excerpt": "WCAG accessibility",
             "locator": "compliance keywords in page text",
-            "retrievedAt": "2026-10-16T23:52:09.086Z"
+            "retrievedAt": "2026-10-17T22:24:14.985Z"
           },
           {
             "url": "https://account-it.net/services",
             "excerpt": "WCAG accessibility",
             "locator": "compliance keywords in page text",
-            "retrievedAt": "2026-10-16T23:52:09.445Z"
+            "retrievedAt": "2026-10-17T22:24:15.853Z"
           },
           {
             "url": "https://account-it.net/services/irs-tax-problems",
             "excerpt": "WCAG accessibility",
             "locator": "compliance keywords in page text",
-            "retrievedAt": "2026-10-16T23:52:09.662Z"
+            "retrievedAt": "2026-10-17T22:24:16.399Z"
           },
           {
             "url": "https://account-it.net/services/tax-preparation-planning",
             "excerpt": "WCAG accessibility",
             "locator": "compliance keywords in page text",
-            "retrievedAt": "2026-10-16T23:52:09.982Z"
+            "retrievedAt": "2026-10-17T22:24:17.035Z"
           },
           {
             "url": "https://account-it.net/about-us/doug-cohen",
             "excerpt": "WCAG accessibility",
             "locator": "compliance keywords in page text",
-            "retrievedAt": "2026-10-16T23:52:12.073Z"
+            "retrievedAt": "2026-10-17T22:24:19.749Z"
           },
           {
             "url": "https://account-it.net/learning-center",
             "excerpt": "WCAG accessibility",
             "locator": "compliance keywords in page text",
-            "retrievedAt": "2026-10-16T23:52:12.697Z"
+            "retrievedAt": "2026-10-17T22:24:20.932Z"
           }
         ],
         "reviewed": false
@@ -1846,121 +1846,121 @@
             "url": "https://account-it.net/firm-background/privacy-policy",
             "excerpt": "You may have some concerns about the confidentiality of the information you provide to this office. It is our policy to keep your personal and business matters confidential to the extent permitted by law.; You should also be aware that anything you tell us during the interview for the preparation of your tax return is confidential, but not protected from the IRS. Privileged communications (those that are protected from IRS authority to compel our testimony) are limited to non-criminal tax advice on matters before the IRS or non-criminal tax proceedings in federal courts. Although we consider any information you provide us as confidential, return preparation engagements are not covered by advisor-client privilege.; If you feel the nature of any subject matter to be discussed requires protected communications, please raise that issue so that we can discuss your possible need to consult with an attorney for legal advice.",
             "locator": "privacy policy text",
-            "retrievedAt": "2026-10-16T23:52:05.792Z"
+            "retrievedAt": "2026-10-17T22:24:07.312Z"
           },
           {
             "url": "https://account-it.net/firm-background/privacy-policy",
             "excerpt": "Your personal information will only be shared with members of our firm who need to know this information in order to complete the work you have hired our firm to do.; We will not disclose your personal information to anyone outside our firm without your express written permission to do so, or unless we are legally required to do so.",
             "locator": "data and privacy statements",
-            "retrievedAt": "2026-10-16T23:52:05.792Z"
+            "retrievedAt": "2026-10-17T22:24:07.312Z"
           },
           {
             "url": "https://account-it.net/blog/tax-deductions-for-restaurant-service-staff",
             "excerpt": "We care about the protection of your data.",
             "locator": "data and privacy statements",
-            "retrievedAt": "2026-10-16T23:52:06.339Z"
+            "retrievedAt": "2026-10-17T22:24:08.616Z"
           },
           {
             "url": "https://account-it.net/blog/home-ownership-your-best-tax-shelter",
             "excerpt": "We care about the protection of your data.",
             "locator": "data and privacy statements",
-            "retrievedAt": "2026-10-16T23:52:06.764Z"
+            "retrievedAt": "2026-10-17T22:24:09.259Z"
           },
           {
             "url": "https://account-it.net/blog/important-things-to-know-about-iras",
             "excerpt": "We care about the protection of your data.",
             "locator": "data and privacy statements",
-            "retrievedAt": "2026-10-16T23:52:06.971Z"
+            "retrievedAt": "2026-10-17T22:24:09.874Z"
           },
           {
             "url": "https://account-it.net/blog/tax-reform-central-all-about-the-tax-cuts-and-jobs-act",
             "excerpt": "We care about the protection of your data.",
             "locator": "data and privacy statements",
-            "retrievedAt": "2026-10-16T23:52:07.364Z"
+            "retrievedAt": "2026-10-17T22:24:10.698Z"
           },
           {
             "url": "https://account-it.net/blog/business-owners-beware-new-tax-law-severely-limits-entertainment-deductions",
             "excerpt": "We care about the protection of your data.",
             "locator": "data and privacy statements",
-            "retrievedAt": "2026-10-16T23:52:07.557Z"
+            "retrievedAt": "2026-10-17T22:24:11.302Z"
           },
           {
             "url": "https://account-it.net/blog/learn-how-tax-reform-provides-a-big-benefit-to-many-small-business-owners",
             "excerpt": "We care about the protection of your data.",
             "locator": "data and privacy statements",
-            "retrievedAt": "2026-10-16T23:52:07.889Z"
+            "retrievedAt": "2026-10-17T22:24:11.930Z"
           },
           {
             "url": "https://account-it.net/blog/learn-how-business-owners-can-hire-their-children-during-the-summer-to-help-save-on-taxes",
             "excerpt": "We care about the protection of your data.",
             "locator": "data and privacy statements",
-            "retrievedAt": "2026-10-16T23:52:08.166Z"
+            "retrievedAt": "2026-10-17T22:24:12.762Z"
           },
           {
             "url": "https://account-it.net/blog/good-and-bad-news-about-the-home-office-tax-deduction",
             "excerpt": "We care about the protection of your data.",
             "locator": "data and privacy statements",
-            "retrievedAt": "2026-10-16T23:52:08.454Z"
+            "retrievedAt": "2026-10-17T22:24:13.453Z"
           },
           {
             "url": "https://account-it.net/blog/the-most-common-accounting-mistakes-small-business-owners-make-and-how-to-avoid-them",
             "excerpt": "We care about the protection of your data.",
             "locator": "data and privacy statements",
-            "retrievedAt": "2026-10-16T23:52:08.858Z"
+            "retrievedAt": "2026-10-17T22:24:14.378Z"
           },
           {
             "url": "https://account-it.net/blog/10-mistakes-most-small-business-owners-miss-when-starting-out",
             "excerpt": "We care about the protection of your data.",
             "locator": "data and privacy statements",
-            "retrievedAt": "2026-10-16T23:52:09.086Z"
+            "retrievedAt": "2026-10-17T22:24:14.985Z"
           },
           {
             "url": "https://account-it.net/services/irs-tax-problems",
             "excerpt": "If you receive an IRS notice of levy against your employee, vendor, customer or other third party, it is important that you comply with the levy.",
             "locator": "data and privacy statements",
-            "retrievedAt": "2026-10-16T23:52:09.662Z"
+            "retrievedAt": "2026-10-17T22:24:16.399Z"
           },
           {
             "url": "https://account-it.net/learning-center",
             "excerpt": "We care about the protection of your data.",
             "locator": "data and privacy statements",
-            "retrievedAt": "2026-10-16T23:52:12.697Z"
+            "retrievedAt": "2026-10-17T22:24:20.932Z"
           },
           {
             "url": "https://account-it.net/services/payroll",
             "excerpt": "When you work with us, you will also have the assurance of knowing that your data is secure.; These regulations ensure that your data is securely maintained and transmitted to the appropriate tax agencies.",
             "locator": "data and privacy statements",
-            "retrievedAt": "2026-10-16T23:52:13.643Z"
+            "retrievedAt": "2026-10-17T22:24:22.650Z"
           },
           {
             "url": "https://account-it.net/blog/tax-deductions-for-educators",
             "excerpt": "We care about the protection of your data.",
             "locator": "data and privacy statements",
-            "retrievedAt": "2026-10-16T23:52:16.740Z"
+            "retrievedAt": "2026-10-17T22:24:27.760Z"
           },
           {
             "url": "https://account-it.net/blog/tax-deductions-for-firefighters",
             "excerpt": "We care about the protection of your data.",
             "locator": "data and privacy statements",
-            "retrievedAt": "2026-10-16T23:52:16.948Z"
+            "retrievedAt": "2026-10-17T22:24:28.514Z"
           },
           {
             "url": "https://account-it.net/blog/tax-deductions-for-peace-officers",
             "excerpt": "We care about the protection of your data.",
             "locator": "data and privacy statements",
-            "retrievedAt": "2026-10-16T23:52:17.325Z"
+            "retrievedAt": "2026-10-17T22:24:29.224Z"
           },
           {
             "url": "https://account-it.net/blog/tax-deductions-for-business-professionals",
             "excerpt": "We care about the protection of your data.",
             "locator": "data and privacy statements",
-            "retrievedAt": "2026-10-16T23:52:17.554Z"
+            "retrievedAt": "2026-10-17T22:24:29.832Z"
           },
           {
             "url": "https://account-it.net/blog/tax-deductions-for-medical-professionals",
             "excerpt": "We care about the protection of your data.",
             "locator": "data and privacy statements",
-            "retrievedAt": "2026-10-16T23:52:17.864Z"
+            "retrievedAt": "2026-10-17T22:24:30.558Z"
           }
         ],
         "reviewed": false
@@ -1969,7 +1969,7 @@
   },
   "people": [
     {
-      "id": "9c3ee648-c2c0-4928-a61e-b5fa6b18fa70",
+      "id": "60899c64-d9f3-4498-b0c0-9d961b80c96d",
       "fields": {
         "name": {
           "value": "Doug Cohen",
@@ -1979,7 +1979,7 @@
               "url": "https://account-it.net/firm-background",
               "excerpt": "Doug Cohen",
               "locator": "name stated in page text",
-              "retrievedAt": "2026-10-16T23:52:05.238Z"
+              "retrievedAt": "2026-10-17T22:24:06.043Z"
             }
           ],
           "reviewed": false
@@ -1998,7 +1998,7 @@
               "url": "https://account-it.net/firm-background",
               "excerpt": "Founder",
               "locator": "role stated in page text",
-              "retrievedAt": "2026-10-16T23:52:05.238Z"
+              "retrievedAt": "2026-10-17T22:24:06.043Z"
             }
           ],
           "reviewed": false
@@ -2020,7 +2020,7 @@
   ],
   "offerings": [
     {
-      "id": "cb685318-57f3-462c-b2c1-7c4bd3c3966a",
+      "id": "bee66479-7616-4191-a89b-73218813aee1",
       "fields": {
         "name": {
           "value": "Florida IRS Tax Problems",
@@ -2030,7 +2030,7 @@
               "url": "https://account-it.net/services/irs-tax-problems",
               "excerpt": "Florida IRS Tax Problems",
               "locator": "JSON-LD offering.name",
-              "retrievedAt": "2026-10-16T23:52:09.664Z"
+              "retrievedAt": "2026-10-17T22:24:16.401Z"
             }
           ],
           "reviewed": false
@@ -2043,7 +2043,7 @@
               "url": "https://account-it.net/services/irs-tax-problems",
               "excerpt": "Service",
               "locator": "JSON-LD @type",
-              "retrievedAt": "2026-10-16T23:52:09.664Z"
+              "retrievedAt": "2026-10-17T22:24:16.401Z"
             }
           ],
           "reviewed": false
@@ -2062,7 +2062,7 @@
               "url": "https://account-it.net/services/irs-tax-problems",
               "excerpt": "Is the IRS causing you stress? Account-it Consulting Services, LLC offers assistance with a wide variety of IRS tax problems. Learn how we can help you.",
               "locator": "JSON-LD offering.description",
-              "retrievedAt": "2026-10-16T23:52:09.664Z"
+              "retrievedAt": "2026-10-17T22:24:16.401Z"
             }
           ],
           "reviewed": false
@@ -2100,7 +2100,7 @@
       }
     },
     {
-      "id": "80910960-b7f8-42d2-9035-862114a66781",
+      "id": "3e36d704-2e76-4425-9f41-51850a293e7f",
       "fields": {
         "name": {
           "value": "Tax Preparation & Planning Services - Florida",
@@ -2110,7 +2110,7 @@
               "url": "https://account-it.net/services/tax-preparation-planning",
               "excerpt": "Tax Preparation & Planning Services - Florida",
               "locator": "JSON-LD offering.name",
-              "retrievedAt": "2026-10-16T23:52:09.984Z"
+              "retrievedAt": "2026-10-17T22:24:17.037Z"
             }
           ],
           "reviewed": false
@@ -2123,7 +2123,7 @@
               "url": "https://account-it.net/services/tax-preparation-planning",
               "excerpt": "Service",
               "locator": "JSON-LD @type",
-              "retrievedAt": "2026-10-16T23:52:09.984Z"
+              "retrievedAt": "2026-10-17T22:24:17.037Z"
             }
           ],
           "reviewed": false
@@ -2142,7 +2142,7 @@
               "url": "https://account-it.net/services/tax-preparation-planning",
               "excerpt": "Florida-based Account-it Consulting Services, LLC offers expert tax preparation and planning services for individuals and business owners. Learn more.",
               "locator": "JSON-LD offering.description",
-              "retrievedAt": "2026-10-16T23:52:09.984Z"
+              "retrievedAt": "2026-10-17T22:24:17.037Z"
             }
           ],
           "reviewed": false
@@ -2180,7 +2180,7 @@
       }
     },
     {
-      "id": "554045c2-4d8a-4028-816f-5c1790ff63bb",
+      "id": "728665ee-f24f-496b-9f93-be9d025a039f",
       "fields": {
         "name": {
           "value": "Florida Payroll Services",
@@ -2190,7 +2190,7 @@
               "url": "https://account-it.net/services/payroll",
               "excerpt": "Florida Payroll Services",
               "locator": "JSON-LD offering.name",
-              "retrievedAt": "2026-10-16T23:52:13.644Z"
+              "retrievedAt": "2026-10-17T22:24:22.652Z"
             }
           ],
           "reviewed": false
@@ -2203,7 +2203,7 @@
               "url": "https://account-it.net/services/payroll",
               "excerpt": "Service",
               "locator": "JSON-LD @type",
-              "retrievedAt": "2026-10-16T23:52:13.644Z"
+              "retrievedAt": "2026-10-17T22:24:22.652Z"
             }
           ],
           "reviewed": false
@@ -2222,7 +2222,7 @@
               "url": "https://account-it.net/services/payroll",
               "excerpt": "At Account-it Consulting Services, LLC, we offer payroll services for Boynton Beach businesses in all industries. Contact us at (954) 592-8630 today.",
               "locator": "JSON-LD offering.description",
-              "retrievedAt": "2026-10-16T23:52:13.644Z"
+              "retrievedAt": "2026-10-17T22:24:22.652Z"
             }
           ],
           "reviewed": false
@@ -2260,7 +2260,7 @@
       }
     },
     {
-      "id": "d96e12c0-8294-473b-b720-74ce3f6bfe58",
+      "id": "c73ea595-300f-4f44-bc9e-789a001bcd8e",
       "fields": {
         "name": {
           "value": "Accounting & Bookkeeping Services",
@@ -2270,7 +2270,7 @@
               "url": "https://account-it.net/services/accounting-bookkeeping",
               "excerpt": "Accounting & Bookkeeping Services",
               "locator": "JSON-LD offering.name",
-              "retrievedAt": "2026-10-16T23:52:13.931Z"
+              "retrievedAt": "2026-10-17T22:24:23.396Z"
             }
           ],
           "reviewed": false
@@ -2283,7 +2283,7 @@
               "url": "https://account-it.net/services/accounting-bookkeeping",
               "excerpt": "Service",
               "locator": "JSON-LD @type",
-              "retrievedAt": "2026-10-16T23:52:13.931Z"
+              "retrievedAt": "2026-10-17T22:24:23.396Z"
             }
           ],
           "reviewed": false
@@ -2302,7 +2302,7 @@
               "url": "https://account-it.net/services/accounting-bookkeeping",
               "excerpt": "Account-it Consulting Services, LLC proudly provides accounting and bookkeeping services for business owners in the Boynton Beach area. We serve all industries.",
               "locator": "JSON-LD offering.description",
-              "retrievedAt": "2026-10-16T23:52:13.931Z"
+              "retrievedAt": "2026-10-17T22:24:23.396Z"
             }
           ],
           "reviewed": false
@@ -2340,7 +2340,7 @@
       }
     },
     {
-      "id": "39cb4e75-729a-4a8e-866a-39bdecfbb41c",
+      "id": "56ed11da-82ef-46c3-b6ca-0076e8c54bb5",
       "fields": {
         "name": {
           "value": "QuickBooks Services",
@@ -2350,7 +2350,7 @@
               "url": "https://account-it.net/services/quickbooks",
               "excerpt": "QuickBooks Services",
               "locator": "JSON-LD offering.name",
-              "retrievedAt": "2026-10-16T23:52:14.232Z"
+              "retrievedAt": "2026-10-17T22:24:23.919Z"
             }
           ],
           "reviewed": false
@@ -2363,7 +2363,7 @@
               "url": "https://account-it.net/services/quickbooks",
               "excerpt": "Service",
               "locator": "JSON-LD @type",
-              "retrievedAt": "2026-10-16T23:52:14.232Z"
+              "retrievedAt": "2026-10-17T22:24:23.919Z"
             }
           ],
           "reviewed": false
@@ -2382,7 +2382,7 @@
               "url": "https://account-it.net/services/quickbooks",
               "excerpt": "Account-it Consulting Services, LLC founder, Doug Cohen, is a QuickBooks Certified Pro Advisor. He looks forward to assisting with all of your QBO needs.",
               "locator": "JSON-LD offering.description",
-              "retrievedAt": "2026-10-16T23:52:14.232Z"
+              "retrievedAt": "2026-10-17T22:24:23.919Z"
             }
           ],
           "reviewed": false
@@ -2429,7 +2429,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "clwJRRQej2K03QQ8MvrKvwmatQZNi7LWRHhtoKFr",
+          "csrf-token": "QM7YVSDz6sq6gpewEn9x1LJViAkl6bjIlDqxXXuO",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -2467,7 +2467,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "KeOzV5IKEk2QpxFG6w2AF13n3SPva7az1XAbyIyd",
+          "csrf-token": "ucudpyyu93ZIQ70ggQOlBiNrQs1jSgHUQMqu4AF1",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -2502,7 +2502,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "kOccAgZj6xbcNP08VwWLzKMdjNDzclIZTrwokxoX",
+          "csrf-token": "i37gT8KVD1KmGFGjj6JfijDCeLPAHWfWECghjkSa",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -2536,7 +2536,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "zZ2LEEmmdx5xhHVtF4UT9i56Hjfm9ybfALiiibCP",
+          "csrf-token": "RYNbcZctZDEdza4uExfzCzuw01VyAbFNOO79oqKj",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -2569,7 +2569,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "KBqtWSNCdvgvavFF5orqSbzvbZgBUi0YARBUgAe9",
+          "csrf-token": "YgjHbEdd0kpGjfvMECdltM5tQr9M8RkEAr4PnLKR",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -2602,7 +2602,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "e2L4I0cNR42RUvvqCqZHAzdUu1Z6DzGAeoIEKJSt",
+          "csrf-token": "qLN3p7RanYLFLH2tiM8uEV9ZuNnepMF0pdnte5cD",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -2636,7 +2636,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "DlnphdaCibtjaxLDhTwkuTvvABHIAZex040qnFfn",
+          "csrf-token": "pMoMrvgMFdPu9EHq6ITzu7gbV68nSb2YNScvUi6t",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -2670,7 +2670,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "RyIuf3FVANMNk0AuLKGss0bXA5hhIloPLlfbvEyq",
+          "csrf-token": "MBLTB105dqsmH6AOwi63j4HhoWlnPNJ6p3PbR3bi",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -2704,7 +2704,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "eUcQdyaenXwVuOyR28oj2gvmHNVnb73p2AIjjGuT",
+          "csrf-token": "UZUEQIyFnAj9LB3823aytQXmRfg60VxwYbUv1ODG",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -2738,7 +2738,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "Y4oX7JR7R4ZrqkFFwu59NKOpgI44OKbs4EHREsw0",
+          "csrf-token": "oBMyq7x7CLxyCXHWLMkR4X8nkoZJxw8qOhKn74Zj",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -2772,7 +2772,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "AX3qgfUBBUbVs3NkHQTsynPH59cIqmk7GgX8vS49",
+          "csrf-token": "IvaL2PHnUzf2SjTD97sOfhuJgJYfi6dhdifBzVi7",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -2806,7 +2806,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "CMLyujwAiGeuDHsMYqIWuXtmiqQb5ihnfI3oACGT",
+          "csrf-token": "MMzX1iEVgXvRQroEYWmXtSOfcOvpOeOk5BxGNzlB",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -2840,7 +2840,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "dycMKXCuF7NN64djFK1j60YKXfD9vMYcmU99sUrN",
+          "csrf-token": "3hcnUurTxfLBGre1PTkVVFlGWHghaAMYnmgcjpfk",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -2874,7 +2874,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "gS1F7FzwcwTtN0zPNIv1642dsIeA6F9e5Bz4JOct",
+          "csrf-token": "OtOjGKrvmSjUkhMEqIFPAdyaoVELGarKbaBvUFGW",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -2908,7 +2908,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "l3vQzYYISWPupIGqLWTvpO71UB2KrlzqThSOdbSR",
+          "csrf-token": "DovbJt4jqgyiKzIDzWon4RHtef8Qy39fzvWNHvZH",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -2942,7 +2942,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "ar1TvLQynRO863lRjfDiZCyecYIsFu8jWXo2VG3G",
+          "csrf-token": "uoUrKWNXigAb1EMk8bYt4KI6sCwoSHBtbw4IWPP2",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -2976,7 +2976,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "UNykagWliQ5W4QXqMfNTL1OIrbSrhYGVfg1Pu2Ox",
+          "csrf-token": "Sld3HNM37tX3XiuBiXliuUJfpvE8Q9Nz6wzWky4T",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -3010,7 +3010,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "07GefIYK1djCpdcsvSu2Hdbex6WeB5gGeYKeyEV9",
+          "csrf-token": "1AsNWFzdFCnZcAvsIyAMdwD9qlj9kOkFIJnSb22F",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -3044,7 +3044,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "q5LUUZZFmZfXWz6jNUDce2OWjDXKYM2galtcglv4",
+          "csrf-token": "4ZLANxD7AqMflNmgieBnzRVvXRvOpDbkZoBO5jkT",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -3078,7 +3078,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "xSxAqodEBB0JMEvt39Nm7z9KCWzOo28LHbrBJ53K",
+          "csrf-token": "aGDp6hpkSjcGeJj14qw4hEGHzOkoMbN4yy9qqAzb",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -3112,7 +3112,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "MwLfZbOsPq9ANmNgyEug3b12PLHLJ3x1LTLvZJPp",
+          "csrf-token": "MtmpeaX2DDMsSqrvAKVvNTsLVXNsCBbqXC9iN9eC",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -3146,7 +3146,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "6IS2s0hBiynJgt0lY6IO3qIFwvhzJ33hBZVihW7H",
+          "csrf-token": "vlrkNmUTFhj9x7TGAOBwN7sgd58Cwobgu1dVTMdn",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -3180,7 +3180,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "znQkQoW8Fpslr7ALDA4xOd5nKxEqwraQJv1Ny681",
+          "csrf-token": "88lU8V46YKjHXSclRovAUOQugbZHbsGLIkIouCoV",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -3214,7 +3214,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "JkG9u0lwua2NMQ6UYbwU6OIEFoc4DdWWRAV2BCow",
+          "csrf-token": "0BISAxzwLUyYwHFfFuzd8xPXh5wMTza26tI8MW5Y",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -3247,7 +3247,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "LpbtVyzAGNHrRbyGog2jWl8B0VOwAuvnSXYVyovt",
+          "csrf-token": "vA7w4CM51jSf800d3wvVtbcaSYKcofV5IyiyPHwt",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -3280,7 +3280,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "8kFPKVG31TCo3vjRqxPfBajPJihom7rk3rL1xB8d",
+          "csrf-token": "EYfAoNHIlFI36gaymlpgkKOmiGAcr7Y4TcxHr0U8",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -3314,7 +3314,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "oQRf6qPHMCpXSDSxI6fNWlGlYU0P5kUaelA81qvN",
+          "csrf-token": "LHLAEVZXUYf67CPRwj7jDdkBfo5tCO11ABMittPP",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -3348,7 +3348,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "6WrQTLr1Cf1WlaGpDFewappsy73XtSyuBwOA8fUg",
+          "csrf-token": "ChAKJBGM9htEEahuMivQ3H7l7JFLZ2B4dLE8zrzd",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -3382,7 +3382,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "X2JMgcw1kXhCfvA07KiZpo6igKH6YSV6LLQtHW7L",
+          "csrf-token": "TRBqSY1P9ke0Keu4Da8IPpz37L8yspZQP8uFf6TE",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -3416,7 +3416,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "ZQgtBUGmjerMwOp4ozCA7BQCVTaYHXjn35CLBIg7",
+          "csrf-token": "6Q9kIpP7DD1E1pWLVXy3LY7PMUrTIrjB0nnQ3aNT",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -3450,7 +3450,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "YVRHFMdEXMBl2dEPhn0FvxHd403ygoqB8gi5kXKo",
+          "csrf-token": "gE3kZKxkFlobCJhiivtQ41ssByA8BMNjYNjpSpxO",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -3484,7 +3484,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "CDRNcGftAKJC50afdZ44apWfIM9YcLSU90f7WDgh",
+          "csrf-token": "cRzyIJGnMSFXCTq7lVn2YxG8nBK0Gh29KM4WldOW",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -3518,7 +3518,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "UbzhcjmUW3bdEhCTlhptzTEO1dQ06jwNZaPvruQz",
+          "csrf-token": "052MIJi39guRsVqaSuhSXHLNtKXGr7vMtvzUlsm4",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -3552,7 +3552,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "hgTSiFLP8u5UUZYCt2H9n9IVCUINez42p2IxyVFW",
+          "csrf-token": "BboGbIDfBTVxRD0MTcVWo7K0gRol5nXkX2qqQRBW",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -3586,7 +3586,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "xrGfq6tLkAnvNApaB8f7OegBm6zfmS65xjLP7zXH",
+          "csrf-token": "By8VWJmtAjW2Q9NkU04niuVIcmw7PyQtDvI82Yko",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -3620,7 +3620,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "U1Dl8ZMP4wi20sPxparvI3fVABPBm4K53DEcs3n2",
+          "csrf-token": "ZzzIwLci9Flyj59I8kIQwmS1xyzS3Zw9JGApCYm5",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -3654,7 +3654,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "ZlTpW7L6cTEwGMwWMjmWPHNR0pndAkgipIv9tvJG",
+          "csrf-token": "1UKiYS1ioodOEhn59mu4qRDqvDMAYc5HD6PDPPp1",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -3688,7 +3688,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "4jDLKnJFb7japaKHLmwfxK7K24gZ8zjKB2zIR9sc",
+          "csrf-token": "G68wfXUiKH9biSVywZ6vF3DDy6ksJpyAZULCCjy1",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -3722,7 +3722,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "PtbwmjkpNNxk4IgRnj0vaXH5iahgZaf8kcRNx1ZE",
+          "csrf-token": "viLpbgmf7NrxTnKDM3FJOPxubbVB95DGlVfEHZdN",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -3756,7 +3756,7 @@
         "status": "success",
         "meta": {
           "viewport": "width=device-width, initial-scale=1",
-          "csrf-token": "s92BPUeGc33EHtfADeDaHAwCqblsaQLOcgvRwsbJ",
+          "csrf-token": "C9CZYkGOnLbgIQ1YNsJdUzQvQZec2ilwTMbNiDfU",
           "twitter:card": "summary",
           "og:type": "website",
           "twitter:type": "website",
@@ -3791,6 +3791,6 @@
       "This is a bounded crawl, not a complete copy of the website. Additional pages may contain missing information.",
       "Inferred fields need review. Missing information is left blank; linked stylesheets and JavaScript-rendered content are not analyzed."
     ],
-    "completedAt": "2026-10-16T23:52:20.598Z"
+    "completedAt": "2026-10-17T22:24:36.507Z"
   }
 }
